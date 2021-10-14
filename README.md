@@ -4,6 +4,6 @@ A simulation operations dashboard and management application for the Fairfax Cou
 ## Requirements
 Python 3.9.5
 
-psycopg 3.0
+Psycopg 2.9.1
 
-PostgreSQL 14
+PostgreSQL 13.4

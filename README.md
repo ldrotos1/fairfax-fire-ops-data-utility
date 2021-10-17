@@ -3,4 +3,5 @@ This project is a data management utiliy for the Fairfax County Fire and Rescue 
 
 ## Requirements
 Java 17
+
 PostgreSQL 13.4

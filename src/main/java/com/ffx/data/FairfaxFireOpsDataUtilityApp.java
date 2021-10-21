@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+import com.ffx.data.models.DatabaseConnectionProps;
 import com.ffx.data.services.DatabaseService;
 
 @SpringBootApplication
@@ -15,17 +15,9 @@ public class FairfaxFireOpsDataUtilityApp  implements CommandLineRunner {
 	@Autowired
 	private DatabaseService databaseService;
 	
-	private static List<String> validOptions = List.of(
-			"-CreateDatabase",
-			"-DatabaseConnection",
-			"-Help"
-			);
-	
 	private static List<String> optionDescriptions = List.of(
-			"  -CreateDatabase       Creates and populates the database",
-			"  -DatabaseConnection   View the database connection info",
-			"  -Help                 Provides a list of options");
-	
+			" -BuildDatabase [host][post][dbname][user][password]    Builds and populates the database",
+			" -Help                                                  Provides a list of options");
 	
 	public static void main(String[] args) {
 		SpringApplication.run(FairfaxFireOpsDataUtilityApp.class, args);
@@ -34,17 +26,16 @@ public class FairfaxFireOpsDataUtilityApp  implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("---- Fairfax Country Fire/Rescue Operations Data Utility ----\n");
-		if (args.length == 1 && validOptions.contains(args[0])) {
-			
-			if (args[0].equalsIgnoreCase("-CreateDatabase")) {
-				databaseService.createDatabase();
-			}
-			else if (args[0].equalsIgnoreCase("-DatabaseConnection")) {
-				 databaseService.viewDatabaseConnection();
-			}
-			else {
-				showApplicationHelp();
-			}
+		
+		if (args.length == 6 && args[0].equalsIgnoreCase("-BuildDatabase")) {
+			databaseService.buildDatabase(
+				DatabaseConnectionProps.builder()
+					.host(args[1])
+					.port(args[2])
+					.databaseName(args[3])
+					.user(args[4])
+					.password(args[5])
+					.build());
 		}
 		else {
 			showApplicationHelp();

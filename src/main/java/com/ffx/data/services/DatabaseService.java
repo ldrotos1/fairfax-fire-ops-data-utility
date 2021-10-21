@@ -1,26 +1,25 @@
 package com.ffx.data.services;
 
-import com.ffx.data.models.RawStationRecord;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
 
-import com.ffx.data.reader.CsvDataReader;
+import com.ffx.data.models.DatabaseConnectionProps;
+import com.ffx.data.utilities.DatabaseAccessHelper;
 
-import java.util.List;
 
 @Service
 public class DatabaseService {
 
 	@Autowired
-	private CsvDataReader csvDataReader;
+	private DatabaseAccessHelper databaseAccessHelper;
 	
-	public void viewDatabaseConnection() {
-		
-	}
-	
-	public void createDatabase() {
-
-		List<RawStationRecord> rawStations = csvDataReader.parseStations();
-		rawStations.toString();
+	/**
+	 * Builds the PostgresSQL database
+	 * 
+	 * @param connProps The database connection properties
+	 */
+	public void buildDatabase(DatabaseConnectionProps connProps) {
+		JdbcTemplate jdbcTemplate = databaseAccessHelper.getJdbcTemplate(connProps);
 	}
 }

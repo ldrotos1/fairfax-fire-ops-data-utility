@@ -1,5 +1,7 @@
 package com.ffx.data.services;
 
+import java.sql.SQLException;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
@@ -21,5 +23,10 @@ public class DatabaseService {
 	 */
 	public void buildDatabase(DatabaseConnectionProps connProps) {
 		JdbcTemplate jdbcTemplate = databaseAccessHelper.getJdbcTemplate(connProps);
+		try {
+			jdbcTemplate.getDataSource().getConnection().close();
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
 	}
 }

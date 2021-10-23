@@ -5,3 +5,5 @@ This project is a data management utiliy for the Fairfax County Fire and Rescue 
 Java 11
 
 PostgreSQL 13.4
+
+PostGIS 3.1

@@ -63,6 +63,9 @@ class CsvDataReaderTest {
 		assertEquals(areaDescription, station.getAreaDescription());
 		assertEquals(fireHazardDescription, station.getFireHazardDescription());
 		assertEquals(nonFireHazardDescription, station.getNonFireHazardDescription());
+		assertNotNull(station.getStationInsertSql());
+		assertNotNull(station.getFaclityInsertSql());
+		assertNotNull(station.getAddressInsertSql());
 	}
 }
 

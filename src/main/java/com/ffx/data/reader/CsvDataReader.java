@@ -5,6 +5,7 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.UUID;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -22,7 +23,7 @@ public class CsvDataReader {
 	
 	@Autowired
 	private DataFileAccessHelper dataFileAccessHelp;
-	private final String CSV_DELIMITER = "|"; 
+	private final String CSV_DELIMITER = "\\|"; 
 
 	/**
 	 * Returns a list of raw station entities that are extracted
@@ -37,6 +38,9 @@ public class CsvDataReader {
 		stationData.stream().forEach(station -> {
 			stationEntities.add(
 				RawStationRecord.builder()
+					.stationId(UUID.randomUUID().toString())
+					.facilityId(UUID.randomUUID().toString())
+					.addressId(UUID.randomUUID().toString())
 					.stationNumber(station.get(0))
 					.departmentName(station.get(1))
 					.battalion(station.get(2))
@@ -48,8 +52,8 @@ public class CsvDataReader {
 					.state(station.get(8))
 					.zipCode(station.get(9))
 					.phoneNumber(station.get(10))
-					.fireBoxes(station.get(11))
-					.volunteer(station.get(12))
+					.fireBoxes(station.get(11).toString())
+					.volunteer(Boolean.parseBoolean(station.get(12).toString()))
 					.density(station.get(13))
 					.areaDescription(station.get(14))
 					.fireHazardDescription(station.get(15))
@@ -71,9 +75,15 @@ public class CsvDataReader {
 		List<List<String>> parsedData = new ArrayList<List<String>>();
 		try (BufferedReader br = new BufferedReader(fileReader)) {
 		    String line;
+		    Boolean firstLine = true;
 		    while ((line = br.readLine()) != null) {
-		    	String[] lineSegments = line.split(CSV_DELIMITER);
-		    	parsedData.add(Arrays.asList(lineSegments));
+		    	if (firstLine) {
+		    		firstLine = false;
+		    	} 
+		    	else {
+			    	String[] lineSegments = line.split(CSV_DELIMITER);
+			    	parsedData.add(Arrays.asList(lineSegments));
+		    	}
 		    }
 		}
 		catch (Exception e) {

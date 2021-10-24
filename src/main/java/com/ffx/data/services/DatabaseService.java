@@ -9,12 +9,17 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
 
 import com.ffx.data.models.DatabaseConnectionProps;
+import com.ffx.data.models.RawStationRecord;
+import com.ffx.data.reader.CsvDataReader;
 import com.ffx.data.utilities.DatabaseAccessHelper;
 import com.ffx.data.utilities.DatabaseTablesSqlHelper;
 
 
 @Service
 public class DatabaseService {
+	
+	@Autowired
+	private CsvDataReader csvDataReader;
 
 	@Autowired
 	private DatabaseAccessHelper databaseAccessHelper;
@@ -32,6 +37,9 @@ public class DatabaseService {
 			// Gets the database connection
 			JdbcTemplate jdbcTemplate = databaseAccessHelper.getJdbcTemplate(connProps);
 			
+			// Parses stations CSV
+			List<RawStationRecord> stations = csvDataReader.parseStations();
+			
 			// Creates the tables
 			System.out.println("Building tables");
 			databaseTableSqlHelper.getTables().stream().forEach(table -> {
@@ -40,9 +48,17 @@ public class DatabaseService {
 				System.out.println("Table created - " + table);
 			});
 			
+			// Populates the tables
+			System.out.println("Populating station data");
+			stations.stream().forEach(station -> {
+				jdbcTemplate.execute(station.getAddressInsertSql());
+				jdbcTemplate.execute(station.getFaclityInsertSql());
+				jdbcTemplate.execute(station.getStationInsertSql());
+			});
+			
 			// Closes the database connection
 			jdbcTemplate.getDataSource().getConnection().close();
-			System.out.println("Database built completed");
+			System.out.println("Database build completed");
 		} 
 		catch (SQLException e) {
 			e.printStackTrace();

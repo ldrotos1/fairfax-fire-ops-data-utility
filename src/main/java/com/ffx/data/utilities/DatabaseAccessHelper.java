@@ -1,8 +1,5 @@
 package com.ffx.data.utilities;
 
-import java.net.UnknownHostException;
-import java.sql.SQLException;
-
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
 

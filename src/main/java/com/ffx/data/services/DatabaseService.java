@@ -1,7 +1,6 @@
 package com.ffx.data.services;
 
 import java.sql.SQLException;
-import java.util.Arrays;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -48,7 +47,7 @@ public class DatabaseService {
 				System.out.println("Table created - " + table);
 			});
 			
-			// Populates the tables
+			// Populates the station tables
 			System.out.println("Populating station data");
 			stations.stream().forEach(station -> {
 				jdbcTemplate.execute(station.getAddressInsertSql());

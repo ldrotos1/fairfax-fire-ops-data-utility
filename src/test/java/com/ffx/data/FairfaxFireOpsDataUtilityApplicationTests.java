@@ -9,5 +9,4 @@ class FairfaxFireOpsDataUtilityApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }

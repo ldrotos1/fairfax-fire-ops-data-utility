@@ -6,10 +6,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
+
 import com.ffx.data.models.DatabaseConnectionProps;
 import com.ffx.data.services.DatabaseService;
 
-@SpringBootApplication
+@SpringBootApplication(exclude={DataSourceAutoConfiguration.class})
 public class FairfaxFireOpsDataUtilityApp  implements CommandLineRunner {
 	
 	@Autowired

@@ -1,7 +1,7 @@
 package com.ffx.data.utilities;
 
-import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
@@ -18,24 +18,24 @@ public class DataFileAccessHelper {
 	private static final String stationCsvFile = "data/ffx-station-data.csv";
 	
 	/**
-	 * Gets a file reader for the stations CSV file
+	 * Gets a input stream reader for the stations CSV file
 	 * 
-	 * @return The stations file reader
+	 * @return The stations input stream reader
 	 */
-	public FileReader getStationFile() {
+	public InputStreamReader getStationFile() {
 		return getFileReader(new ClassPathResource(stationCsvFile));
 	}
 	
 	/**
-	 * Creates a file reader for the provided file resource 
+	 * Creates a input stream reader for the provided file resource 
 	 * 
 	 * @param fileResource
-	 * @return The file reader
+	 * @return The input stream reader
 	 */
-	private FileReader getFileReader(Resource fileResource) {
-		FileReader fileReader = null;
+	private InputStreamReader getFileReader(Resource fileResource) {
+		InputStreamReader fileReader = null;
 		try {
-			fileReader = new FileReader(fileResource.getFile().getAbsolutePath());
+			fileReader = new InputStreamReader(fileResource.getInputStream());
 		} 
 		catch (IOException e) {
 			e.printStackTrace();

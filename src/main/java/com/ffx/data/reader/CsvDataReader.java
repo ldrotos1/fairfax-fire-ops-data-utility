@@ -1,7 +1,7 @@
 package com.ffx.data.reader;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -67,13 +67,13 @@ public class CsvDataReader {
 	 * Takes in a FileReader of a CSV file and parses the data into a list 
 	 * of rows that each contain a list of the row's parsed column data
 	 * 
-	 * @param fileReader
+	 * @param streamReader
 	 * @return The parsed CSV file
 	 */
-	private List<List<String>> parseCsvLines(FileReader fileReader) {
+	private List<List<String>> parseCsvLines(InputStreamReader streamReader) {
 		
 		List<List<String>> parsedData = new ArrayList<List<String>>();
-		try (BufferedReader br = new BufferedReader(fileReader)) {
+		try (BufferedReader br = new BufferedReader(streamReader)) {
 		    String line;
 		    Boolean firstLine = true;
 		    while ((line = br.readLine()) != null) {

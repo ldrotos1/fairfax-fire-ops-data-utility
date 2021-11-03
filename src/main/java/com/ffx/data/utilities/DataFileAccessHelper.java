@@ -16,6 +16,8 @@ import org.springframework.stereotype.Component;
 public class DataFileAccessHelper {
 
 	private static final String stationCsvFile = "data/ffx-station-data.csv";
+	private static final String apparatusTypeCsvFile = "data/ffx-apparatus_type_data.csv";
+	private static final String apparatusCsvFile = "data/ffx-apparatus-data.csv";
 	
 	/**
 	 * Gets a input stream reader for the stations CSV file
@@ -25,6 +27,24 @@ public class DataFileAccessHelper {
 	public InputStreamReader getStationFile() {
 		return getFileReader(new ClassPathResource(stationCsvFile));
 	}
+	
+	/**
+	 * Gets a input stream reader for the apparatus types CSV file
+	 * 
+	 * @return The apparatus types input stream reader
+	 */
+	public InputStreamReader getApparatusTypesFile() {
+		return getFileReader(new ClassPathResource(apparatusTypeCsvFile));
+	}
+	
+	/**
+	 * Gets a input stream reader for the apparatus CSV file
+	 * 
+	 * @return The apparatus input stream reader
+	 */
+	public InputStreamReader getApparatusFile() {
+		return getFileReader(new ClassPathResource(apparatusCsvFile));
+	} 
 	
 	/**
 	 * Creates a input stream reader for the provided file resource 

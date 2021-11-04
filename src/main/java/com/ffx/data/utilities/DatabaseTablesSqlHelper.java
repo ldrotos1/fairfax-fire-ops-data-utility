@@ -8,7 +8,12 @@ import org.springframework.stereotype.Component;
 @Component
 public class DatabaseTablesSqlHelper {
 	
-	private List<String> tables = Arrays.asList("address", "facility", "station");
+	private List<String> tables = Arrays.asList(
+			"address", 
+			"facility", 
+			"station", 
+			"apparatus_type",
+			"apparatus");
 	
 	public List<String> getTables() {
 		return tables;
@@ -26,6 +31,13 @@ public class DatabaseTablesSqlHelper {
 		else if (tableName.equals("address")) {
 			return getAddressTableSql();
 		}
+		else if (tableName.equals("apparatus_type")) {
+			return getApparatusTypeTableSql();
+		}
+		else if (tableName.equals("apparatus")) {
+			return getApparatusTableSql();
+		}
+		
 		return sql;
 	}
 	
@@ -75,7 +87,54 @@ public class DatabaseTablesSqlHelper {
 				.concat("city character varying(150), ")
 				.concat("state character varying(15), ")
 				.concat("zip_code character varying(5), ")
-				.concat("CONSTRAINT address_pkey PRIMARY KEY (id)); "
-				.concat("CREATE INDEX idx_address_id ON address(id);"));
+				.concat("CONSTRAINT address_pkey PRIMARY KEY (id)); ")
+				.concat("CREATE INDEX idx_address_id ON address(id);");
+	}
+	
+	private String getApparatusTypeTableSql() {
+		return "CREATE TABLE apparatus_type("
+				.concat("id character varying(36) NOT NULL, ")
+				.concat("type_name character varying(50), ")
+				.concat("type_category character varying(50), ")
+				.concat("type_image character varying(50), ")
+				.concat("max_staff_count int , ")
+				.concat("min_staff_count int, ")
+				.concat("min_ff_staff_count int, ")
+				.concat("min_tech_staff_count int, ")
+				.concat("min_command_staff_count int, ")
+				.concat("is_paramedic_required boolean NOT NULL, ")
+				.concat("is_cross_staffed boolean NOT NULL, ")
+				.concat("is_volunteer_staffed boolean NOT NULL, ")
+				.concat("CONSTRAINT app_type_pkey PRIMARY KEY (id)); ")
+				.concat("CREATE INDEX idx_app_type_id ON apparatus_type(id);");
+	}
+	
+	private String getApparatusTableSql() {
+		return "CREATE TABLE apparatus("
+				.concat("id character varying(36) NOT NULL, ")
+				.concat("unit_designator character varying(8), ")
+				.concat("department character varying(50), ")
+				.concat("facility_id character varying(36) NOT NULL, ")
+				.concat("apparatus_type_id character varying(36) NOT NULL, ")
+				.concat("truck_type character varying(15), ")
+				.concat("rescue_type character varying(15), ")
+				.concat("has_foam_cell boolean NOT NULL, ")
+				.concat("is_reserve boolean NOT NULL, ")
+				.concat("in_service boolean NOT NULL, ")
+				.concat("year character varying(4), ")
+				.concat("make character varying(50), ")
+				.concat("model character varying(50), ")
+				.concat("CONSTRAINT app_pkey PRIMARY KEY (id), ")
+				.concat("CONSTRAINT app_type_fk FOREIGN KEY (apparatus_type_id) ")
+				.concat("REFERENCES apparatus_type(id) ")
+				.concat("ON DELETE NO ACTION ")
+				.concat("ON UPDATE NO ACTION, ")
+				.concat("CONSTRAINT fac_fk FOREIGN KEY (facility_id) ")
+				.concat("REFERENCES facility(id) ")
+				.concat("ON DELETE NO ACTION ")
+				.concat("ON UPDATE NO ACTION); ")
+				.concat("CREATE INDEX idx_app_id ON apparatus(id); ")
+				.concat("CREATE INDEX idx_fac_id ON apparatus(facility_id); ")
+				.concat("CREATE INDEX idx_app_app_type_id ON apparatus(apparatus_type_id); ");
 	}
 }

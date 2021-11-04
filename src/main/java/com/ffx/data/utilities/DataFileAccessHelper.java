@@ -16,7 +16,7 @@ import org.springframework.stereotype.Component;
 public class DataFileAccessHelper {
 
 	private static final String stationCsvFile = "data/ffx-station-data.csv";
-	private static final String apparatusTypeCsvFile = "data/ffx-apparatus_type_data.csv";
+	private static final String apparatusTypeCsvFile = "data/ffx-apparatus-type-data.csv";
 	private static final String apparatusCsvFile = "data/ffx-apparatus-data.csv";
 	
 	/**

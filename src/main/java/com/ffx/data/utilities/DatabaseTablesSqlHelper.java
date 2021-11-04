@@ -101,6 +101,7 @@ public class DatabaseTablesSqlHelper {
 				.concat("min_staff_count int, ")
 				.concat("min_ff_staff_count int, ")
 				.concat("min_tech_staff_count int, ")
+				.concat("min_officer_staff_count int, ")
 				.concat("min_command_staff_count int, ")
 				.concat("is_paramedic_required boolean NOT NULL, ")
 				.concat("is_cross_staffed boolean NOT NULL, ")

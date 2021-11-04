@@ -11,6 +11,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import com.ffx.data.utilities.DataFileAccessHelper;
+import com.ffx.data.models.RawApparatusTypeRecord;
 import com.ffx.data.models.RawStationRecord;
 
 /**
@@ -61,6 +62,37 @@ public class CsvDataReader {
 					.build());
 		});
 		return stationEntities;
+	}
+	
+	/**
+	 * Returns a list of raw apparatus types entities that are extracted
+	 * from the apparatus types CSV file resource
+	 * 
+	 * @return The list of raw apparatus types entities
+	 */
+	public List<RawApparatusTypeRecord> parseApparatusTypes() {
+		
+		List<List<String>> apparatusTypeData = parseCsvLines(dataFileAccessHelp.getApparatusTypesFile());
+		List<RawApparatusTypeRecord> apparatusTypeEntities = new ArrayList<RawApparatusTypeRecord>();
+		apparatusTypeData.stream().forEach(appType -> {
+			apparatusTypeEntities.add(
+					RawApparatusTypeRecord.builder()
+					.apparatusTypeId(UUID.randomUUID().toString())
+					.apparatusTypeName(appType.get(0))
+					.apparatusTypeCategory(appType.get(1))
+					.apparatusTypeImage(appType.get(2))
+					.maxStaffCount(Integer.parseInt(appType.get(3)))
+					.minStaffCount(Integer.parseInt(appType.get(4)))
+					.minFireFighterStaffCount(Integer.parseInt(appType.get(5)))
+					.minTechStaffCount(Integer.parseInt(appType.get(6)))
+					.minOfficerStaffCount(Integer.parseInt(appType.get(7)))
+					.minCommanderStaffCount(Integer.parseInt(appType.get(8)))
+					.isParamedicRequired(Boolean.parseBoolean(appType.get(9)))
+					.isCrossStaffed(Boolean.parseBoolean(appType.get(10)))
+					.isVolunteerStaffed(Boolean.parseBoolean(appType.get(11)))
+					.build());
+		});
+		return apparatusTypeEntities;
 	}
 	
 	/**

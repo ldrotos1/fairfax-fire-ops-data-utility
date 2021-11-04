@@ -8,6 +8,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
 
 import com.ffx.data.models.DatabaseConnectionProps;
+import com.ffx.data.models.RawApparatusTypeRecord;
 import com.ffx.data.models.RawStationRecord;
 import com.ffx.data.reader.CsvDataReader;
 import com.ffx.data.utilities.DatabaseAccessHelper;
@@ -36,8 +37,9 @@ public class DatabaseService {
 			// Gets the database connection
 			JdbcTemplate jdbcTemplate = databaseAccessHelper.getJdbcTemplate(connProps);
 			
-			// Parses stations CSV
+			// Parses CSV files
 			List<RawStationRecord> stations = csvDataReader.parseStations();
+			List<RawApparatusTypeRecord> apparatusTypes = csvDataReader.parseApparatusTypes();
 			
 			// Creates the tables
 			System.out.println("Building tables");
@@ -48,11 +50,17 @@ public class DatabaseService {
 			});
 			
 			// Populates the station tables
-			System.out.println("Populating station data");
+			System.out.println("Populating station table");
 			stations.stream().forEach(station -> {
 				jdbcTemplate.execute(station.getAddressInsertSql());
 				jdbcTemplate.execute(station.getFaclityInsertSql());
 				jdbcTemplate.execute(station.getStationInsertSql());
+			});
+			
+			// Populates the apparatus type table
+			System.out.println("Populating apparatus type table");
+			apparatusTypes.stream().forEach(appType -> {
+				jdbcTemplate.execute(appType.getAppTypeInsertSql());
 			});
 			
 			// Closes the database connection

@@ -1,215 +1,215 @@
 station|station_name|unit|type|truck_type|rescue type|is_reserved|image|year|make|model|ladder_type|ladder_length|max_pump_rate|wate_tank_capacity|foam_cell_capacity
-420|Gunston|FB420|Fire Boat|||0|boat|2020|Metal Shark|55 Defiant|||||
-410|Baileys Crossroads|A410|Ambulance|||1|ambulance|2016|Braun|Chief XL|||||
-419|Lorton|E419B|Engine|||1|engine|2008|E-One|Cyclone II Pumper|||750|1500|40
-409|Mount Vernon|E409|Engine|||0|engine|2017|E-One|Cyclone II Pumper|||750|1500|40
-408|Annandale|E408|Engine|||0|engine|2020|E-One|Cyclone Pumper|||690|1500|
-416|Clifton|E416|Engine|||0|engine|2020|E-One|Cyclone Pumper|||690|1500|
-441|Crosspointe|E441|Engine|||0|engine|2020|E-One|Cyclone Pumper|||690|1500|
-412|Great Falls|E412|Engine|||0|engine|2020|E-One|Cyclone Pumper|||690|1500|
-420|Gunston|E420|Engine|||0|engine|2020|E-One|Cyclone Pumper|||690|1500|
-417|Centreville|E417|Engine|||0|engine|2019|E-One|Cyclone Pumper|||750|1500|40
-413|Dunn Loring|E413|Engine|||0|engine|2019|E-One|Cyclone Pumper|||750|1500|40
-440|Fairfax Center|E440|Engine|||0|engine|2019|E-One|Cyclone X Pumper|||650|1500|40
-404|Herndon|E404|Engine|||0|engine|2019|E-One|Cyclone X Pumper|||650|1500|40
-418|Jefferson|E418|Engine|||0|engine|2019|E-One|Cyclone X Pumper|||650|1500|40
-429|Tysons Corner|E429|Engine|||0|engine|2019|E-One|Cyclone X Pumper|||650|1500|40
-423|West Annandale|E423|Engine|||0|engine|2019|E-One|Cyclone X Pumper|||690|1500|
-422|Springfield|T422|Truck|Straight||0|truck|2005|Pierce|Dash Aerial|rear-mount ladder|105|||
-422|Springfield|E422|Engine|||0|engine|2008|Pierce|Dash Pumper|||750|1500|
-417|Centreville|E417B|Engine|||1|engine|2008|Pierce|Dash Pumper|||750|1500|40
-405|Franconia|E405|Engine|||0|engine|2004|Pierce|Dash Pumper|||750|1500|40
-405|Franconia|E405B|Engine|||1|engine|2001|Dash|Dash Pumper|||750|1500|40
-416|Clifton|TK416|Tanker|||0|tanker|2017|Pierce|Dryside|||1250|3000|
-441|Crosspointe|TK441|Tanker|||0|tanker|2017|Pierce|Dryside|||1250|3000|
-420|Gunston|TK420|Tanker|||0|tanker|2017|Pierce|Dryside|||1250|3000|
-442|Wolftrap|TK442|Tanker|||0|tanker|2015|Pierce|Dryside|||1250|3000|
-402|Vienna|CAN402|Canteen|||0|canteen|2012|Krammes|E-450|||||
-402|Vienna|E402B|Engine|||1|engine|2002|American LaFrance|Eagle Pumper|||500|1250|
-430|Merrifield|MCP430|Mobile Command Post|||0|command_post|2005|Pierce|Enforcer|||||
-438|West Centerville|MCP438|Mobile Command Post|||0|command_post|2005|Pierce|Enforcer|||||
-414|Burke|BSU414|Boat Support Unit|||0|boat_support|2021|Stahl|F-250|||||
-416|Clifton|BSU416|Boat Support Unit|||0|boat_support|2019|Stahl|F-250|||||
-441|Crosspointe|BSU441|Boat Support Unit|||0|boat_support|2013|Stahl|F-250|||||
-421|Fair Oaks|BSU421|Boat Support Unit|||0|boat_support|2019|Stahl|F-250|||||
-412|Great Falls|BSU412|Boat Support Unit|||0|boat_support|2014|Stahl|F-250|||||
-418|Jefferson|BSU418|Boat Support Unit|||0|boat_support|2016|Stahl|F-250|||||
-439|North Point|BSU439|Boat Support Unit|||0|boat_support|2015|Stahl|F-250|||||
-401|McLean|UT401|Utility|||0|utility|2008|Ford|F-250|||||
-414|Burke|VC414|Volunteer Chief|||1|vol_chief|2012|Ford|F-250|||||
-413|Dunn Loring|UT413|Utility|||0|utility|2017|Ford|F-250|||||
-408|Annandale|BC404|Battalion Chief|||0|battalion_chief|2019|Ford|F-350|||||
-421|Fair Oaks|BC403|Battalion Chief|||0|battalion_chief|2015|Ford|F-350|||||
-432|Fairview|BC407|Battalion Chief|||0|battalion_chief|2020|Ford|F-350|||||
-437|Kingstowne|BC405|Battalion Chief|||0|battalion_chief|2013|Ford|F-350|||||
-409|Mount Vernon|BC406|Battalion Chief|||0|battalion_chief|2018|Ford|F-350|||||
-425|Reston|BC401|Battalion Chief|||0|battalion_chief|2015|Ford|F-350|||||
-429|Tysons Corner|BC402|Battalion Chief|||0|battalion_chief|2016|Ford|F-350|||||
-416|Clifton|BR416|Brush Unit|||0|brush|2005|Singer|F-350|||250|150|
-430|Merrifield|DFCO|Deputy Fire Chief of Operations|||0|dfco|2019|Ford|F-350|||||
-441|Crosspointe|EMS407|EMS Supervisor|||0|ems_super|2018|Ford|F-350|||||
-426|Edsall|EMS405|EMS Supervisor|||0|ems_super|2017|Ford|F-350|||||
-440|Fairfax Center|EMS403|EMS Supervisor|||0|ems_super|2021|Ford|F-350|||||
-431|Fox Mill|EMS401|EMS Supervisor|||0|ems_super|2015|Ford|F-350|||||
-418|Jefferson|EMS404|EMS Supervisor|||0|ems_super|2014|Ford|F-350|||||
-442|Wolftrap|EMS402|EMS Supervisor|||0|ems_super|2012|Ford|F-350|||||
-424|Woodlawn|EMS406|EMS Supervisor|||0|ems_super|2016|Ford|F-350|||||
-415|Chantilly|SAF402|Safety Officer|||0|safety|2013|Ford|F-350|||||
-413|Dunn Loring|SAF403|Safety Officer|||0|safety|2016|Ford|F-350|||||
-435|Pohick|SAF401|Safety Officer|||0|safety|2017|Ford|F-350|||||
-421|Fair Oaks|UT421|Utility|||0|utility|2009|Ford|F-350|||||
-422|Springfield|UT422|Utility|||0|utility|1998|Ford|F-350|||||
-402|Vienna|UT402|Utility|||0|utility|2007|Ford|F-350|||||
-422|Springfield|VC422|Volunteer Chief|||1|vol_chief|2006|Ford|F-350|||||
-441|Crosspointe|BR441|Brush Unit|||0|brush|2009|CET|F-350|||250|150|
-405|Franconia|BR405|Brush Unit|||0|brush|1992|Wajax-Pacific|F-350|||250|150|
-412|Great Falls|BR412|Brush Unit|||0|brush|2005|CET|F-350|||250|150|
-420|Gunston|BR420|Brush Unit|||0|brush|2005|Wajax-Pacific|F-350|||250|150|
-419|Lorton|BR419|Brush Unit|||0|brush|2010|Wajax-Pacific|F-350|||250|150|
-439|North Point|BR439|Brush Unit|||0|brush|2008|CET|F-350|||250|150|
-411|Penn Daw|BR411|Brush Unit|||0|brush|2009|Singer|F-350|||250|150|
-402|Vienna|BR402|Brush Unit|||0|brush|2001|Ford|F-350|||250|150|
-415|Chantilly|BR415|Brush Unit|||0|brush|2003|Singer|F-350|||250|150|
-414|Burke|A414|Ambulance|||1|ambulance|2006|Horton|F-450|||||
-414|Burke|A414B|Ambulance|||1|ambulance|2005|Horton|F-450|||||
-434|Oakton|ICS434|Incident Command Support|||0|ics|2018|Frontline|F-550|||||
-413|Dunn Loring|A413|Ambulance|||1|ambulance|2013|Horton|F-550|||||
-412|Great Falls|A412|Ambulance|||1|ambulance|2012|Braun|F-550|||||
-401|McLean|A401|Ambulance|||1|ambulance|2015|Road Rescue|F-550|||||
-438|West Centerville|A438|Ambulance|||1|ambulance|2012|Horton|F-550|||||
-414|Burke|M414|Medic|||0|medic|2012|Horton|F-550|||||
-416|Clifton|M416|Medic|||0|medic|2017|Horton|F-550|||||
-413|Dunn Loring|M413|Medic|||0|medic|2013|Horton|F-550|||||
-421|Fair Oaks|M421|Medic|||0|medic|2016|Horton|F-550|||||
-412|Great Falls|M412|Medic|||0|medic|2017|Horton|F-550|||||
-419|Lorton|M419|Medic|||0|medic|2018|Horton|F-550|||||
-401|McLean|M401|Medic|||0|medic|2018|Road Rescue|F-550|||||
-402|Vienna|M402|Medic|||0|medic|2020|Demers|F-550|||||
-434|Oakton|LAB401|Fire Marshals Lab Unit|||0|lab|2001|Mattman|Freightliner|||||
-436|Frying Pan|LA436|Light and Air Unit|||0|light_air|2016|Pierce|Freightliner|||||
-408|Annandale|A408|Ambulance|||1|ambulance|2013|Horton|Freightliner M2|||||
-417|Centreville|A417|Ambulance|||1|ambulance|2010|Horton|Freightliner M2|||||
-421|Fair Oaks|A421B|Ambulance|||1|ambulance|2008|Horton|Freightliner M2|||||
-405|Franconia|A405|Ambulance|||1|ambulance|2014|Medic Master|Freightliner M2|||||
-437|Kingstowne|A437|Ambulance|||1|ambulance|2011|Horton|Freightliner M2|||||
-408|Annandale|CAN408|Canteen|||0|canteen|2005|Utilimaster|Freightliner M2|||||
-437|Kingstowne|LA437|Light and Air Unit|||0|light_air|2016|Pierce|Freightliner M2|||||
-408|Annandale|M408|Medic|||0|medic|2011|Horton|Freightliner M2|||||
-408|Annandale|M408B|Medic|||0|medic|2011|Horton|Freightliner M2|||||
-417|Centreville|M417|Medic|||0|medic|2011|Horton|Freightliner M2|||||
-437|Kingstowne|M437|Medic|||0|medic|2014|Medic Master|Freightliner M2|||||
-423|West Annandale|M423|Medic|||0|medic|2011|Horton|Freightliner M2|||||
-422|Springfield|A422|Ambulance|||1|ambulance|2020|REV|Freightliner M2 106|||||
-423|West Annandale|LA423|Light and Air Unit|||0|light_air|2021|Pierce|Freightliner M2 106|||||
-422|Springfield|M422|Medic|||0|medic|2020|REV|Freightliner M2 106|||||
-414|Burke|TRS414|Technical Rescue Support|||0|trs|2012|Brown Quality Truck Bodies|Freightliner M2 112|||||
-421|Fair Oaks|TRS421|Technical Rescue Support|||0|trs|2012|Brown Quality Truck Bodies|Freightliner M2 112|||||
-439|North Point|TRS439|Technical Rescue Support|||0|trs|2012|Brown Quality Truck Bodies|Freightliner M2 112|||||
-418|Jefferson|TRS418|Technical Rescue Support|||0|trs|2013|Brown Quality Truck Bodies|Freightliner M2 112|||||
-422|Springfield|CAN422|Canteen|||0|canteen|1998|Grumman|GMC|||||
-415|Chantilly|MCU415|Medical Care Unit|||0|mcu|2004|Mickey|GMC 6500|||||
-431|Fox Mill|SHU431|Special Hazards Unit|||0|shu|2004|Mickey|GMC 6500|||||
-437|Kingstowne|SHU437|Special Hazards Unit|||0|shu|2004|Mickey|GMC 6500|||||
-419|Lorton|E419|Engine|||0|engine|2020|Pierce|Impel Pumper|||750|1500|30
-410|Baileys Crossroads|M410|Medic|||0|medic|2014|Horton|Internation 4300|||||
-435|Pohick|MCU435|Medical Care Unit|||0|mcu|2007|Hackney|International 4400|||||
-442|Wolftrap|MCU442|Medical Care Unit|||0|mcu|2009|Hackney|International 4400|||||
-402|Vienna|A402|Ambulance|||1|ambulance|2015|Horton|International DuraStar 4300|||||
-422|Springfield|M422B|Medic|||1|medic|2014|Horton|International DuraStar 4300|||||
-415|Chantilly|M415|Medic|||0|medic|2018|Horton|International DuraStar 4300|||||
-441|Crosspointe|M441|Medic|||0|medic|2018|Horton|International DuraStar 4300|||||
-426|Edsall|M426|Medic|||0|medic|2013|Horton|International DuraStar 4300|||||
-440|Fairfax Center|M440|Medic|||0|medic|2013|Horton|International DuraStar 4300|||||
-432|Fairview|M432|Medic|||0|medic|2017|Horton|International DuraStar 4300|||||
-431|Fox Mill|M431|Medic|||0|medic|2017|Horton|International DuraStar 4300|||||
-436|Frying Pan|M436|Medic|||0|medic|2017|Horton|International DuraStar 4300|||||
-420|Gunston|M420|Medic|||0|medic|2012|Horton|International DuraStar 4300|||||
-404|Herndon|M404|Medic|||0|medic|2016|Horton|International DuraStar 4300|||||
-418|Jefferson|M418|Medic|||0|medic|2018|Horton|International DuraStar 4300|||||
-430|Merrifield|M430|Medic|||0|medic|2018|Horton|International DuraStar 4300|||||
-409|Mount Vernon|M409|Medic|||0|medic|2016|Horton|International DuraStar 4300|||||
-409|Mount Vernon|M409B|Medic|||0|medic|2013|Horton|International DuraStar 4300|||||
-439|North Point|M439|Medic|||0|medic|2013|Horton|International DuraStar 4300|||||
-434|Oakton|M434|Medic|||0|medic|2018|Horton|International DuraStar 4300|||||
-411|Penn Daw|M411|Medic|||0|medic|2015|Horton|International DuraStar 4300|||||
-411|Penn Daw|M411|Medic|||0|medic|2012|Horton|International DuraStar 4300|||||
-435|Pohick|M435|Medic|||0|medic|2017|Horton|International DuraStar 4300|||||
-425|Reston|M425|Medic|||0|medic|2017|Horton|International DuraStar 4300|||||
-428|Seven Corners|M428|Medic|||0|medic|2018|Horton|International DuraStar 4300|||||
-429|Tysons Corner|M429|Medic|||0|medic|2018|Horton|International DuraStar 4300|||||
-438|West Centerville|M438|Medic|||0|medic|2015|Horton|International DuraStar 4300|||||
-427|West Springfield|M427|Medic|||0|medic|2017|Horton|International DuraStar 4300|||||
-442|Wolftrap|M442|Medic|||0|medic|2018|Horton|International DuraStar 4300|||||
-424|Woodlawn|M424|Medic|||0|medic|2018|Horton|International DuraStar 4300|||||
-405|Franconia|M405|Medic|||0|medic|2013|Horton|International TerraStar|||||
-412|Great Falls|TK412|Tanker|||0|tanker|2015|Pierce|Mack Granite|||1250|3000|
-439|North Point|TK439|Tanker|||0|tanker|2016|Pierce|Mack Granite|||1250|3000|
-413|Dunn Loring|RHAB413|Rehabilitation|||0|rehab|2009|Pierce|Mack Granite Chassis|||||
-426|Edsall|F426|Foam Unit|||0|foam|2011|Pierce|Quantum PUC|||1500|2000|500
-437|Kingstowne|F437|Foam Unit|||0|foam|2013|Pierce|Quantum PUC|||1500|2000|500
-414|Burke|E414B|Engine|||1|engine|2001|Pierce|Quantum Pumper|||750|1500|
-422|Springfield|E422B|Engine|||1|engine|2002|Pierce|Quantum Pumper|||750|1500|
-414|Burke|BTI414|Inflatable Boat|||0|inf_boat|2005|Achilles|Red Hypalon|||||
-416|Clifton|BTI416|Inflatable Boat|||0|inf_boat|2009|Achilles|Red Hypalon|||||
-441|Crosspointe|BTI441|Inflatable Boat|||0|inf_boat|2009|Achilles|Red Hypalon|||||
-421|Fair Oaks|BTI421|Inflatable Boat|||0|inf_boat|2003|Achilles|Red Hypalon|||||
-412|Great Falls|BTI412|Inflatable Boat|||0|inf_boat|2011|Achilles|Red Hypalon|||||
-412|Great Falls|BTI412B|Inflatable Boat|||0|inf_boat|2015|Achilles|Red Hypalon|||||
-418|Jefferson|BTI418|Inflatable Boat|||0|inf_boat|2010|Achilles|Red Hypalon|||||
-439|North Point|BTI439|Inflatable Boat|||0|inf_boat|2011|Achilles|Red Hypalon|||||
-439|North Point|BTI439B|Inflatable Boat|||0|inf_boat|2012|Achilles|Red Hypalon|||||
-427|West Springfield|AB427|Ambulance Bus|||0|ambulance_bus|2010|Thomas|Sartin|||||
-417|Centreville|UT417|Utility|||0|utility|2007|Chevrolet|Suburban|||||
-405|Franconia|UT405|Utility|||0|utility|1998|GMC|Suburban|||||
-410|Baileys Crossroads|M410B|Medic|||0|medic|2013|Braun|Super Chief|||||
-417|Centreville|VC417|Volunteer Chief|||1|vol_chief|2014|Chevrolet|Tahoe|||||
-417|Centreville|CAN417|Canteen|||0|canteen|2019|Ford|Transit Connect|||||
-440|Fairfax Center|HM440|Hazmat|||0|hazmat|2019|Pierce|Velocity 2-door 30' combination|||||
-438|West Centerville|T438|Truck|Straight||0|truck|2013|Pierce|Velocity Aerial|rear-mount ladder|100|||
-424|Woodlawn|T424|Truck|Tower||0|truck|2013|Pierce|Velocity Aerial|rear-mount platform|100|||
-429|Tysons Corner|T429|Truck|Tiller||0|truck|2015|Pierce|Velocity Aerial|tractor-drawn aerial|100|||
-430|Merrifield|T430|Truck|Tiller||0|truck|2017|Pierce|Velocity Aerial|tractor-drawn aerial|100|||
-425|Reston|T425|Truck|Tiller||0|truck|2016|Pierce|Velocity Aerial|tractor-drawn aerial|100|||
-411|Penn Daw|T411|Truck|Straight||0|truck|2009|Pierce|Velocity Aerial|rear-mount ladder|105|||
-405|Franconia|T405|Truck|Tower||0|truck|2014|Pierce|Velocity Aerial|rear-mount platform|100|||
-410|Baileys Crossroads|T410|Truck|Tiller||0|truck|2015|Pierce|Velocity Aerial|tractor-drawn aerial|100|||
-440|Fairfax Center|T440|Truck|Tower||0|truck|2016|Pierce|Velocity Aerial|rear-mount platform|100|||
-408|Annandale|T408|Truck|Tower||0|truck|2014|Pierce|Velocity Aerial|rear-mount platform|100|||
-441|Crosspointe|T441|Truck|Straight||0|truck|2019|Pierce|Velocity Aerial|rear-mount ladder|105|||
-401|McLean|T401|Truck|Tower||0|truck|2017|Pierce|Velocity Aerial|rear-mount platform|100|||
-436|Frying Pan|T436|Truck|Tower||0|truck|2018|Pierce|Velocity Aerial|rear-mount platform|100|||
-402|Vienna|E402|Engine|||0|engine|2012|Pierce|Velocity Pumper|||750|1500|
-428|Seven Corners|E428|Engine|||0|engine|2015|Pierce|Velocity Pumper|||750|1500|30
-442|Wolftrap|E442|Engine|||0|engine|2015|Pierce|Velocity Pumper|||750|1500|30
-424|Woodlawn|E424|Engine|||0|engine|2015|Pierce|Velocity Pumper|||750|1500|30
-415|Chantilly|E415|Engine|||0|engine|2017|Pierce|Velocity Pumper|||750|1500|40
-401|McLean|E401|Engine|||0|engine|2013|Pierce|Velocity Pumper|||750|1500|40
-410|Baileys Crossroads|E410|Engine|||0|engine|2017|Pierce|Velocity Pumper|||750|1500|40
-414|Burke|E414|Engine|||0|engine|2016|Pierce|Velocity Pumper|||750|1500|40
-426|Edsall|E426|Engine|||0|engine|2017|Pierce|Velocity Pumper|||750|1500|40
-421|Fair Oaks|E421|Engine|||0|engine|2012|Pierce|Velocity Pumper|||750|1500|40
-421|Fair Oaks|E421B|Engine|||1|engine|2011|Pierce|Velocity Pumper|||750|1500|40
-432|Fairview|E432|Engine|||0|engine|2017|Pierce|Velocity Pumper|||750|1500|40
-431|Fox Mill|E431|Engine|||0|engine|2014|Pierce|Velocity Pumper|||750|1500|40
-436|Frying Pan|E436|Engine|||0|engine|2017|Pierce|Velocity Pumper|||750|1500|40
-437|Kingstowne|E437|Engine|||0|engine|2018|Pierce|Velocity Pumper|||750|1500|40
-439|North Point|E439|Engine|||0|engine|2017|Pierce|Velocity Pumper|||750|1500|40
-434|Oakton|E434|Engine|||0|engine|2014|Pierce|Velocity Pumper|||750|1500|40
-425|Reston|E425|Engine|||0|engine|2013|Pierce|Velocity Pumper|||750|1500|40
-438|West Centerville|E438|Engine|||0|engine|2017|Pierce|Velocity Pumper|||750|1500|40
-427|West Springfield|E427|Engine|||0|engine|2019|Pierce|Velocity Pumper|||750|1500|40
-430|Merrifield|E430|Engine|||0|engine|2019|Pierce|Velocity Pumper|||750|1500|40
-411|Penn Daw|E411|Engine|||0|engine|2019|Pierce|Velocity Pumper|||750|1500|40
-435|Pohick|E435|Engine|||0|engine|2019|Pierce|Velocity Pumper|||750|1500|40
-413|Dunn Loring|E413B|Engine|||1|engine|2009|Pierce|Velocity Pumper|||750|1500|40
-440|Fairfax Center|HMS440|Hazmat Support|||0|hazmat_support|2019|Pierce|Velocity split-tilt command cab|||||
-411|Penn Daw|R411|Rescue||Hazmat|0|rescue|2020|Pierce|Velocity Walk-In Rescue|||||
-414|Burke|R414|Rescue||Technical|0|rescue|2021|Pierce|Velocity Walk-In Rescue|||||
-418|Jefferson|R418|Rescue||Technical|0|rescue|2021|Pierce|Velocity Walk-In Rescue|||||
-401|McLean|R401|Rescue||Hazmat|0|rescue|2018|Pierce|Velocity Walk-In Rescue|||||
-419|Lorton|R419|Rescue||Hazmat|0|rescue|2015|Pierce|Velocity Walk-In Rescue|||||
-439|North Point|R439|Rescue||Technical|0|rescue|2015|Pierce|Velocity Walk-In Rescue|||||
-426|Edsall|R426|Rescue||Hazmat|0|rescue|2018|Pierce|Velocity Walk-In Rescue|||||
-421|Fair Oaks|R421|Rescue||Technical|0|rescue|2014|Pierce|Velocity Walk-In Rescue|||||
-412|Great Falls|UT412|Utility|||0|utility|2017|Jeep|Wrangler|||||
-405|Franconia|VC405|Volunteer Chief|||1|vol_chief|2008|GMC|Yukon|||||
+410|Baileys Crossroads|A410|Ambulance|||TRUE|ambulance|2016|Braun|Chief XL|||||FALSE
+414|Burke|A414|Ambulance|||TRUE|ambulance|2006|Horton|F-450|||||FALSE
+414|Burke|A414B|Ambulance|||TRUE|ambulance|2005|Horton|F-450|||||FALSE
+413|Dunn Loring|A413|Ambulance|||TRUE|ambulance|2013|Horton|F-550|||||FALSE
+412|Great Falls|A412|Ambulance|||TRUE|ambulance|2012|Braun|F-550|||||FALSE
+401|McLean|A401|Ambulance|||TRUE|ambulance|2015|Road Rescue|F-550|||||FALSE
+438|West Centerville|A438|Ambulance|||TRUE|ambulance|2012|Horton|F-550|||||FALSE
+408|Annandale|A408|Ambulance|||TRUE|ambulance|2013|Horton|Freightliner M2|||||FALSE
+417|Centreville|A417|Ambulance|||TRUE|ambulance|2010|Horton|Freightliner M2|||||FALSE
+421|Fair Oaks|A421B|Ambulance|||TRUE|ambulance|2008|Horton|Freightliner M2|||||FALSE
+405|Franconia|A405|Ambulance|||TRUE|ambulance|2014|Medic Master|Freightliner M2|||||FALSE
+437|Kingstowne|A437|Ambulance|||TRUE|ambulance|2011|Horton|Freightliner M2|||||FALSE
+422|Springfield|A422|Ambulance|||TRUE|ambulance|2020|REV|Freightliner M2 106|||||FALSE
+402|Vienna|A402|Ambulance|||TRUE|ambulance|2015|Horton|International DuraStar 4300|||||FALSE
+427|West Springfield|AB427|Ambulance Bus|||FALSE|ambulance_bus|2010|Thomas|Sartin|||||FALSE
+408|Annandale|BC404|Battalion Chief|||FALSE|battalion_chief|2019|Ford|F-350|||||FALSE
+421|Fair Oaks|BC403|Battalion Chief|||FALSE|battalion_chief|2015|Ford|F-350|||||FALSE
+432|Fairview|BC407|Battalion Chief|||FALSE|battalion_chief|2020|Ford|F-350|||||FALSE
+437|Kingstowne|BC405|Battalion Chief|||FALSE|battalion_chief|2013|Ford|F-350|||||FALSE
+409|Mount Vernon|BC406|Battalion Chief|||FALSE|battalion_chief|2018|Ford|F-350|||||FALSE
+425|Reston|BC401|Battalion Chief|||FALSE|battalion_chief|2015|Ford|F-350|||||FALSE
+429|Tysons Corner|BC402|Battalion Chief|||FALSE|battalion_chief|2016|Ford|F-350|||||FALSE
+414|Burke|BSU414|Boat Support Unit|||FALSE|boat_support|2021|Stahl|F-250|||||FALSE
+416|Clifton|BSU416|Boat Support Unit|||FALSE|boat_support|2019|Stahl|F-250|||||FALSE
+441|Crosspointe|BSU441|Boat Support Unit|||FALSE|boat_support|2013|Stahl|F-250|||||FALSE
+421|Fair Oaks|BSU421|Boat Support Unit|||FALSE|boat_support|2019|Stahl|F-250|||||FALSE
+412|Great Falls|BSU412|Boat Support Unit|||FALSE|boat_support|2014|Stahl|F-250|||||FALSE
+418|Jefferson|BSU418|Boat Support Unit|||FALSE|boat_support|2016|Stahl|F-250|||||FALSE
+439|North Point|BSU439|Boat Support Unit|||FALSE|boat_support|2015|Stahl|F-250|||||FALSE
+416|Clifton|BR416|Brush Unit|||FALSE|brush|2005|Singer|F-350|||250|150|FALSE
+441|Crosspointe|BR441|Brush Unit|||FALSE|brush|2009|CET|F-350|||250|150|FALSE
+405|Franconia|BR405|Brush Unit|||FALSE|brush|1992|Wajax-Pacific|F-350|||250|150|FALSE
+412|Great Falls|BR412|Brush Unit|||FALSE|brush|2005|CET|F-350|||250|150|FALSE
+420|Gunston|BR420|Brush Unit|||FALSE|brush|2005|Wajax-Pacific|F-350|||250|150|FALSE
+419|Lorton|BR419|Brush Unit|||FALSE|brush|2010|Wajax-Pacific|F-350|||250|150|FALSE
+439|North Point|BR439|Brush Unit|||FALSE|brush|2008|CET|F-350|||250|150|FALSE
+411|Penn Daw|BR411|Brush Unit|||FALSE|brush|2009|Singer|F-350|||250|150|FALSE
+402|Vienna|BR402|Brush Unit|||FALSE|brush|2001|Ford|F-350|||250|150|FALSE
+415|Chantilly|BR415|Brush Unit|||FALSE|brush|2003|Singer|F-350|||250|150|FALSE
+402|Vienna|CAN402|Canteen|||FALSE|canteen|2012|Krammes|E-450|||||FALSE
+408|Annandale|CAN408|Canteen|||FALSE|canteen|2005|Utilimaster|Freightliner M2|||||FALSE
+422|Springfield|CAN422|Canteen|||FALSE|canteen|1998|Grumman|GMC|||||FALSE
+417|Centreville|CAN417|Canteen|||FALSE|canteen|2019|Ford|Transit Connect|||||FALSE
+430|Merrifield|DFCO|Deputy Fire Chief of Operations|||FALSE|dfco|2019|Ford|F-350|||||FALSE
+441|Crosspointe|EMS407|EMS Supervisor|||FALSE|ems_super|2018|Ford|F-350|||||FALSE
+426|Edsall|EMS405|EMS Supervisor|||FALSE|ems_super|2017|Ford|F-350|||||FALSE
+440|Fairfax Center|EMS403|EMS Supervisor|||FALSE|ems_super|2021|Ford|F-350|||||FALSE
+431|Fox Mill|EMS401|EMS Supervisor|||FALSE|ems_super|2015|Ford|F-350|||||FALSE
+418|Jefferson|EMS404|EMS Supervisor|||FALSE|ems_super|2014|Ford|F-350|||||FALSE
+442|Wolftrap|EMS402|EMS Supervisor|||FALSE|ems_super|2012|Ford|F-350|||||FALSE
+424|Woodlawn|EMS406|EMS Supervisor|||FALSE|ems_super|2016|Ford|F-350|||||FALSE
+419|Lorton|E419B|Engine|||TRUE|engine|2008|E-One|Cyclone II Pumper|||750|1500|TRUE
+409|Mount Vernon|E409|Engine|||FALSE|engine|2017|E-One|Cyclone II Pumper|||750|1500|TRUE
+408|Annandale|E408|Engine|||FALSE|engine|2020|E-One|Cyclone Pumper|||690|1500|FALSE
+416|Clifton|E416|Engine|||FALSE|engine|2020|E-One|Cyclone Pumper|||690|1500|FALSE
+441|Crosspointe|E441|Engine|||FALSE|engine|2020|E-One|Cyclone Pumper|||690|1500|FALSE
+412|Great Falls|E412|Engine|||FALSE|engine|2020|E-One|Cyclone Pumper|||690|1500|FALSE
+420|Gunston|E420|Engine|||FALSE|engine|2020|E-One|Cyclone Pumper|||690|1500|FALSE
+417|Centreville|E417|Engine|||FALSE|engine|2019|E-One|Cyclone Pumper|||750|1500|TRUE
+413|Dunn Loring|E413|Engine|||FALSE|engine|2019|E-One|Cyclone Pumper|||750|1500|TRUE
+440|Fairfax Center|E440|Engine|||FALSE|engine|2019|E-One|Cyclone X Pumper|||650|1500|TRUE
+404|Herndon|E404|Engine|||FALSE|engine|2019|E-One|Cyclone X Pumper|||650|1500|TRUE
+418|Jefferson|E418|Engine|||FALSE|engine|2019|E-One|Cyclone X Pumper|||650|1500|TRUE
+429|Tysons Corner|E429|Engine|||FALSE|engine|2019|E-One|Cyclone X Pumper|||650|1500|TRUE
+423|West Annandale|E423|Engine|||FALSE|engine|2019|E-One|Cyclone X Pumper|||690|1500|FALSE
+422|Springfield|E422|Engine|||FALSE|engine|2008|Pierce|Dash Pumper|||750|1500|FALSE
+417|Centreville|E417B|Engine|||TRUE|engine|2008|Pierce|Dash Pumper|||750|1500|TRUE
+405|Franconia|E405|Engine|||FALSE|engine|2004|Pierce|Dash Pumper|||750|1500|TRUE
+405|Franconia|E405B|Engine|||TRUE|engine|2001|Dash|Dash Pumper|||750|1500|TRUE
+402|Vienna|E402B|Engine|||TRUE|engine|2002|American LaFrance|Eagle Pumper|||500|1250|FALSE
+419|Lorton|E419|Engine|||FALSE|engine|2020|Pierce|Impel Pumper|||750|1500|TRUE
+414|Burke|E414B|Engine|||TRUE|engine|2001|Pierce|Quantum Pumper|||750|1500|FALSE
+422|Springfield|E422B|Engine|||TRUE|engine|2002|Pierce|Quantum Pumper|||750|1500|FALSE
+402|Vienna|E402|Engine|||FALSE|engine|2012|Pierce|Velocity Pumper|||750|1500|FALSE
+428|Seven Corners|E428|Engine|||FALSE|engine|2015|Pierce|Velocity Pumper|||750|1500|TRUE
+442|Wolftrap|E442|Engine|||FALSE|engine|2015|Pierce|Velocity Pumper|||750|1500|TRUE
+424|Woodlawn|E424|Engine|||FALSE|engine|2015|Pierce|Velocity Pumper|||750|1500|TRUE
+415|Chantilly|E415|Engine|||FALSE|engine|2017|Pierce|Velocity Pumper|||750|1500|TRUE
+401|McLean|E401|Engine|||FALSE|engine|2013|Pierce|Velocity Pumper|||750|1500|TRUE
+410|Baileys Crossroads|E410|Engine|||FALSE|engine|2017|Pierce|Velocity Pumper|||750|1500|TRUE
+414|Burke|E414|Engine|||FALSE|engine|2016|Pierce|Velocity Pumper|||750|1500|TRUE
+426|Edsall|E426|Engine|||FALSE|engine|2017|Pierce|Velocity Pumper|||750|1500|TRUE
+421|Fair Oaks|E421|Engine|||FALSE|engine|2012|Pierce|Velocity Pumper|||750|1500|TRUE
+421|Fair Oaks|E421B|Engine|||TRUE|engine|2011|Pierce|Velocity Pumper|||750|1500|TRUE
+432|Fairview|E432|Engine|||FALSE|engine|2017|Pierce|Velocity Pumper|||750|1500|TRUE
+431|Fox Mill|E431|Engine|||FALSE|engine|2014|Pierce|Velocity Pumper|||750|1500|TRUE
+436|Frying Pan|E436|Engine|||FALSE|engine|2017|Pierce|Velocity Pumper|||750|1500|TRUE
+437|Kingstowne|E437|Engine|||FALSE|engine|2018|Pierce|Velocity Pumper|||750|1500|TRUE
+439|North Point|E439|Engine|||FALSE|engine|2017|Pierce|Velocity Pumper|||750|1500|TRUE
+434|Oakton|E434|Engine|||FALSE|engine|2014|Pierce|Velocity Pumper|||750|1500|TRUE
+425|Reston|E425|Engine|||FALSE|engine|2013|Pierce|Velocity Pumper|||750|1500|TRUE
+438|West Centerville|E438|Engine|||FALSE|engine|2017|Pierce|Velocity Pumper|||750|1500|TRUE
+427|West Springfield|E427|Engine|||FALSE|engine|2019|Pierce|Velocity Pumper|||750|1500|TRUE
+430|Merrifield|E430|Engine|||FALSE|engine|2019|Pierce|Velocity Pumper|||750|1500|TRUE
+411|Penn Daw|E411|Engine|||FALSE|engine|2019|Pierce|Velocity Pumper|||750|1500|TRUE
+435|Pohick|E435|Engine|||FALSE|engine|2019|Pierce|Velocity Pumper|||750|1500|TRUE
+413|Dunn Loring|E413B|Engine|||TRUE|engine|2009|Pierce|Velocity Pumper|||750|1500|TRUE
+420|Gunston|FB420|Fire Boat|||FALSE|boat|2020|Metal Shark|55 Defiant|||||FALSE
+434|Oakton|LAB401|Fire Marshals Lab Unit|||FALSE|lab|2001|Mattman|Freightliner|||||FALSE
+426|Edsall|F426|Foam Unit|||FALSE|foam|2011|Pierce|Quantum PUC|||1500|2000|TRUE
+437|Kingstowne|F437|Foam Unit|||FALSE|foam|2013|Pierce|Quantum PUC|||1500|2000|TRUE
+440|Fairfax Center|HM440|Hazmat|||FALSE|hazmat|2019|Pierce|Velocity 2-door 30' combination|||||FALSE
+440|Fairfax Center|HMS440|Hazmat Support|||FALSE|hazmat_support|2019|Pierce|Velocity split-tilt command cab|||||FALSE
+434|Oakton|ICS434|Incident Command Support|||FALSE|ics|2018|Frontline|F-550|||||FALSE
+414|Burke|BTI414|Inflatable Boat|||FALSE|inf_boat|2005|Achilles|Red Hypalon|||||FALSE
+416|Clifton|BTI416|Inflatable Boat|||FALSE|inf_boat|2009|Achilles|Red Hypalon|||||FALSE
+441|Crosspointe|BTI441|Inflatable Boat|||FALSE|inf_boat|2009|Achilles|Red Hypalon|||||FALSE
+421|Fair Oaks|BTI421|Inflatable Boat|||FALSE|inf_boat|2003|Achilles|Red Hypalon|||||FALSE
+412|Great Falls|BTI412|Inflatable Boat|||FALSE|inf_boat|2011|Achilles|Red Hypalon|||||FALSE
+412|Great Falls|BTI412B|Inflatable Boat|||FALSE|inf_boat|2015|Achilles|Red Hypalon|||||FALSE
+418|Jefferson|BTI418|Inflatable Boat|||FALSE|inf_boat|2010|Achilles|Red Hypalon|||||FALSE
+439|North Point|BTI439|Inflatable Boat|||FALSE|inf_boat|2011|Achilles|Red Hypalon|||||FALSE
+439|North Point|BTI439B|Inflatable Boat|||FALSE|inf_boat|2012|Achilles|Red Hypalon|||||FALSE
+436|Frying Pan|LA436|Light and Air Unit|||FALSE|light_air|2016|Pierce|Freightliner|||||FALSE
+437|Kingstowne|LA437|Light and Air Unit|||FALSE|light_air|2016|Pierce|Freightliner M2|||||FALSE
+423|West Annandale|LA423|Light and Air Unit|||FALSE|light_air|2021|Pierce|Freightliner M2 106|||||FALSE
+414|Burke|M414|Medic|||FALSE|medic|2012|Horton|F-550|||||FALSE
+416|Clifton|M416|Medic|||FALSE|medic|2017|Horton|F-550|||||FALSE
+413|Dunn Loring|M413|Medic|||FALSE|medic|2013|Horton|F-550|||||FALSE
+421|Fair Oaks|M421|Medic|||FALSE|medic|2016|Horton|F-550|||||FALSE
+412|Great Falls|M412|Medic|||FALSE|medic|2017|Horton|F-550|||||FALSE
+419|Lorton|M419|Medic|||FALSE|medic|2018|Horton|F-550|||||FALSE
+401|McLean|M401|Medic|||FALSE|medic|2018|Road Rescue|F-550|||||FALSE
+402|Vienna|M402|Medic|||FALSE|medic|2020|Demers|F-550|||||FALSE
+408|Annandale|M408|Medic|||FALSE|medic|2011|Horton|Freightliner M2|||||FALSE
+408|Annandale|M408B|Medic|||FALSE|medic|2011|Horton|Freightliner M2|||||FALSE
+417|Centreville|M417|Medic|||FALSE|medic|2011|Horton|Freightliner M2|||||FALSE
+437|Kingstowne|M437|Medic|||FALSE|medic|2014|Medic Master|Freightliner M2|||||FALSE
+423|West Annandale|M423|Medic|||FALSE|medic|2011|Horton|Freightliner M2|||||FALSE
+422|Springfield|M422|Medic|||FALSE|medic|2020|REV|Freightliner M2 106|||||FALSE
+410|Baileys Crossroads|M410|Medic|||FALSE|medic|2014|Horton|Internation 4300|||||FALSE
+422|Springfield|M422B|Medic|||TRUE|medic|2014|Horton|International DuraStar 4300|||||FALSE
+415|Chantilly|M415|Medic|||FALSE|medic|2018|Horton|International DuraStar 4300|||||FALSE
+441|Crosspointe|M441|Medic|||FALSE|medic|2018|Horton|International DuraStar 4300|||||FALSE
+426|Edsall|M426|Medic|||FALSE|medic|2013|Horton|International DuraStar 4300|||||FALSE
+440|Fairfax Center|M440|Medic|||FALSE|medic|2013|Horton|International DuraStar 4300|||||FALSE
+432|Fairview|M432|Medic|||FALSE|medic|2017|Horton|International DuraStar 4300|||||FALSE
+431|Fox Mill|M431|Medic|||FALSE|medic|2017|Horton|International DuraStar 4300|||||FALSE
+436|Frying Pan|M436|Medic|||FALSE|medic|2017|Horton|International DuraStar 4300|||||FALSE
+420|Gunston|M420|Medic|||FALSE|medic|2012|Horton|International DuraStar 4300|||||FALSE
+404|Herndon|M404|Medic|||FALSE|medic|2016|Horton|International DuraStar 4300|||||FALSE
+418|Jefferson|M418|Medic|||FALSE|medic|2018|Horton|International DuraStar 4300|||||FALSE
+430|Merrifield|M430|Medic|||FALSE|medic|2018|Horton|International DuraStar 4300|||||FALSE
+409|Mount Vernon|M409|Medic|||FALSE|medic|2016|Horton|International DuraStar 4300|||||FALSE
+409|Mount Vernon|M409B|Medic|||FALSE|medic|2013|Horton|International DuraStar 4300|||||FALSE
+439|North Point|M439|Medic|||FALSE|medic|2013|Horton|International DuraStar 4300|||||FALSE
+434|Oakton|M434|Medic|||FALSE|medic|2018|Horton|International DuraStar 4300|||||FALSE
+411|Penn Daw|M411|Medic|||FALSE|medic|2015|Horton|International DuraStar 4300|||||FALSE
+411|Penn Daw|M411|Medic|||FALSE|medic|2012|Horton|International DuraStar 4300|||||FALSE
+435|Pohick|M435|Medic|||FALSE|medic|2017|Horton|International DuraStar 4300|||||FALSE
+425|Reston|M425|Medic|||FALSE|medic|2017|Horton|International DuraStar 4300|||||FALSE
+428|Seven Corners|M428|Medic|||FALSE|medic|2018|Horton|International DuraStar 4300|||||FALSE
+429|Tysons Corner|M429|Medic|||FALSE|medic|2018|Horton|International DuraStar 4300|||||FALSE
+438|West Centerville|M438|Medic|||FALSE|medic|2015|Horton|International DuraStar 4300|||||FALSE
+427|West Springfield|M427|Medic|||FALSE|medic|2017|Horton|International DuraStar 4300|||||FALSE
+442|Wolftrap|M442|Medic|||FALSE|medic|2018|Horton|International DuraStar 4300|||||FALSE
+424|Woodlawn|M424|Medic|||FALSE|medic|2018|Horton|International DuraStar 4300|||||FALSE
+405|Franconia|M405|Medic|||FALSE|medic|2013|Horton|International TerraStar|||||FALSE
+410|Baileys Crossroads|M410B|Medic|||FALSE|medic|2013|Braun|Super Chief|||||FALSE
+415|Chantilly|MCU415|Medical Care Unit|||FALSE|mcu|2004|Mickey|GMC 6500|||||FALSE
+435|Pohick|MCU435|Medical Care Unit|||FALSE|mcu|2007|Hackney|International 4400|||||FALSE
+442|Wolftrap|MCU442|Medical Care Unit|||FALSE|mcu|2009|Hackney|International 4400|||||FALSE
+430|Merrifield|MCP430|Mobile Command Post|||FALSE|command_post|2005|Pierce|Enforcer|||||FALSE
+438|West Centerville|MCP438|Mobile Command Post|||FALSE|command_post|2005|Pierce|Enforcer|||||FALSE
+413|Dunn Loring|RHAB413|Rehabilitation|||FALSE|rehab|2009|Pierce|Mack Granite Chassis|||||FALSE
+411|Penn Daw|R411|Rescue||Hazmat|FALSE|rescue|2020|Pierce|Velocity Walk-In Rescue|||||FALSE
+414|Burke|R414|Rescue||Technical|FALSE|rescue|2021|Pierce|Velocity Walk-In Rescue|||||FALSE
+418|Jefferson|R418|Rescue||Technical|FALSE|rescue|2021|Pierce|Velocity Walk-In Rescue|||||FALSE
+401|McLean|R401|Rescue||Hazmat|FALSE|rescue|2018|Pierce|Velocity Walk-In Rescue|||||FALSE
+419|Lorton|R419|Rescue||Hazmat|FALSE|rescue|2015|Pierce|Velocity Walk-In Rescue|||||FALSE
+439|North Point|R439|Rescue||Technical|FALSE|rescue|2015|Pierce|Velocity Walk-In Rescue|||||FALSE
+426|Edsall|R426|Rescue||Hazmat|FALSE|rescue|2018|Pierce|Velocity Walk-In Rescue|||||FALSE
+421|Fair Oaks|R421|Rescue||Technical|FALSE|rescue|2014|Pierce|Velocity Walk-In Rescue|||||FALSE
+415|Chantilly|SAF402|Safety Officer|||FALSE|safety|2013|Ford|F-350|||||FALSE
+413|Dunn Loring|SAF403|Safety Officer|||FALSE|safety|2016|Ford|F-350|||||FALSE
+435|Pohick|SAF401|Safety Officer|||FALSE|safety|2017|Ford|F-350|||||FALSE
+431|Fox Mill|SHU431|Special Hazards Unit|||FALSE|shu|2004|Mickey|GMC 6500|||||FALSE
+437|Kingstowne|SHU437|Special Hazards Unit|||FALSE|shu|2004|Mickey|GMC 6500|||||FALSE
+416|Clifton|TK416|Tanker|||FALSE|tanker|2017|Pierce|Dryside|||1250|3000|FALSE
+441|Crosspointe|TK441|Tanker|||FALSE|tanker|2017|Pierce|Dryside|||1250|3000|FALSE
+420|Gunston|TK420|Tanker|||FALSE|tanker|2017|Pierce|Dryside|||1250|3000|FALSE
+442|Wolftrap|TK442|Tanker|||FALSE|tanker|2015|Pierce|Dryside|||1250|3000|FALSE
+412|Great Falls|TK412|Tanker|||FALSE|tanker|2015|Pierce|Mack Granite|||1250|3000|FALSE
+439|North Point|TK439|Tanker|||FALSE|tanker|2016|Pierce|Mack Granite|||1250|3000|FALSE
+414|Burke|TRS414|Technical Rescue Support|||FALSE|trs|2012|Brown Quality Truck Bodies|Freightliner M2 112|||||FALSE
+421|Fair Oaks|TRS421|Technical Rescue Support|||FALSE|trs|2012|Brown Quality Truck Bodies|Freightliner M2 112|||||FALSE
+439|North Point|TRS439|Technical Rescue Support|||FALSE|trs|2012|Brown Quality Truck Bodies|Freightliner M2 112|||||FALSE
+418|Jefferson|TRS418|Technical Rescue Support|||FALSE|trs|2013|Brown Quality Truck Bodies|Freightliner M2 112|||||FALSE
+422|Springfield|T422|Truck|Straight||FALSE|truck|2005|Pierce|Dash Aerial|rear-mount ladder|105|||FALSE
+438|West Centerville|T438|Truck|Straight||FALSE|truck|2013|Pierce|Velocity Aerial|rear-mount ladder|100|||FALSE
+424|Woodlawn|T424|Truck|Tower||FALSE|truck|2013|Pierce|Velocity Aerial|rear-mount platform|100|||FALSE
+429|Tysons Corner|T429|Truck|Tiller||FALSE|truck|2015|Pierce|Velocity Aerial|tractor-drawn aerial|100|||FALSE
+430|Merrifield|T430|Truck|Tiller||FALSE|truck|2017|Pierce|Velocity Aerial|tractor-drawn aerial|100|||FALSE
+425|Reston|T425|Truck|Tiller||FALSE|truck|2016|Pierce|Velocity Aerial|tractor-drawn aerial|100|||FALSE
+411|Penn Daw|T411|Truck|Straight||FALSE|truck|2009|Pierce|Velocity Aerial|rear-mount ladder|105|||FALSE
+405|Franconia|T405|Truck|Tower||FALSE|truck|2014|Pierce|Velocity Aerial|rear-mount platform|100|||FALSE
+410|Baileys Crossroads|T410|Truck|Tiller||FALSE|truck|2015|Pierce|Velocity Aerial|tractor-drawn aerial|100|||FALSE
+440|Fairfax Center|T440|Truck|Tower||FALSE|truck|2016|Pierce|Velocity Aerial|rear-mount platform|100|||FALSE
+408|Annandale|T408|Truck|Tower||FALSE|truck|2014|Pierce|Velocity Aerial|rear-mount platform|100|||FALSE
+441|Crosspointe|T441|Truck|Straight||FALSE|truck|2019|Pierce|Velocity Aerial|rear-mount ladder|105|||FALSE
+401|McLean|T401|Truck|Tower||FALSE|truck|2017|Pierce|Velocity Aerial|rear-mount platform|100|||FALSE
+436|Frying Pan|T436|Truck|Tower||FALSE|truck|2018|Pierce|Velocity Aerial|rear-mount platform|100|||FALSE
+401|McLean|UT401|Utility|||FALSE|utility|2008|Ford|F-250|||||FALSE
+413|Dunn Loring|UT413|Utility|||FALSE|utility|2017|Ford|F-250|||||FALSE
+421|Fair Oaks|UT421|Utility|||FALSE|utility|2009|Ford|F-350|||||FALSE
+422|Springfield|UT422|Utility|||FALSE|utility|1998|Ford|F-350|||||FALSE
+402|Vienna|UT402|Utility|||FALSE|utility|2007|Ford|F-350|||||FALSE
+417|Centreville|UT417|Utility|||FALSE|utility|2007|Chevrolet|Suburban|||||FALSE
+405|Franconia|UT405|Utility|||FALSE|utility|1998|GMC|Suburban|||||FALSE
+412|Great Falls|UT412|Utility|||FALSE|utility|2017|Jeep|Wrangler|||||FALSE
+414|Burke|VC414|Volunteer Chief|||TRUE|vol_chief|2012|Ford|F-250|||||FALSE
+422|Springfield|VC422|Volunteer Chief|||TRUE|vol_chief|2006|Ford|F-350|||||FALSE
+417|Centreville|VC417|Volunteer Chief|||TRUE|vol_chief|2014|Chevrolet|Tahoe|||||FALSE
+405|Franconia|VC405|Volunteer Chief|||TRUE|vol_chief|2008|GMC|Yukon|||||FALSE

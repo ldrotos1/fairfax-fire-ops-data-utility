@@ -5,7 +5,7 @@ import lombok.Getter;
 
 /**
  * An instance of this class represents a apparatus type record
- * parsed from the stations CSV data file
+ * parsed from the apparatus type CSV data file
  * 
  * @author Louis Drotos
  */

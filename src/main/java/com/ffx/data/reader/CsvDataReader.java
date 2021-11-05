@@ -11,6 +11,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import com.ffx.data.utilities.DataFileAccessHelper;
+import com.ffx.data.models.RawApparatusRecord;
 import com.ffx.data.models.RawApparatusTypeRecord;
 import com.ffx.data.models.RawStationRecord;
 
@@ -93,6 +94,34 @@ public class CsvDataReader {
 					.build());
 		});
 		return apparatusTypeEntities;
+	}
+	
+	/**
+	 * Returns a list of raw apparatus entities that are extracted
+	 * from the apparatus CSV file resource
+	 * 
+	 * @return The list of raw apparatus types entities
+	 */
+	public List<RawApparatusRecord> parseApparatus() {
+		
+		List<List<String>> apparatusData = parseCsvLines(dataFileAccessHelp.getApparatusFile());
+		List<RawApparatusRecord> apparatusEntities = new ArrayList<RawApparatusRecord>();
+		apparatusData.stream().forEach(apparatus -> {
+			apparatusEntities.add(		
+					RawApparatusRecord.builder()
+					.apparatusId(UUID.randomUUID().toString())
+					.departmentName("Fairfax County Fire and Rescue Department")
+					.unitDesignator(apparatus.get(2))
+					.apparatusTypeName(apparatus.get(3))
+					.stationNumber(apparatus.get(0))
+					.truckType(apparatus.get(4).isEmpty() ? null : apparatus.get(4))
+					.rescueType(apparatus.get(5).isEmpty() ? null : apparatus.get(5))
+					.hasFoamCell(Boolean.parseBoolean(apparatus.get(15)))
+					.isReserved(Boolean.parseBoolean(apparatus.get(6)))
+					.inService(!Boolean.parseBoolean(apparatus.get(6)))
+					.build());
+		});
+		return apparatusEntities;
 	}
 	
 	/**

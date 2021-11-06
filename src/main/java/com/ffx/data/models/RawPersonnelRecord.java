@@ -1,5 +1,8 @@
 package com.ffx.data.models;
 
+import java.util.List;
+import java.util.Optional;
+
 import lombok.Builder;
 import lombok.Getter;
 
@@ -17,7 +20,7 @@ public class RawPersonnelRecord {
 	private String surname;
 	private String rank;
 	private String medCert;
-	private String station;
+	private String stationNumber;
 	private String facilityId;
 	private String shift;
 	private String commandPosition;
@@ -32,18 +35,30 @@ public class RawPersonnelRecord {
 	 */
 	public String getPersonInsertSql() {
 		return "INSERT INTO personnel("
-				.concat("id, forename, surname, rank, medical_certification, shift, command_postion, station_leader shift_leader)")
+				.concat("id, forename, surname, rank, medical_certification, facility_id, shift, command_postion, station_leader, shift_leader) ")
 				.concat("VALUES (")
 				.concat("'" + personId + "', ")
 				.concat("'" + forename + "', ")
 				.concat("'" + surname + "', ")
 				.concat("'" + rank + "', ")
 				.concat("'" + medCert + "', ")
-				.concat("'" + station + "', ")
 				.concat("'" + facilityId + "', ")
 				.concat("'" + shift + "', ")
 				.concat("'" + commandPosition + "', ")
 				.concat("'" + stationLeader + "', ")
 				.concat("'" + shiftLeader + "') ");
+	}
+	
+	/**
+	 * Takes in a list of stations and extracts the facility ID
+	 * that this person is assigned to and sets it in it's own state
+	 * 
+	 * @param stations The list of stations
+	 */
+	public void setFacilityId(List<RawStationRecord> stations) {
+		Optional<RawStationRecord> station = stations.stream()
+			.filter(s -> s.getStationNumber().equals(stationNumber))
+			.findFirst();
+		facilityId = station.get().getFacilityId();
 	}
 }

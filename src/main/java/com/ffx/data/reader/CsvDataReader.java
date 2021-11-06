@@ -143,7 +143,7 @@ public class CsvDataReader {
 					.surname(person.get(2))
 					.rank(person.get(3))
 					.medCert(person.get(4))
-					.station(person.get(5))
+					.stationNumber(person.get(5))
 					.shift(person.get(6))
 					.commandPosition(person.get(7))
 					.stationLeader(person.get(8))

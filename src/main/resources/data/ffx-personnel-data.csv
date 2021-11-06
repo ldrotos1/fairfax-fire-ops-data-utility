@@ -31,7 +31,7 @@ ID|FIRST_NAME|LAST_NAME|RANK|MEDICAL_CERT|STATION|SHIFT|COMMAND_POSITION|STATION
 50192|Eric|Craven|Captain I|EMT|408|A|||408|Operations Bureau|Battalion 4
 48009|John|Peters|Captain I|EMT|408|B|||408|Operations Bureau|Battalion 4
 50009|Thomas|Flint|Captain I|EMT|409|A|||409|Operations Bureau|Battalion 6
-50193|Michael|D'Amico|Captain I|Paramedic|409|C|||409|Operations Bureau|Battalion 6
+50193|Michael|Amico|Captain I|Paramedic|409|C|||409|Operations Bureau|Battalion 6
 50589|Kenneth|Dobbs|Captain I|EMT|410|B|||410|Operations Bureau|Battalion 4
 50548|Richard|Tamillow|Captain I|Paramedic|410|C|||410|Operations Bureau|Battalion 4
 50050|Christopher|Pittman|Captain I|Intermediate|411|B|||411|Operations Bureau|Battalion 6
@@ -76,7 +76,7 @@ ID|FIRST_NAME|LAST_NAME|RANK|MEDICAL_CERT|STATION|SHIFT|COMMAND_POSITION|STATION
 50423|Clarence|Dickens|Captain I|Intermediate|428|C|||428|Operations Bureau|Battalion 4
 50032|David|Bentley|Captain I|Intermediate|429|A|||429|Operations Bureau|Battalion 2
 47974|Mark|Ebersole|Captain I|Paramedic|429|C|||429|Operations Bureau|Battalion 2
-47779|Stephen|O'Brien|Captain I|EMT|430|A|||430|Operations Bureau|Battalion 2
+47779|Stephen|Brien|Captain I|EMT|430|A|||430|Operations Bureau|Battalion 2
 50056|William|Vance|Captain I|Intermediate|430|B|||430|Operations Bureau|Battalion 2
 47756|Robert|Banasik|Captain I|EMT|431|B|||431|Operations Bureau|Battalion 1
 50222|Thomas|Johnson|Captain I|Intermediate|431|C|||431|Operations Bureau|Battalion 1
@@ -224,7 +224,7 @@ ID|FIRST_NAME|LAST_NAME|RANK|MEDICAL_CERT|STATION|SHIFT|COMMAND_POSITION|STATION
 51408|Sean|Sack|Firefighter|Paramedic|408|B||||Operations Bureau|Battalion 4
 51326|Mari|Christenson|Firefighter|EMT|408|C||||Operations Bureau|Battalion 4
 51173|Michael|Conway|Firefighter|EMT|408|C||||Operations Bureau|Battalion 4
-50909|Sean|O'Neill|Firefighter|EMT|408|C||||Operations Bureau|Battalion 4
+50909|Sean|Neill|Firefighter|EMT|408|C||||Operations Bureau|Battalion 4
 51237|Blake|Riggleman|Firefighter|EMT|408|C||||Operations Bureau|Battalion 4
 51303|Kendrix|Merritt|Firefighter|Paramedic|408|A||||Operations Bureau|Battalion 4
 51368|Muhammad|Dizicheh|Firefighter|Paramedic|408|C||||Operations Bureau|Battalion 4
@@ -576,7 +576,7 @@ ID|FIRST_NAME|LAST_NAME|RANK|MEDICAL_CERT|STATION|SHIFT|COMMAND_POSITION|STATION
 47798|Glenn|Mooneyham|Lieutenant|EMT|405|B||||Operations Bureau|Battalion 5
 47479|James|Bookwalter|Lieutenant|EMT|405|C||||Operations Bureau|Battalion 5
 50365|Mark|Wolfin|Lieutenant|Paramedic|408|A||||Operations Bureau|Battalion 4
-47716|H|O'Toole|Lieutenant|EMT|408|A||||Operations Bureau|Battalion 4
+47716|H|Toole|Lieutenant|EMT|408|A||||Operations Bureau|Battalion 4
 47923|Karl|Roche|Lieutenant|EMT|408|B||||Operations Bureau|Battalion 4
 47922|Adam|Brock|Lieutenant|EMT|408|C||||Operations Bureau|Battalion 4
 50019|William|Schnaekel|Lieutenant|EMT|408|C||||Operations Bureau|Battalion 4
@@ -956,7 +956,7 @@ ID|FIRST_NAME|LAST_NAME|RANK|MEDICAL_CERT|STATION|SHIFT|COMMAND_POSITION|STATION
 50863|Richard|DiRusso|Technician|Paramedic|415|A||||Operations Bureau|Battalion 3
 50982|Ryan|Filipkoski|Technician|Paramedic|415|A||||Operations Bureau|Battalion 3
 50461|Theresa|Ruffo|Technician|EMT|415|A||||Operations Bureau|Battalion 3
-50817|Ali|Mirzai'i|Technician|Intermediate|415|B||||Operations Bureau|Battalion 3
+50817|Ali|Mirzai|Technician|Intermediate|415|B||||Operations Bureau|Battalion 3
 50047|Blake|Myers|Technician|EMT|415|B||||Operations Bureau|Battalion 3
 50071|Peter|Kosenko|Technician|Paramedic|416|A||||Operations Bureau|Battalion 7
 47913|Glenn|Snyder|Technician|Paramedic|416|A||||Operations Bureau|Battalion 7

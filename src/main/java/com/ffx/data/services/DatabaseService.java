@@ -75,6 +75,13 @@ public class DatabaseService {
 				jdbcTemplate.execute(app.getApparatusInsertSql());
 			});
 			
+			// Populates the personnel table
+			System.out.println("Populating personnel table");
+			personnel.stream().forEach(person -> {
+				person.setFacilityId(stations);
+				jdbcTemplate.execute(person.getPersonInsertSql());
+			});
+			
 			// Closes the database connection
 			jdbcTemplate.getDataSource().getConnection().close();
 			System.out.println("Database build completed");

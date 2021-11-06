@@ -13,6 +13,7 @@ import org.springframework.stereotype.Component;
 import com.ffx.data.utilities.DataFileAccessHelper;
 import com.ffx.data.models.RawApparatusRecord;
 import com.ffx.data.models.RawApparatusTypeRecord;
+import com.ffx.data.models.RawPersonnelRecord;
 import com.ffx.data.models.RawStationRecord;
 
 /**
@@ -122,6 +123,34 @@ public class CsvDataReader {
 					.build());
 		});
 		return apparatusEntities;
+	}
+	
+	/**
+	 * Returns a list of raw person entities that are extracted
+	 * from the personnel CSV file resource
+	 * 
+	 * @return The list of raw person entities
+	 */
+	public List<RawPersonnelRecord> parsePersonnel() {
+		
+		List<List<String>> personData = parseCsvLines(dataFileAccessHelp.getPersonnelFile());
+		List<RawPersonnelRecord> personEntities = new ArrayList<RawPersonnelRecord>();
+		personData.stream().forEach(person -> {
+			personEntities.add(		
+					RawPersonnelRecord.builder()
+					.personId(UUID.randomUUID().toString())
+					.forename(person.get(1))
+					.surname(person.get(2))
+					.rank(person.get(3))
+					.medCert(person.get(4))
+					.station(person.get(5))
+					.shift(person.get(6))
+					.commandPosition(person.get(7))
+					.stationLeader(person.get(8))
+					.shiftLeader(person.get(9))
+					.build());
+		});
+		return personEntities;
 	}
 	
 	/**

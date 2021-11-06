@@ -1,0 +1,1175 @@
+ID|FIRST_NAME|LAST_NAME|RANK|MEDICAL_CERT|STATION|SHIFT|COMMAND_POSITION|STATION_LEADER|SHIFT_LEADER|ORGANIZATION|COMMAND
+47717|Kenny|Wolfrey|Battalion Chief|Paramedic|408|A|BC404|||Operations Bureau|Battalion 4
+47726|Ronnie|Rodriguez|Battalion Chief|EMT|408|B|BC404|||Operations Bureau|Battalion 4
+47805|Ramiro|Galvez|Battalion Chief|Paramedic|408|C|BC404|||Operations Bureau|Battalion 4
+47788|Samuel|Gray|Battalion Chief|EMT|409|A|BC406|||Operations Bureau|Battalion 6
+47451|Edith|Eshleman|Battalion Chief|EMT|409|B|BC406|||Operations Bureau|Battalion 6
+47823|Cheri|Zosh|Battalion Chief|Paramedic|409|C|BC406|||Operations Bureau|Battalion 6
+47822|David|Warner|Battalion Chief|Paramedic|421|A|BC403|||Operations Bureau|Battalion 3
+50270|Brian|Edmonston|Battalion Chief|Paramedic|421|B|BC403|||Operations Bureau|Battalion 3
+50012|Patrick|Kelly|Battalion Chief|EMT|421|C|BC403|||Operations Bureau|Battalion 3
+47296|Michael|Deli|Battalion Chief|EMT|425|A|BC401|||Operations Bureau|Battalion 1
+50084|Bill|Betz|Battalion Chief|EMT|425|B|BC401|||Operations Bureau|Battalion 1
+47931|Kit|Hessel|Battalion Chief|EMT|425|C|BC401|||Operations Bureau|Battalion 1
+49954|John|Price|Battalion Chief|EMT|429|A|BC402|||Operations Bureau|Battalion 2
+47793|Ryland|Kendrick|Battalion Chief|Paramedic|429|B|BC402|||Operations Bureau|Battalion 2
+47795|Jeffrey|Lewis|Battalion Chief|Paramedic|429|C|BC402|||Operations Bureau|Battalion 2
+47706|Fred|Brandell|Battalion Chief|EMT|432|A|BC407|||Operations Bureau|Battalion 7
+47711|Steven|McFarland|Battalion Chief|EMT|432|B|BC407|||Operations Bureau|Battalion 7
+47862|Keith|Ludeman|Battalion Chief|Paramedic|432|C|BC407|||Operations Bureau|Battalion 7
+47845|Christopher|Tilles|Battalion Chief|Intermediate|437|A|BC405|||Operations Bureau|Battalion 5
+47765|David|Hall|Battalion Chief|EMT|437|B|BC405|||Operations Bureau|Battalion 5
+47334|James|Walsh|Battalion Chief|EMT|437|C|BC405|||Operations Bureau|Battalion 5
+50031|William|Atwell|Captain I|EMT|401|A|||401|Operations Bureau|Battalion 2
+50110|David|Hessler|Captain I|EMT|401|B|||401|Operations Bureau|Battalion 2
+47676|Samuel|Devera|Captain I|Intermediate|402|A|||402|Operations Bureau|Battalion 2
+48022|Tie|Burtlow|Captain I|EMT|402|C|||402|Operations Bureau|Battalion 2
+48003|David|Gaertner|Captain I|EMT|404|A|||404|Operations Bureau|Battalion 1
+48033|Timothy|James|Captain I|EMT|404|B|||404|Operations Bureau|Battalion 1
+47897|Kenneth|Coffelt|Captain I|Paramedic|405|A|||405|Operations Bureau|Battalion 5
+50087|Keith|Curriden|Captain I|EMT|405|B|||405|Operations Bureau|Battalion 5
+50192|Eric|Craven|Captain I|EMT|408|A|||408|Operations Bureau|Battalion 4
+48009|John|Peters|Captain I|EMT|408|B|||408|Operations Bureau|Battalion 4
+50009|Thomas|Flint|Captain I|EMT|409|A|||409|Operations Bureau|Battalion 6
+50193|Michael|D'Amico|Captain I|Paramedic|409|C|||409|Operations Bureau|Battalion 6
+50589|Kenneth|Dobbs|Captain I|EMT|410|B|||410|Operations Bureau|Battalion 4
+50548|Richard|Tamillow|Captain I|Paramedic|410|C|||410|Operations Bureau|Battalion 4
+50050|Christopher|Pittman|Captain I|Intermediate|411|B|||411|Operations Bureau|Battalion 6
+47834|Steven|Norris|Captain I|EMT|411|C|||411|Operations Bureau|Battalion 6
+50334|Sean|Wilson|Captain I|EMT|412|A|||412|Operations Bureau|Battalion 1
+50066|Michael|Fontana|Captain I|Paramedic|412|C|||412|Operations Bureau|Battalion 1
+47524|Marcus|Williams|Captain I|Paramedic|413|B|||413|Operations Bureau|Battalion 2
+50065|John|Evans|Captain I|Intermediate|413|C|||413|Operations Bureau|Battalion 2
+50014|Stacie|Galatis|Captain I|EMT|413|A|SAF403|||Operations Bureau|Battalion 2
+50130|Carmen|Alessi|Captain I|EMT|413|C|SAF403|||Operations Bureau|Battalion 2
+47121|David|Conrad|Captain I|EMT|414|A|||414|Operations Bureau|Battalion 7
+47266|Clyde|Buchanan|Captain I|EMT|414|C|||414|Operations Bureau|Battalion 7
+50007|Richard|David|Captain I|EMT|415|A|||415|Operations Bureau|Battalion 3
+50622|Christopher|Ouellette|Captain I|Paramedic|415|B|||415|Operations Bureau|Battalion 3
+47605|Troy|Dean|Captain I|EMT|415|B|SAF402|||Operations Bureau|Battalion 3
+47525|Kelly|Woolf|Captain I|EMT|415|B|SAF402|||Operations Bureau|Battalion 3
+47854|Carlos|Carrillo|Captain I|EMT|416|A|||416|Operations Bureau|Battalion 7
+47828|Robert|Gusa|Captain I|EMT|416|B|||416|Operations Bureau|Battalion 7
+48015|John|Smith|Captain I|EMT|417|A|||417|Operations Bureau|Battalion 3
+47842|James|Stricklen|Captain I|EMT|417|C|||417|Operations Bureau|Battalion 3
+47372|Bruce|Neuhaus|Captain I|EMT|418|B|||418|Operations Bureau|Battalion 4
+50038|Robert|Garza|Captain I|EMT|418|C|||418|Operations Bureau|Battalion 4
+48071|Richard|Trudeau|Captain I|EMT|419|B|||419|Operations Bureau|Battalion 6
+50090|Kenneth|Geffen|Captain I|Paramedic|419|C|||419|Operations Bureau|Battalion 6
+47364|Leroy|Butler|Captain I|EMT|420|A|||420|Operations Bureau|Battalion 6
+50044|Barry|Maham|Captain I|EMT|420|C|||420|Operations Bureau|Battalion 6
+47733|Earl|Burroughs|Captain I|EMT|421|A|||421|Operations Bureau|Battalion 3
+50211|Alexander|Obert|Captain I|Intermediate|421|B|||421|Operations Bureau|Battalion 3
+47139|Gerard|Morrison|Captain I|EMT|422|B|||422|Operations Bureau|Battalion 5
+47808|Emily|Murphy|Captain I|EMT|422|C|||422|Operations Bureau|Battalion 5
+47987|Michael|Sease|Captain I|EMT|423|A|||423|Operations Bureau|Battalion 4
+50521|Douglas|Washington|Captain I|EMT|423|B|||423|Operations Bureau|Battalion 4
+47977|Steven|Henry|Captain I|EMT|424|A|||424|Operations Bureau|Battalion 6
+47809|Trenton|Houghton|Captain I|EMT|424|B|||424|Operations Bureau|Battalion 6
+47965|William|Schellhammer|Captain I|EMT|425|B|||425|Operations Bureau|Battalion 1
+47750|Antonio|Trammell|Captain I|EMT|425|C|||425|Operations Bureau|Battalion 1
+47710|Ronald|Kuley|Captain I|EMT|426|A|||426|Operations Bureau|Battalion 5
+47853|Christopher|Brown|Captain I|EMT|426|C|||426|Operations Bureau|Battalion 5
+50491|Thomas|Nevin|Captain I|Paramedic|427|A|||427|Operations Bureau|Battalion 5
+50198|Stephen|McCay|Captain I|Paramedic|427|B|||427|Operations Bureau|Battalion 5
+50291|Dustin|Cramer|Captain I|Intermediate|428|A|||428|Operations Bureau|Battalion 4
+50423|Clarence|Dickens|Captain I|Intermediate|428|C|||428|Operations Bureau|Battalion 4
+50032|David|Bentley|Captain I|Intermediate|429|A|||429|Operations Bureau|Battalion 2
+47974|Mark|Ebersole|Captain I|Paramedic|429|C|||429|Operations Bureau|Battalion 2
+47779|Stephen|O'Brien|Captain I|EMT|430|A|||430|Operations Bureau|Battalion 2
+50056|William|Vance|Captain I|Intermediate|430|B|||430|Operations Bureau|Battalion 2
+47756|Robert|Banasik|Captain I|EMT|431|B|||431|Operations Bureau|Battalion 1
+50222|Thomas|Johnson|Captain I|Intermediate|431|C|||431|Operations Bureau|Battalion 1
+47911|Barry|Rathbone|Captain I|EMT|432|A|||432|Operations Bureau|Battalion 7
+48069|Steven|Schellhammer|Captain I|EMT|432|C|||432|Operations Bureau|Battalion 7
+50040|Stephen|Hurst|Captain I|EMT|434|B|||434|Operations Bureau|Battalion 3
+47715|Marc|Straubinger|Captain I|EMT|434|C|||434|Operations Bureau|Battalion 3
+47904|Philip|Jenkins|Captain I|Paramedic|435|A|||435|Operations Bureau|Battalion 7
+47477|James|Dennis|Captain I|EMT|435|B|||435|Operations Bureau|Battalion 7
+47751|Chester|Waters|Captain I|EMT|435|A|SAF401|||Operations Bureau|Battalion 7
+50468|Gregory|Barnett|Captain I|Paramedic|435|B|SAF401|||Operations Bureau|Battalion 7
+50223|Matthew|Phillips|Captain I|EMT|436|A|||436|Operations Bureau|Battalion 1
+50217|Matthew|Cox|Captain I|EMT|436|B|||436|Operations Bureau|Battalion 1
+47783|Derek|Edwards|Captain I|EMT|437|B|||437|Operations Bureau|Battalion 5
+50016|Derrick|Penny|Captain I|EMT|437|C|||437|Operations Bureau|Battalion 5
+47831|Richard|Lancing|Captain I|EMT|438|B|||438|Operations Bureau|Battalion 3
+47707|Colin|Flanigan|Captain I|Paramedic|438|C|||438|Operations Bureau|Battalion 3
+50425|Kelly|Johnston|Captain I|Paramedic|439|A|||439|Operations Bureau|Battalion 1
+50203|Reginald|Wadley|Captain I|EMT|439|C|||439|Operations Bureau|Battalion 1
+47698|Richard|Schaub|Captain I|EMT|440|A|||440|Operations Bureau|Battalion 3
+47896|Michael|Greulich|Captain I|EMT|440|C|||440|Operations Bureau|Battalion 3
+47431|James|Johnson|Captain I|Paramedic|441|B|||441|Operations Bureau|Battalion 7
+47635|Nicholas|Weresnick|Captain I|EMT|441|C|||441|Operations Bureau|Battalion 7
+48024|Keith|Cerzullo|Captain I|EMT|442|B|||442|Operations Bureau|Battalion 2
+47614|Charles|Martin|Captain I|Paramedic|442|C|||442|Operations Bureau|Battalion 2
+47961|William|Moreland|Captain II|EMT|401|C||401|401|Operations Bureau|Battalion 2
+47906|Corey|Matthews|Captain II|EMT|402|B||402|402|Operations Bureau|Battalion 2
+50042|Robert|Kitchen|Captain II|EMT|404|C||404|404|Operations Bureau|Battalion 1
+50081|Todd|Barb|Captain II|Paramedic|405|C||405|405|Operations Bureau|Battalion 5
+50253|Christopher|Sampl|Captain II|Intermediate|408|C||408|408|Operations Bureau|Battalion 4
+48002|Michael|Fischer|Captain II|EMT|409|B||409|409|Operations Bureau|Battalion 6
+50002|David|Barlow|Captain II|Advanced EMT|410|A||410|410|Operations Bureau|Battalion 4
+47763|Arthur|Cox|Captain II|EMT|411|A||411|411|Operations Bureau|Battalion 6
+47948|Michael|Allen|Captain II|EMT|412|B||412|412|Operations Bureau|Battalion 1
+50141|William|Lynch|Captain II|EMT|413|A||413|413|Operations Bureau|Battalion 2
+47891|Rodney|Vaughan|Captain II|EMT|413|B|SAF403|||Operations Bureau|Battalion 2
+47136|Michael|Istvan|Captain II|EMT|414|B||414|414|Operations Bureau|Battalion 7
+50380|Tracey|Reed|Captain II|Paramedic|415|C||415|415|Operations Bureau|Battalion 3
+47741|James|Hobgood|Captain II|EMT|415|A|SAF402|||Operations Bureau|Battalion 3
+47692|Stephen|Miller|Captain II|EMT|416|C||416|416|Operations Bureau|Battalion 7
+47863|Thomas|Mayhew|Captain II|EMT|417|B||417|417|Operations Bureau|Battalion 3
+47784|Sean|Evans|Captain II|EMT|418|A||418|418|Operations Bureau|Battalion 4
+50367|John|Tedesco|Captain II|Paramedic|418|A|EMS404|||Operations Bureau|Battalion 4
+50116|Adam|Lieb|Captain II|Paramedic|418|B|EMS404|||Operations Bureau|Battalion 4
+50209|Calvin|Alexander|Captain II|Paramedic|418|C|EMS404|||Operations Bureau|Battalion 4
+47933|William|Vannoy|Captain II|Paramedic|419|A||419|419|Operations Bureau|Battalion 6
+50083|Mathew|Barnhart|Captain II|Paramedic|420|B||420|420|Operations Bureau|Battalion 6
+50005|Matthew|Burns|Captain II|EMT|421|C||421|421|Operations Bureau|Battalion 3
+48036|Jeffrey|Mongold|Captain II|EMT|422|A||422|422|Operations Bureau|Battalion 5
+50435|David|Weand|Captain II|Paramedic|423|C||423|423|Operations Bureau|Battalion 4
+47135|James|Istvan|Captain II|EMT|424|C||424|424|Operations Bureau|Battalion 6
+48005|Charles|Henderson|Captain II|Paramedic|424|A|EMS406|||Operations Bureau|Battalion 6
+47886|Kimberly|Hood|Captain II|Paramedic|424|B|EMS406|||Operations Bureau|Battalion 6
+50080|Timothy|Barb|Captain II|Intermediate|424|C|EMS406|||Operations Bureau|Battalion 6
+47673|Eric|Cunningham|Captain II|EMT|425|A||425|425|Operations Bureau|Battalion 1
+50027|Mark|Menton|Captain II|Paramedic|426|B||426|426|Operations Bureau|Battalion 5
+47967|David|Schwarzmann|Captain II|Paramedic|426|A|EMS405|||Operations Bureau|Battalion 5
+48051|Donald|Brasfield|Captain II|Intermediate|426|B|EMS405|||Operations Bureau|Battalion 5
+48038|Bryan|Nix|Captain II|Paramedic|426|C|EMS405|||Operations Bureau|Battalion 5
+47415|Donald|Vaught|Captain II|Paramedic|427|C||427|427|Operations Bureau|Battalion 5
+50163|Derrick|Colden|Captain II|EMT|428|B||428|428|Operations Bureau|Battalion 4
+47870|Michael|Whetsell|Captain II|EMT|429|B||429|429|Operations Bureau|Battalion 2
+47641|Mervin|Barrera|Captain II|EMT|430|C||430|430|Operations Bureau|Battalion 2
+48045|Oscar|Wells|Captain II|EMT|431|A||431|431|Operations Bureau|Battalion 1
+50245|Mark|Kordalski|Captain II|Paramedic|431|A|EMS401|||Operations Bureau|Battalion 1
+47506|Wayne|Wentzel|Captain II|Paramedic|431|B|EMS401|||Operations Bureau|Battalion 1
+47952|Kevin|Edwards|Captain II|Paramedic|431|C|EMS401|||Operations Bureau|Battalion 1
+47852|Daniel|Borden|Captain II|EMT|432|B||432|432|Operations Bureau|Battalion 7
+50269|Andrew|Devlin|Captain II|EMT|434|A||434|434|Operations Bureau|Battalion 3
+47814|Dennis|Passmore|Captain II|Intermediate|435|C||435|435|Operations Bureau|Battalion 7
+47594|Jack|Walmer|Captain II|EMT|435|C|SAF401|||Operations Bureau|Battalion 7
+47545|Tony|Kostecka|Captain II|EMT|436|C||436|436|Operations Bureau|Battalion 1
+47658|John|Richter|Captain II|EMT|437|A||437|437|Operations Bureau|Battalion 5
+47654|Danny|Daniels|Captain II|EMT|438|A||438|438|Operations Bureau|Battalion 3
+47971|Randal|Bittinger|Captain II|EMT|439|B||439|439|Operations Bureau|Battalion 1
+47739|David|Gruendel|Captain II|EMT|440|B||440|440|Operations Bureau|Battalion 3
+48016|John|Streeter|Captain II|Paramedic|440|A|EMS403|||Operations Bureau|Battalion 3
+50226|Michael|Snapp|Captain II|Paramedic|440|B|EMS403|||Operations Bureau|Battalion 3
+50145|Jennifer|Svites|Captain II|Paramedic|440|C|EMS403|||Operations Bureau|Battalion 3
+47436|Joseph|Palau|Captain II|EMT|441|A||441|441|Operations Bureau|Battalion 7
+47127|Mark|Guditus|Captain II|Paramedic|441|A|EMS407|||Operations Bureau|Battalion 7
+47473|Carlton|Burkhammer|Captain II|Paramedic|441|B|EMS407|||Operations Bureau|Battalion 7
+47747|Mark|Schroeder|Captain II|Paramedic|441|C|EMS407|||Operations Bureau|Battalion 7
+50052|Patrick|Sheehan|Captain II|EMT|442|A||442|442|Operations Bureau|Battalion 2
+47960|Joseph|Merritt|Captain II|Paramedic|442|A|EMS402|||Operations Bureau|Battalion 2
+47699|David|Sellers|Captain II|Paramedic|442|B|EMS402|||Operations Bureau|Battalion 2
+47764|Charles|Cunningham|Captain II|Paramedic|442|C|EMS402|||Operations Bureau|Battalion 2
+47912|Daniel|Shaw|Deputy Chief|EMT|430|A|DFCO|||Operations Bureau|DFCO
+47622|William|Garrett|Deputy Chief|Paramedic|430|B|DFCO|||Operations Bureau|DFCO
+47762|Bradford|Cochrane|Deputy Chief|EMT|430|C|DFCO|||Operations Bureau|DFCO
+51325|Antonio|Clavijo Cortes|Firefighter|EMT|401|A||||Operations Bureau|Battalion 2
+50459|Travis|Nguyen|Firefighter|EMT|401|A||||Operations Bureau|Battalion 2
+48010|Richard|Peterson|Firefighter|EMT|401|A||||Operations Bureau|Battalion 2
+51280|James|Brittenham|Firefighter|Paramedic|401|B||||Operations Bureau|Battalion 2
+51065|Trent|Thomas|Firefighter|EMT|401|B||||Operations Bureau|Battalion 2
+51068|Marcus|Woods|Firefighter|EMT|401|B||||Operations Bureau|Battalion 2
+51097|Austin|Gum|Firefighter|EMT|401|C||||Operations Bureau|Battalion 2
+50689|Stanley|Manuel|Firefighter|EMT|401|C||||Operations Bureau|Battalion 2
+51101|Dale|Shord|Firefighter|EMT|401|C||||Operations Bureau|Battalion 2
+50926|Randall|Gage|Firefighter|Paramedic|401|A||||Operations Bureau|Battalion 2
+51122|Jason|Crawford|Firefighter|EMT|402|A||||Operations Bureau|Battalion 2
+48067|Donald|Rohr|Firefighter|EMT|402|A||||Operations Bureau|Battalion 2
+50478|Ahmed|Harris|Firefighter|EMT|402|B||||Operations Bureau|Battalion 2
+51337|Linda|Lee|Firefighter|EMT|402|B||||Operations Bureau|Battalion 2
+50986|Latoya|Johnson|Firefighter|Paramedic|402|C||||Operations Bureau|Battalion 2
+51123|Patrick|Di-Cesare|Firefighter|EMT|402|C||||Operations Bureau|Battalion 2
+51315|Elliott|Ferrence|Firefighter|EMT|402|C||||Operations Bureau|Battalion 2
+50619|Man|Li|Firefighter|EMT|402|C||||Operations Bureau|Battalion 2
+51395|William|Turk|Firefighter|EMT|402|C||||Operations Bureau|Battalion 2
+50919|Sidney|Boyd|Firefighter|EMT|404|A||||Operations Bureau|Battalion 1
+51384|Daniel|Mechling|Firefighter|Intermediate|404|A||||Operations Bureau|Battalion 1
+51360|Manuel|Castellon|Firefighter|EMT|404|B||||Operations Bureau|Battalion 1
+50683|Karl|Goza|Firefighter|EMT|404|B||||Operations Bureau|Battalion 1
+51197|David|Feder|Firefighter|EMT|404|C||||Operations Bureau|Battalion 1
+51356|Nicholas|Stricklen|Firefighter|EMT|404|C||||Operations Bureau|Battalion 1
+51116|John|Tschann|Firefighter|EMT|404|C||||Operations Bureau|Battalion 1
+51296|Adam|Hall|Firefighter|Paramedic|404|A||||Operations Bureau|Battalion 1
+51286|Joshua|Eimers|Firefighter|Paramedic|404|B||||Operations Bureau|Battalion 1
+50128|Gregory|Affeldt|Firefighter|EMT|405|A||||Operations Bureau|Battalion 5
+51042|Daniel|Bridges|Firefighter|EMT|405|A||||Operations Bureau|Battalion 5
+51345|Justin|Dyer|Firefighter|EMT|405|A||||Operations Bureau|Battalion 5
+51088|Timothy|Sullivan|Firefighter|EMT|405|A||||Operations Bureau|Battalion 5
+55718|Jesse|Kruse|Firefighter|EMT|405|B||||Operations Bureau|Battalion 5
+51385|Andrew|Mullinax|Firefighter|Paramedic|405|B||||Operations Bureau|Battalion 5
+50492|Derick|Ondra|Firefighter|EMT|405|B||||Operations Bureau|Battalion 5
+50251|James|Pinkney|Firefighter|EMT|405|B||||Operations Bureau|Battalion 5
+50462|Hakim|Smith|Firefighter|EMT|405|B||||Operations Bureau|Battalion 5
+51118|Ondra|Berry|Firefighter|EMT|405|C||||Operations Bureau|Battalion 5
+51329|Quentin|Hayes|Firefighter|EMT|405|C||||Operations Bureau|Battalion 5
+51348|John|Jones|Firefighter|EMT|405|C||||Operations Bureau|Battalion 5
+51257|Ali|Najjar|Firefighter|Paramedic|405|C||||Operations Bureau|Battalion 5
+50996|Renwick|Richardson|Firefighter|EMT|405|C||||Operations Bureau|Battalion 5
+51243|Michael|Coppersmith|Firefighter|Paramedic|405|B||||Operations Bureau|Battalion 5
+51305|Jinson|Wong|Firefighter|Paramedic|405|C||||Operations Bureau|Battalion 5
+51057|Ruth|Ballard|Firefighter|EMT|408|A||||Operations Bureau|Battalion 4
+51240|Casey|Braswell|Firefighter|EMT|408|A||||Operations Bureau|Battalion 4
+51242|Jesus|Castro|Firefighter|Paramedic|408|A||||Operations Bureau|Battalion 4
+51250|Matthew|Ifert|Firefighter|EMT|408|A||||Operations Bureau|Battalion 4
+51224|Clarence|Tombo|Firefighter|EMT|408|A||||Operations Bureau|Battalion 4
+51102|Stephen|Washenko|Firefighter|EMT|408|A||||Operations Bureau|Battalion 4
+50923|Charles|Cubbage|Firefighter|EMT|408|B||||Operations Bureau|Battalion 4
+51201|Michael|Hertig|Firefighter|EMT|408|B||||Operations Bureau|Battalion 4
+51300|Robyn|Kane|Firefighter|EMT|408|B||||Operations Bureau|Battalion 4
+50930|Maillim|Manzano|Firefighter|EMT|408|B||||Operations Bureau|Battalion 4
+51408|Sean|Sack|Firefighter|Paramedic|408|B||||Operations Bureau|Battalion 4
+51326|Mari|Christenson|Firefighter|EMT|408|C||||Operations Bureau|Battalion 4
+51173|Michael|Conway|Firefighter|EMT|408|C||||Operations Bureau|Battalion 4
+50909|Sean|O'Neill|Firefighter|EMT|408|C||||Operations Bureau|Battalion 4
+51237|Blake|Riggleman|Firefighter|EMT|408|C||||Operations Bureau|Battalion 4
+51303|Kendrix|Merritt|Firefighter|Paramedic|408|A||||Operations Bureau|Battalion 4
+51368|Muhammad|Dizicheh|Firefighter|Paramedic|408|C||||Operations Bureau|Battalion 4
+51289|Joseph|Shipman|Firefighter|Paramedic|408|C||||Operations Bureau|Battalion 4
+51182|Miriam|Bender|Firefighter|Paramedic|409|A||||Operations Bureau|Battalion 6
+50392|Walter|Covert|Firefighter|EMT|409|A||||Operations Bureau|Battalion 6
+51330|Thomas|Nevin|Firefighter|EMT|409|A||||Operations Bureau|Battalion 6
+51067|Ryan|Warner|Firefighter|EMT|409|A||||Operations Bureau|Battalion 6
+51043|Rashad|Briscoe|Firefighter|EMT|409|B||||Operations Bureau|Battalion 6
+51375|Megan|Field|Firefighter|Paramedic|409|B||||Operations Bureau|Battalion 6
+50944|Justin|Jackson|Firefighter|EMT|409|B||||Operations Bureau|Battalion 6
+51386|Christian|Perdue|Firefighter|EMT|409|C||||Operations Bureau|Battalion 6
+51212|Sergio|Quinn|Firefighter|EMT|409|C||||Operations Bureau|Battalion 6
+51246|Daniel|Fitzhenry|Firefighter|Paramedic|409|C||||Operations Bureau|Battalion 6
+51079|Kimo|Desantos|Firefighter|EMT|410|A||||Operations Bureau|Battalion 4
+51174|Jonathan|Shao|Firefighter|EMT|410|A||||Operations Bureau|Battalion 4
+51313|Lauren|Wertz|Firefighter|EMT|410|A||||Operations Bureau|Battalion 4
+51103|Justin|Williams|Firefighter|EMT|410|A||||Operations Bureau|Battalion 4
+50801|Meredith|Bell|Firefighter|EMT|410|B||||Operations Bureau|Battalion 4
+50653|Baatarjav|Javkhlan|Firefighter|EMT|410|B||||Operations Bureau|Battalion 4
+50954|Hyun|Kang|Firefighter|EMT|410|B||||Operations Bureau|Battalion 4
+51252|Mark|Langmead|Firefighter|EMT|410|B||||Operations Bureau|Battalion 4
+51072|Diego|Ramirez-Grast|Firefighter|EMT|410|B||||Operations Bureau|Battalion 4
+51184|Michael|Salzano|Firefighter|EMT|410|B||||Operations Bureau|Battalion 4
+51292|Allen|Bizzell|Firefighter|EMT|410|C||||Operations Bureau|Battalion 4
+51047|Robert|Castellanos|Firefighter|EMT|410|C||||Operations Bureau|Battalion 4
+51190|Dustin|Green|Firefighter|EMT|410|C||||Operations Bureau|Battalion 4
+51276|Grant|Higginbotham|Firefighter|EMT|410|C||||Operations Bureau|Battalion 4
+51299|Jonathan|Hughes|Firefighter|Advanced EMT|410|C||||Operations Bureau|Battalion 4
+50969|James|Tolson|Firefighter|EMT|410|C||||Operations Bureau|Battalion 4
+51140|Rodney|Wise|Firefighter|EMT|410|C||||Operations Bureau|Battalion 4
+51262|Shaun|Serich|Firefighter|Paramedic|410|A||||Operations Bureau|Battalion 4
+51290|Garrett|Green|Firefighter|Paramedic|410|B||||Operations Bureau|Battalion 4
+51266|Zachary|Webb|Firefighter|Paramedic|410|B||||Operations Bureau|Battalion 4
+51217|Tyler|Brady|Firefighter|Paramedic|410|C||||Operations Bureau|Battalion 4
+50554|Kalyan|Bruce|Firefighter|EMT|411|A||||Operations Bureau|Battalion 6
+50947|Ryan|Chinn|Firefighter|EMT|411|A||||Operations Bureau|Battalion 6
+51153|Shane|Dickinson|Firefighter|EMT|411|A||||Operations Bureau|Battalion 6
+50730|Tanya|Hall|Firefighter|Intermediate|411|A||||Operations Bureau|Battalion 6
+51387|Jessica|Salpini|Firefighter|Paramedic|411|A||||Operations Bureau|Battalion 6
+51161|Vincent|Harrison|Firefighter|EMT|411|B||||Operations Bureau|Battalion 6
+50570|Christopher|Murray|Firefighter|EMT|411|B||||Operations Bureau|Battalion 6
+50933|Hakim|Newsome|Firefighter|EMT|411|B||||Operations Bureau|Battalion 6
+51355|Dreanna|Salang|Firefighter|EMT|411|B||||Operations Bureau|Battalion 6
+51323|Zachary|Walton|Firefighter|Intermediate|411|B||||Operations Bureau|Battalion 6
+51273|James|Cox|Firefighter|EMT|411|C||||Operations Bureau|Battalion 6
+51319|Gregory|Leake|Firefighter|EMT|411|C||||Operations Bureau|Battalion 6
+51388|Matthew|Sherwood|Firefighter|EMT|411|C||||Operations Bureau|Battalion 6
+51096|Robert|Elam|Firefighter|Paramedic|411|A||||Operations Bureau|Battalion 6
+51274|Preston|Elder|Firefighter|Paramedic|411|A||||Operations Bureau|Battalion 6
+51228|Jeremy|Heck|Firefighter|Paramedic|411|A||||Operations Bureau|Battalion 6
+51215|John|Winstead|Firefighter|Paramedic|411|B||||Operations Bureau|Battalion 6
+51227|Kyle|Gregg|Firefighter|Paramedic|411|C||||Operations Bureau|Battalion 6
+51370|Timothy|Sweeney|Firefighter|Paramedic|411|C||||Operations Bureau|Battalion 6
+51231|Erin|Bond|Firefighter|EMT|412|B||||Operations Bureau|Battalion 1
+47900|John|Fleming|Firefighter|EMT|412|B||||Operations Bureau|Battalion 1
+50891|Andrew|Crush|Firefighter|Intermediate|412|B||||Operations Bureau|Battalion 1
+51154|Brittany|Horak|Firefighter|EMT|413|B||||Operations Bureau|Battalion 2
+51024|Tricia|Nelsen|Firefighter|EMT|413|B||||Operations Bureau|Battalion 2
+51239|Quincy|Branch|Firefighter|EMT|413|C||||Operations Bureau|Battalion 2
+51314|Ashley|Coleman|Firefighter|Paramedic|413|A||||Operations Bureau|Battalion 2
+51302|John|McCollom|Firefighter|Paramedic|413|C||||Operations Bureau|Battalion 2
+51405|Melissa|Berkowitz|Firefighter|Paramedic|414|A||||Operations Bureau|Battalion 7
+51206|Shon|Daniels|Firefighter|Paramedic|414|A||||Operations Bureau|Battalion 7
+51194|Anthony|Dent|Firefighter|EMT|414|B||||Operations Bureau|Battalion 7
+51362|Kenneth|Howard|Firefighter|EMT|414|B||||Operations Bureau|Battalion 7
+51397|Andrew|Wycheck|Firefighter|EMT|414|C||||Operations Bureau|Battalion 7
+51298|Kyle|Hihn|Firefighter|Paramedic|414|C||||Operations Bureau|Battalion 7
+51335|Garrett|Irving|Firefighter|Paramedic|414|C||||Operations Bureau|Battalion 7
+51150|David|Bulaski|Firefighter|EMT|415|A||||Operations Bureau|Battalion 3
+51183|Kenneth|Cornett|Firefighter|EMT|415|A||||Operations Bureau|Battalion 3
+50328|Brenda|Pamperin|Firefighter|EMT|415|A||||Operations Bureau|Battalion 3
+51399|Shawn|Jaret|Firefighter|Paramedic|415|B||||Operations Bureau|Battalion 3
+50985|Thomas|Johnson|Firefighter|EMT|415|B||||Operations Bureau|Battalion 3
+50085|Vincent|Boyle|Firefighter|EMT|415|C||||Operations Bureau|Battalion 3
+50814|Merneptah|Funn|Firefighter|EMT|415|C||||Operations Bureau|Battalion 3
+51391|Thien|Tran|Firefighter|Paramedic|415|C||||Operations Bureau|Battalion 3
+50580|Irene|Lawrence|Firefighter|Intermediate|416|A||||Operations Bureau|Battalion 7
+48013|George|Samartino|Firefighter|EMT|416|A||||Operations Bureau|Battalion 7
+47846|Song|Yi|Firefighter|EMT|416|A||||Operations Bureau|Battalion 7
+50682|Lilia|Alvarado|Firefighter|EMT|416|B||||Operations Bureau|Battalion 7
+50802|Kurt|Bolling|Firefighter|EMT|416|B||||Operations Bureau|Battalion 7
+47939|Erich|Williams|Firefighter|EMT|416|B||||Operations Bureau|Battalion 7
+50292|Paul|Fraraccio|Firefighter|EMT|416|C||||Operations Bureau|Battalion 7
+50656|Adriean|Lipscomb|Firefighter|EMT|416|C||||Operations Bureau|Battalion 7
+47947|Gregory|Morton|Firefighter|EMT|416|C||||Operations Bureau|Battalion 7
+51283|Roberto|Acha Melgar|Firefighter|EMT|417|A||||Operations Bureau|Battalion 3
+51301|Jaeman|Lee|Firefighter|EMT|417|A||||Operations Bureau|Battalion 3
+51396|William|Wagner|Firefighter|EMT|417|A||||Operations Bureau|Battalion 3
+50323|Gary|Butler|Firefighter|EMT|417|B||||Operations Bureau|Battalion 3
+50015|Joseph|Morris|Firefighter|EMT|417|B||||Operations Bureau|Battalion 3
+51350|Won|Noh|Firefighter|EMT|417|B||||Operations Bureau|Battalion 3
+51259|Harold|Parra Romero|Firefighter|EMT|417|B||||Operations Bureau|Battalion 3
+51339|Evan|Bache|Firefighter|EMT|417|C||||Operations Bureau|Battalion 3
+51055|Anthony|Harley|Firefighter|EMT|417|C||||Operations Bureau|Battalion 3
+50625|Peter|Perez|Firefighter|EMT|417|C||||Operations Bureau|Battalion 3
+51000|Julianne|Tomesheski|Firefighter|Paramedic|417|C||||Operations Bureau|Battalion 3
+51371|Tavia|Turner|Firefighter|EMT|418|A||||Operations Bureau|Battalion 4
+51269|Taylor|Grigg|Firefighter|EMT|418|B||||Operations Bureau|Battalion 4
+51094|Stephen|Langone|Firefighter|EMT|418|C||||Operations Bureau|Battalion 4
+51241|Rachael|Callison|Firefighter|EMT|419|A||||Operations Bureau|Battalion 6
+51050|Elliot|Foster|Firefighter|Advanced EMT|419|A||||Operations Bureau|Battalion 6
+51115|Branson|Rathbone|Firefighter|EMT|419|A||||Operations Bureau|Battalion 6
+51087|Alexander|McKenna|Firefighter|EMT|419|B||||Operations Bureau|Battalion 6
+51144|Daniel|Perreault|Firefighter|EMT|419|B||||Operations Bureau|Battalion 6
+50786|Jason|Reisch|Firefighter|EMT|419|B||||Operations Bureau|Battalion 6
+50054|Alex|Stewart|Firefighter|EMT|419|C||||Operations Bureau|Battalion 6
+50634|Brandon|Winfield|Firefighter|EMT|419|C||||Operations Bureau|Battalion 6
+47995|Keith|Baughan|Firefighter|EMT|420|A||||Operations Bureau|Battalion 6
+50191|Clinton|Brown|Firefighter|EMT|420|A||||Operations Bureau|Battalion 6
+50332|Facundo|Silva|Firefighter|EMT|420|A||||Operations Bureau|Battalion 6
+47980|Trina|Mosier|Firefighter|EMT|420|B||||Operations Bureau|Battalion 6
+50445|Mica|Bland|Firefighter|EMT|420|C||||Operations Bureau|Battalion 6
+50550|Kyle|Turner|Firefighter|EMT|420|C||||Operations Bureau|Battalion 6
+50635|Adam|Wright|Firefighter|EMT|420|C||||Operations Bureau|Battalion 6
+51078|Joseph|Cornwell|Firefighter|EMT|421|A||||Operations Bureau|Battalion 3
+55611|Daniel|Davis|Firefighter|Paramedic|421|A||||Operations Bureau|Battalion 3
+51162|Daniel|Park|Firefighter|EMT|421|B||||Operations Bureau|Battalion 3
+51320|Tyrone|Lewis|Firefighter|EMT|421|C||||Operations Bureau|Battalion 3
+51199|Jacob|Brendel|Firefighter|EMT|422|A||||Operations Bureau|Battalion 5
+51316|Christopher|George|Firefighter|EMT|422|A||||Operations Bureau|Battalion 5
+51233|Melanie|Kemery|Firefighter|EMT|422|A||||Operations Bureau|Battalion 5
+51258|Gracie|Pak|Firefighter|EMT|422|A||||Operations Bureau|Battalion 5
+51390|Armando|Solano|Firefighter|EMT|422|A||||Operations Bureau|Battalion 5
+50288|Antoine|Allen|Firefighter|EMT|422|B||||Operations Bureau|Battalion 5
+50672|Ariel|Banagan|Firefighter|EMT|422|B||||Operations Bureau|Battalion 5
+51180|Scott|Halisky|Firefighter|EMT|422|B||||Operations Bureau|Battalion 5
+51203|Brian|Krause|Firefighter|EMT|422|B||||Operations Bureau|Battalion 5
+47758|Jerome|Bethea|Firefighter|EMT|422|C||||Operations Bureau|Battalion 5
+51308|Calvin|Branch|Firefighter|EMT|422|C||||Operations Bureau|Battalion 5
+51351|Christopher|Payne|Firefighter|EMT|422|C||||Operations Bureau|Battalion 5
+51108|Benjamin|Sisson|Firefighter|EMT|422|C||||Operations Bureau|Battalion 5
+50970|James|Welling|Firefighter|Paramedic|422|A||||Operations Bureau|Battalion 5
+51336|Ian|Richards|Firefighter|Paramedic|422|B||||Operations Bureau|Battalion 5
+51285|Adam|Boyd|Firefighter|Paramedic|422|C||||Operations Bureau|Battalion 5
+51209|William|Kelley|Firefighter|Paramedic|422|C||||Operations Bureau|Battalion 5
+50591|Richard|Fossum|Firefighter|EMT|423|A||||Operations Bureau|Battalion 4
+50736|Dameon|Lloyd|Firefighter|EMT|423|A||||Operations Bureau|Battalion 4
+51223|Robert|Stahl|Firefighter|EMT|423|A||||Operations Bureau|Battalion 4
+51294|James|Campbell|Firefighter|EMT|423|B||||Operations Bureau|Battalion 4
+51260|Roberto|Rodriguez|Firefighter|EMT|423|B||||Operations Bureau|Battalion 4
+47509|Roger|Gent|Firefighter|EMT|423|C||||Operations Bureau|Battalion 4
+51389|Corey|Smith|Firefighter|EMT|423|C||||Operations Bureau|Battalion 4
+51317|Jonathan|Groves|Firefighter|Paramedic|423|A||||Operations Bureau|Battalion 4
+55589|Brendan|Downing|Firefighter|EMT|424|A||||Operations Bureau|Battalion 6
+51312|John|Nowadly|Firefighter|EMT|424|A||||Operations Bureau|Battalion 6
+50465|Elizabeth|Wagner|Firefighter|EMT|424|A||||Operations Bureau|Battalion 6
+50987|Jamie|Langley|Firefighter|Paramedic|424|B||||Operations Bureau|Battalion 6
+50754|Joel|Atagwe|Firefighter|EMT|424|B||||Operations Bureau|Battalion 6
+51347|Brandon|Harris|Firefighter|Paramedic|424|B||||Operations Bureau|Battalion 6
+55575|Matthew|Quigley|Firefighter|EMT|424|B||||Operations Bureau|Battalion 6
+50028|Clayton|Thompson|Firefighter|EMT|424|B||||Operations Bureau|Battalion 6
+50641|Richard|Cantarella|Firefighter|EMT|424|C||||Operations Bureau|Battalion 6
+50557|Scott|Dobson|Firefighter|EMT|424|C||||Operations Bureau|Battalion 6
+51157|Marcus|McPherson|Firefighter|EMT|424|C||||Operations Bureau|Battalion 6
+51363|Alexander|Omar|Firefighter|EMT|424|C||||Operations Bureau|Battalion 6
+50936|Jovan|Reid|Firefighter|EMT|424|C||||Operations Bureau|Battalion 6
+51263|Marcus|Tines|Firefighter|EMT|424|C||||Operations Bureau|Battalion 6
+51251|Michael|Johnson|Firefighter|Paramedic|424|B||||Operations Bureau|Battalion 6
+51256|Justen|Moreland|Firefighter|Paramedic|424|B||||Operations Bureau|Battalion 6
+51247|Joseph|Gallo|Firefighter|EMT|425|A||||Operations Bureau|Battalion 1
+51394|Aria|Khodabakhchian|Firefighter|Paramedic|425|A||||Operations Bureau|Battalion 1
+51311|Michael|Lattimer|Firefighter|EMT|425|A||||Operations Bureau|Battalion 1
+50515|Delfin|Reyes|Firefighter|EMT|425|A||||Operations Bureau|Battalion 1
+51200|Michael|Gonzalez|Firefighter|EMT|425|B||||Operations Bureau|Battalion 1
+51136|Daniel|Morrison|Firefighter|EMT|425|B||||Operations Bureau|Battalion 1
+51322|Ryan|Powell|Firefighter|EMT|425|B||||Operations Bureau|Battalion 1
+50935|Christopher|Puzzanghero|Firefighter|EMT|425|B||||Operations Bureau|Battalion 1
+51099|Brian|Reaver|Firefighter|EMT|425|B||||Operations Bureau|Battalion 1
+50756|Fidel|Blanco|Firefighter|EMT|425|C||||Operations Bureau|Battalion 1
+51293|Matthew|Bui|Firefighter|EMT|425|C||||Operations Bureau|Battalion 1
+50728|Jeremy|Godines|Firefighter|EMT|425|C||||Operations Bureau|Battalion 1
+51401|Tyler|Sevener|Firefighter|EMT|425|C||||Operations Bureau|Battalion 1
+51090|Robert|Wealand|Firefighter|EMT|425|C||||Operations Bureau|Battalion 1
+51272|Timothy|Breslin|Firefighter|Paramedic|425|A||||Operations Bureau|Battalion 1
+51304|Jessica|Vukmanic|Firefighter|Paramedic|425|B||||Operations Bureau|Battalion 1
+51255|Jacob|Maund|Firefighter|Paramedic|425|C||||Operations Bureau|Battalion 1
+51327|Joshua|Schuchman|Firefighter|Paramedic|425|C||||Operations Bureau|Battalion 1
+51159|Delonte|Smith|Firefighter|EMT|426|A||||Operations Bureau|Battalion 5
+51318|Walter|Hanson|Firefighter|EMT|426|B||||Operations Bureau|Battalion 5
+50438|Marcus|Wilson|Firefighter|EMT|426|B||||Operations Bureau|Battalion 5
+50389|Bilal|Ali|Firefighter|EMT|426|C||||Operations Bureau|Battalion 5
+51234|Conrad|Colby|Firefighter|Paramedic|426|C||||Operations Bureau|Battalion 5
+51393|Stephen|Williams|Firefighter|EMT|426|C||||Operations Bureau|Battalion 5
+51324|Laura|Calkins|Firefighter|Paramedic|426|A||||Operations Bureau|Battalion 5
+50916|Robert|Blasetti|Firefighter|Paramedic|426|B||||Operations Bureau|Battalion 5
+50783|Rodney|Washington|Firefighter|EMT|427|A||||Operations Bureau|Battalion 5
+50585|Marlon|Charles|Firefighter|EMT|427|B||||Operations Bureau|Battalion 5
+51342|Stephen|Ching|Firefighter|EMT|427|B||||Operations Bureau|Battalion 5
+50312|Mark|Williams|Firefighter|EMT|427|B||||Operations Bureau|Battalion 5
+51279|Cristina-Michael|Wittlinger|Firefighter|EMT|427|B||||Operations Bureau|Battalion 5
+50498|Mario|Board|Firefighter|EMT|427|C||||Operations Bureau|Battalion 5
+50441|Angela|Ocampo|Firefighter|Intermediate|427|C||||Operations Bureau|Battalion 5
+50460|Nathanael|Perkins|Firefighter|EMT|427|C||||Operations Bureau|Battalion 5
+51343|Nathan|Decker|Firefighter|Paramedic|427|A||||Operations Bureau|Battalion 5
+51221|Matthew|Resh|Firefighter|Paramedic|427|A||||Operations Bureau|Battalion 5
+50800|Jorge|Araya|Firefighter|EMT|428|A||||Operations Bureau|Battalion 4
+51195|Daniel|Droter|Firefighter|EMT|428|A||||Operations Bureau|Battalion 4
+50934|Ted|Pak|Firefighter|EMT|428|A||||Operations Bureau|Battalion 4
+51359|David|Brown|Firefighter|EMT|428|B||||Operations Bureau|Battalion 4
+51244|Erica|Cruikshank|Firefighter|EMT|428|B||||Operations Bureau|Battalion 4
+51218|Joshua|Collins|Firefighter|EMT|428|C||||Operations Bureau|Battalion 4
+51287|Rodne|Getgen|Firefighter|EMT|428|C||||Operations Bureau|Battalion 4
+51400|Jose|Ramos Castro|Firefighter|EMT|428|C||||Operations Bureau|Battalion 4
+50721|Joseph|Wright|Firefighter|EMT|428|C||||Operations Bureau|Battalion 4
+51358|David|Breslin|Firefighter|Paramedic|428|A||||Operations Bureau|Battalion 4
+51036|Robert|Radam|Firefighter|Paramedic|428|C||||Operations Bureau|Battalion 4
+51341|Julian|Butler|Firefighter|EMT|429|A||||Operations Bureau|Battalion 2
+50731|James|Hannan|Firefighter|EMT|429|A||||Operations Bureau|Battalion 2
+51403|Sarah|Murphy|Firefighter|Paramedic|429|A||||Operations Bureau|Battalion 2
+50382|Christopher|Rhodes|Firefighter|EMT|429|A||||Operations Bureau|Battalion 2
+50704|Nolan|Copeland|Firefighter|EMT|429|B||||Operations Bureau|Battalion 2
+50322|Archie|Fellows|Firefighter|EMT|429|B||||Operations Bureau|Battalion 2
+51188|Che|Kerestes|Firefighter|EMT|429|B||||Operations Bureau|Battalion 2
+50805|Spencer|Bryant|Firefighter|EMT|429|C||||Operations Bureau|Battalion 2
+50921|Thomas|Chong|Firefighter|EMT|429|C||||Operations Bureau|Battalion 2
+51058|Brian|Kennedy|Firefighter|EMT|429|C||||Operations Bureau|Battalion 2
+51354|Nicholas|Schaff|Firefighter|EMT|429|C||||Operations Bureau|Battalion 2
+51176|Christopher|Sherdel|Firefighter|EMT|429|C||||Operations Bureau|Battalion 2
+51011|Nicholas|Crabtree|Firefighter|EMT|430|A||||Operations Bureau|Battalion 2
+51344|Joshua|Dyer|Firefighter|EMT|430|A||||Operations Bureau|Battalion 2
+51202|Daniel|Gray|Firefighter|EMT|430|A||||Operations Bureau|Battalion 2
+51229|Michael|Higgins|Firefighter|EMT|430|A||||Operations Bureau|Battalion 2
+51017|Kevin|Gorospe|Firefighter|EMT|430|B||||Operations Bureau|Battalion 2
+50951|Marc|Hernandez|Firefighter|EMT|430|B||||Operations Bureau|Battalion 2
+55825|Kyle|Knox|Firefighter|EMT|430|B||||Operations Bureau|Battalion 2
+51142|Danielle|Kuhn|Firefighter|EMT|430|B||||Operations Bureau|Battalion 2
+50815|Bradley|Meletti|Firefighter|EMT|430|C||||Operations Bureau|Battalion 2
+51158|Tiffany|Perez|Firefighter|EMT|430|C||||Operations Bureau|Battalion 2
+51117|Colin|Remsburg|Firefighter|EMT|430|C||||Operations Bureau|Battalion 2
+51402|Jonathan|Wallace|Firefighter|EMT|430|C||||Operations Bureau|Battalion 2
+51261|Jordan|Scheutzow|Firefighter|Paramedic|430|A||||Operations Bureau|Battalion 2
+51175|Anthony|Karashowsky|Firefighter|Paramedic|430|C||||Operations Bureau|Battalion 2
+51095|Derek|Dotson|Firefighter|EMT|431|A||||Operations Bureau|Battalion 1
+51179|Leo|Canela|Firefighter|EMT|431|B||||Operations Bureau|Battalion 1
+47467|Mark|Franklin|Firefighter|EMT|431|B||||Operations Bureau|Battalion 1
+50642|Gage|Chalmers|Firefighter|EMT|431|C||||Operations Bureau|Battalion 1
+55865|Natalie|Potell|Firefighter|EMT|431|C||||Operations Bureau|Battalion 1
+55605|Kelvin|Teel|Firefighter|EMT|431|C||||Operations Bureau|Battalion 1
+50473|Joseph|Callahan|Firefighter|Intermediate|431|A||||Operations Bureau|Battalion 1
+51295|Melissa|Cary|Firefighter|EMT|432|A||||Operations Bureau|Battalion 7
+51070|Jeffrey|Cockey|Firefighter|EMT|432|A||||Operations Bureau|Battalion 7
+51398|Jasper|Cooper|Firefighter|EMT|432|A||||Operations Bureau|Battalion 7
+51379|Matthew|Harris|Firefighter|Paramedic|432|B||||Operations Bureau|Battalion 7
+50713|Erick|Maximo|Firefighter|EMT|432|B||||Operations Bureau|Battalion 7
+51333|Myron|Parker|Firefighter|EMT|432|B||||Operations Bureau|Battalion 7
+50624|Roger|Perdomo-Cortes|Firefighter|EMT|432|B||||Operations Bureau|Battalion 7
+50004|Michael|Buckley|Firefighter|EMT|432|C||||Operations Bureau|Battalion 7
+50348|Wendy|Mitchell|Firefighter|EMT|432|C||||Operations Bureau|Battalion 7
+51366|Bryan|Thomas|Firefighter|Paramedic|432|C||||Operations Bureau|Battalion 7
+50637|Ashley|Pope|Firefighter|EMT|434|A||||Operations Bureau|Battalion 3
+51222|Mariana|Rodriguez Pisciottano|Firefighter|EMT|434|A||||Operations Bureau|Battalion 3
+50998|Ken|Savittiere|Firefighter|EMT|434|A||||Operations Bureau|Battalion 3
+50674|Jason|Brown|Firefighter|EMT|434|B||||Operations Bureau|Battalion 3
+50639|Michael|Brown|Firefighter|EMT|434|B||||Operations Bureau|Battalion 3
+51367|Donovan|Withrow|Firefighter|Intermediate|434|B||||Operations Bureau|Battalion 3
+50807|Tyree|Carr|Firefighter|EMT|434|C||||Operations Bureau|Battalion 3
+51268|Robert|Wine|Firefighter|Paramedic|434|C||||Operations Bureau|Battalion 3
+47469|Gordon|Bennett|Firefighter|EMT|435|A||||Operations Bureau|Battalion 7
+51297|Darrell|Hayes|Firefighter|EMT|435|B||||Operations Bureau|Battalion 7
+50772|Andrew|Neuhaus|Firefighter|EMT|435|B||||Operations Bureau|Battalion 7
+51374|Richard|Burton|Firefighter|EMT|435|C||||Operations Bureau|Battalion 7
+50640|Rosemary|Dawley|Firefighter|EMT|435|C||||Operations Bureau|Battalion 7
+51357|Patrick|Von Bank|Firefighter|Paramedic|435|C||||Operations Bureau|Battalion 7
+50346|Patrick|Butler|Firefighter|EMT|436|A||||Operations Bureau|Battalion 1
+51109|Karl|Dyer|Firefighter|EMT|436|A||||Operations Bureau|Battalion 1
+51378|Danny|Gallardo|Firefighter|EMT|436|A||||Operations Bureau|Battalion 1
+51306|Lauren|Wickson|Firefighter|EMT|436|A||||Operations Bureau|Battalion 1
+51340|Trina|Beall|Firefighter|EMT|436|B||||Operations Bureau|Battalion 1
+51086|Michael|Ly|Firefighter|Paramedic|436|B||||Operations Bureau|Battalion 1
+50490|Todd|Neach|Firefighter|EMT|436|B||||Operations Bureau|Battalion 1
+51331|Raymond|Sañez|Firefighter|EMT|436|B||||Operations Bureau|Battalion 1
+51338|Che-Shien|Chu|Firefighter|EMT|436|C||||Operations Bureau|Battalion 1
+50541|Romulo|Maciel Filho|Firefighter|EMT|436|C||||Operations Bureau|Battalion 1
+50489|Tina|Nally|Firefighter|EMT|436|C||||Operations Bureau|Battalion 1
+50282|Ronald|Seghetti|Firefighter|Intermediate|436|A||||Operations Bureau|Battalion 1
+51291|Jacqueline|Norris|Firefighter|Paramedic|436|B||||Operations Bureau|Battalion 1
+50497|Lawrence|Basil|Firefighter|EMT|437|A||||Operations Bureau|Battalion 5
+50594|Joseph|Herrera|Firefighter|EMT|437|A||||Operations Bureau|Battalion 5
+51352|Mario|Pineda|Firefighter|EMT|437|B||||Operations Bureau|Battalion 5
+50660|Julie|Ray|Firefighter|EMT|437|B||||Operations Bureau|Battalion 5
+50578|Marcus|Whitfield|Firefighter|EMT|437|B||||Operations Bureau|Battalion 5
+50759|Roberto|Da Silva|Firefighter|EMT|437|C||||Operations Bureau|Battalion 5
+50761|Brian|Foster|Firefighter|EMT|437|C||||Operations Bureau|Battalion 5
+51382|Juan|Lopez|Firefighter|EMT|437|C||||Operations Bureau|Battalion 5
+51213|John|Renslow|Firefighter|Paramedic|437|B||||Operations Bureau|Battalion 5
+51081|Brian|Edwards|Firefighter|EMT|438|A||||Operations Bureau|Battalion 3
+47880|Matthew|Gambino|Firefighter|EMT|438|A||||Operations Bureau|Battalion 3
+51249|Brian|Harris|Firefighter|EMT|438|A||||Operations Bureau|Battalion 3
+50927|Joshua|Imlay|Firefighter|EMT|438|A||||Operations Bureau|Battalion 3
+50988|Curtis|Majors|Firefighter|EMT|438|B||||Operations Bureau|Battalion 3
+50686|Crystal|Plasters|Firefighter|EMT|438|B||||Operations Bureau|Battalion 3
+51310|Samonne|Smith|Firefighter|EMT|438|B||||Operations Bureau|Battalion 3
+47935|Jason|Triplett|Firefighter|EMT|438|B||||Operations Bureau|Battalion 3
+50449|Wayne|Champagne|Firefighter|EMT|438|C||||Operations Bureau|Battalion 3
+51181|Ha|Chon|Firefighter|EMT|438|C||||Operations Bureau|Battalion 3
+51127|Adam|Ellis|Firefighter|EMT|438|C||||Operations Bureau|Battalion 3
+50685|Richard|Jones|Firefighter|EMT|438|C||||Operations Bureau|Battalion 3
+51085|Jordan|Linhart|Firefighter|EMT|438|C||||Operations Bureau|Battalion 3
+51346|Rosanna|Forsyth|Firefighter|EMT|439|A||||Operations Bureau|Battalion 1
+51100|Kyler|Rodgers|Firefighter|EMT|439|B||||Operations Bureau|Battalion 1
+51281|Bo-Lam|Park|Firefighter|Paramedic|439|C||||Operations Bureau|Battalion 1
+51236|Nels|Jorgenson|Firefighter|Paramedic|439|B||||Operations Bureau|Battalion 1
+51149|Kathryn|Buist|Firefighter|EMT|440|A||||Operations Bureau|Battalion 3
+50702|Arthur|Claiborne|Firefighter|EMT|440|A||||Operations Bureau|Battalion 3
+51380|Jacob|Johnson|Firefighter|EMT|440|A||||Operations Bureau|Battalion 3
+50250|Stephen|Painter|Firefighter|EMT|440|A||||Operations Bureau|Battalion 3
+50677|Seo|Chae|Firefighter|Intermediate|440|B||||Operations Bureau|Battalion 3
+51104|Christopher|Jarvis|Firefighter|EMT|440|B||||Operations Bureau|Battalion 3
+51270|Ian|Sebastian|Firefighter|EMT|440|B||||Operations Bureau|Battalion 3
+48023|Jose|Calderon|Firefighter|EMT|440|C||||Operations Bureau|Battalion 3
+51377|Heather|Funkhouser|Firefighter|Advanced EMT|440|C||||Operations Bureau|Battalion 3
+51155|Robert|Hunt|Firefighter|Paramedic|440|C||||Operations Bureau|Battalion 3
+51177|Jamie|Little|Firefighter|EMT|440|C||||Operations Bureau|Battalion 3
+50156|Carlton|Yancey|Firefighter|EMT|440|C||||Operations Bureau|Battalion 3
+51253|Burke|Latimer|Firefighter|Paramedic|440|A||||Operations Bureau|Battalion 3
+51216|Jacob|Hartka|Firefighter|Paramedic|440|C||||Operations Bureau|Battalion 3
+50673|Charles|Botchwey|Firefighter|EMT|441|A||||Operations Bureau|Battalion 7
+51404|Graham|Gilbert|Firefighter|Paramedic|441|A||||Operations Bureau|Battalion 7
+47926|Clevis|Hooker|Firefighter|EMT|441|A||||Operations Bureau|Battalion 7
+50734|Craig|Lazisky|Firefighter|EMT|441|A||||Operations Bureau|Battalion 7
+51264|Thomas|Tippett|Firefighter|EMT|441|A||||Operations Bureau|Battalion 7
+50510|Catherine|Leary|Firefighter|EMT|441|B||||Operations Bureau|Battalion 7
+51365|Andrew|Rozewicz|Firefighter|Intermediate|441|B||||Operations Bureau|Battalion 7
+50519|James|Taber|Firefighter|EMT|441|B||||Operations Bureau|Battalion 7
+50263|Kathy|Averys|Firefighter|EMT|441|C||||Operations Bureau|Battalion 7
+50397|Monica|Bartos|Firefighter|EMT|441|C||||Operations Bureau|Battalion 7
+51113|Chih|Chen|Firefighter|EMT|441|C||||Operations Bureau|Battalion 7
+50620|Roy|Lockhart|Firefighter|EMT|441|C||||Operations Bureau|Battalion 7
+50803|Namaste|Bosse|Firefighter|EMT|442|A||||Operations Bureau|Battalion 2
+51407|Luke|Nuar|Firefighter|Advanced EMT|442|A||||Operations Bureau|Battalion 2
+50695|Ariel|Rodriguez|Firefighter|EMT|442|B||||Operations Bureau|Battalion 2
+50994|Brittany|Yingling|Firefighter|EMT|442|B||||Operations Bureau|Battalion 2
+50692|Dang-Khoa|Ngo|Firefighter|EMT|442|C||||Operations Bureau|Battalion 2
+50405|Steven|Sprague|Firefighter|EMT|442|C||||Operations Bureau|Battalion 2
+47562|Daniel|Mitchell|Lieutenant|EMT|401|A||||Operations Bureau|Battalion 2
+50305|Dustin|Reynolds|Lieutenant|EMT|401|A||||Operations Bureau|Battalion 2
+50326|James|Martin|Lieutenant|Paramedic|401|B||||Operations Bureau|Battalion 2
+47561|Thomas|Meloy|Lieutenant|Paramedic|401|B||||Operations Bureau|Battalion 2
+47686|Ji|Lee|Lieutenant|EMT|401|B||||Operations Bureau|Battalion 2
+47840|Barbara|Silva|Lieutenant|Paramedic|401|C||||Operations Bureau|Battalion 2
+50134|Douglas|Dietrichson|Lieutenant|Paramedic|401|C||||Operations Bureau|Battalion 2
+50049|Edward|Payne|Lieutenant|EMT|401|C||||Operations Bureau|Battalion 2
+48011|Scott|Primrose|Lieutenant|Paramedic|404|A||||Operations Bureau|Battalion 1
+50122|Minh|Thai|Lieutenant|EMT|404|B||||Operations Bureau|Battalion 1
+50950|Nikki|Gruver|Lieutenant|Paramedic|404|C||||Operations Bureau|Battalion 1
+50339|Herbert|Brown|Lieutenant|EMT|405|A||||Operations Bureau|Battalion 5
+50302|Jason|Schmidt|Lieutenant|EMT|405|A||||Operations Bureau|Battalion 5
+47798|Glenn|Mooneyham|Lieutenant|EMT|405|B||||Operations Bureau|Battalion 5
+47479|James|Bookwalter|Lieutenant|EMT|405|C||||Operations Bureau|Battalion 5
+50365|Mark|Wolfin|Lieutenant|Paramedic|408|A||||Operations Bureau|Battalion 4
+47716|H|O'Toole|Lieutenant|EMT|408|A||||Operations Bureau|Battalion 4
+47923|Karl|Roche|Lieutenant|EMT|408|B||||Operations Bureau|Battalion 4
+47922|Adam|Brock|Lieutenant|EMT|408|C||||Operations Bureau|Battalion 4
+50019|William|Schnaekel|Lieutenant|EMT|408|C||||Operations Bureau|Battalion 4
+47645|William|Hyden|Lieutenant|EMT|410|A||||Operations Bureau|Battalion 4
+50319|Andres|Collado|Lieutenant|Intermediate|410|B||||Operations Bureau|Battalion 4
+47772|Ronald|Pifer|Lieutenant|Paramedic|410|B||||Operations Bureau|Battalion 4
+50196|Michael|Klump|Lieutenant|EMT|410|B||||Operations Bureau|Battalion 4
+47532|Richard|Dawley|Lieutenant|EMT|410|C||||Operations Bureau|Battalion 4
+47695|John|Pizzo|Lieutenant|Paramedic|411|A||||Operations Bureau|Battalion 6
+50109|Mark|Fernandez|Lieutenant|EMT|411|A||||Operations Bureau|Battalion 6
+47394|Eugene|George|Lieutenant|EMT|411|A||||Operations Bureau|Battalion 6
+50913|Andrew|Snell|Lieutenant|Paramedic|411|B||||Operations Bureau|Battalion 6
+50058|Adam|Ashwood|Lieutenant|Intermediate|411|B||||Operations Bureau|Battalion 6
+50307|Jon|Stern|Lieutenant|Paramedic|411|B||||Operations Bureau|Battalion 6
+50224|Jay|Smith|Lieutenant|Paramedic|411|C||||Operations Bureau|Battalion 6
+50094|Michael|Miller|Lieutenant|Intermediate|414|A||||Operations Bureau|Battalion 7
+47752|Dennis|Webb|Lieutenant|EMT|414|B||||Operations Bureau|Battalion 7
+50129|Christopher|Williams|Lieutenant|EMT|414|B||||Operations Bureau|Battalion 7
+47895|Walter|Deihl|Lieutenant|Paramedic|414|C||||Operations Bureau|Battalion 7
+47908|John|McDonell|Lieutenant|EMT|414|C||||Operations Bureau|Battalion 7
+51220|Loren|Jewell|Lieutenant|EMT|415|B||||Operations Bureau|Battalion 3
+47619|Edward|DeCarlo|Lieutenant|Paramedic|415|A||||Operations Bureau|Battalion 3
+50075|Jessica|Smith|Lieutenant|Paramedic|415|C||||Operations Bureau|Battalion 3
+48039|Janet|Norko|Lieutenant|Paramedic|416|A||||Operations Bureau|Battalion 7
+47316|Michael|Conover|Lieutenant|EMT|416|B||||Operations Bureau|Battalion 7
+51001|Anthony|Tran|Lieutenant|Paramedic|416|C||||Operations Bureau|Battalion 7
+50303|Lawrence|Mullin|Lieutenant|EMT|418|A||||Operations Bureau|Battalion 4
+48064|Diron|Powell|Lieutenant|EMT|418|B||||Operations Bureau|Battalion 4
+50229|Duane|Black|Lieutenant|EMT|418|C||||Operations Bureau|Battalion 4
+48058|James|Korb|Lieutenant|EMT|419|A||||Operations Bureau|Battalion 6
+50174|Steven|Onufrey|Lieutenant|EMT|419|B||||Operations Bureau|Battalion 6
+47972|Matthew|Black|Lieutenant|EMT|419|C||||Operations Bureau|Battalion 6
+50201|William|Thurston|Lieutenant|Paramedic|421|A||||Operations Bureau|Battalion 3
+47824|Thomas|Carver|Lieutenant|EMT|421|A||||Operations Bureau|Battalion 3
+50078|Eric|Wyatt|Lieutenant|EMT|421|B||||Operations Bureau|Battalion 3
+47430|Ben|Dye|Lieutenant|EMT|421|C||||Operations Bureau|Battalion 3
+47858|Ramon|Estrada|Lieutenant|EMT|422|A||||Operations Bureau|Battalion 5
+50297|Rudy|Iturrino|Lieutenant|EMT|422|A||||Operations Bureau|Battalion 5
+50261|Jeanette|Hannibal|Lieutenant|Paramedic|422|B||||Operations Bureau|Battalion 5
+50115|William|Lamont|Lieutenant|EMT|422|B||||Operations Bureau|Battalion 5
+47270|James|Morris|Lieutenant|Paramedic|422|C||||Operations Bureau|Battalion 5
+50414|Christopher|Warner|Lieutenant|Paramedic|422|C||||Operations Bureau|Battalion 5
+47969|James|Williams|Lieutenant|EMT|422|C||||Operations Bureau|Battalion 5
+47802|Dwan|Starks|Lieutenant|Paramedic|424|A||||Operations Bureau|Battalion 6
+47322|James|Low|Lieutenant|EMT|424|A||||Operations Bureau|Battalion 6
+47930|Michael|Engelhardt|Lieutenant|EMT|424|B||||Operations Bureau|Battalion 6
+50383|Kimberly|Schoppa|Lieutenant|EMT|424|C||||Operations Bureau|Battalion 6
+47770|Michael|Nelson|Lieutenant|EMT|425|A||||Operations Bureau|Battalion 1
+50390|Randall|Allen|Lieutenant|Paramedic|425|B||||Operations Bureau|Battalion 1
+47456|Leslie|Smith|Lieutenant|EMT|425|C||||Operations Bureau|Battalion 1
+50344|Allan|Burchell|Lieutenant|EMT|426|A||||Operations Bureau|Battalion 5
+47990|Ronald|Swarthout|Lieutenant|EMT|426|B||||Operations Bureau|Battalion 5
+47458|Jeffrey|Wharton|Lieutenant|EMT|426|C||||Operations Bureau|Battalion 5
+50043|Daniel|Kwiatkowski|Lieutenant|EMT|429|A||||Operations Bureau|Battalion 2
+47714|Richard|Slepetz|Lieutenant|EMT|429|B||||Operations Bureau|Battalion 2
+47984|David|Myers|Lieutenant|Paramedic|429|C||||Operations Bureau|Battalion 2
+50135|Raymond|Foster|Lieutenant|EMT|429|C||||Operations Bureau|Battalion 2
+47183|Gary|Vozzola|Lieutenant|EMT|430|A||||Operations Bureau|Battalion 2
+47993|Timothy|Nicholson|Lieutenant|Paramedic|430|B||||Operations Bureau|Battalion 2
+47604|Kevin|Coen|Lieutenant|EMT|430|C||||Operations Bureau|Battalion 2
+47682|Michael|Hendershot|Lieutenant|Paramedic|432|A||||Operations Bureau|Battalion 7
+50182|Katja|Lancing|Lieutenant|Paramedic|432|B||||Operations Bureau|Battalion 7
+50775|Elizabeth|Planchak|Lieutenant|EMT|432|C||||Operations Bureau|Battalion 7
+50338|Ryan|Fletcher|Lieutenant|Paramedic|436|A||||Operations Bureau|Battalion 1
+50254|Daniel|Sova|Lieutenant|EMT|436|A||||Operations Bureau|Battalion 1
+50189|Pedro|Benavidez|Lieutenant|EMT|436|B||||Operations Bureau|Battalion 1
+50266|Christopher|Blair|Lieutenant|Intermediate|436|B||||Operations Bureau|Battalion 1
+47678|Sean|Ferguson|Lieutenant|EMT|436|C||||Operations Bureau|Battalion 1
+51392|Katherine|Tripp|Lieutenant|EMT|437|A||||Operations Bureau|Battalion 5
+50330|Anthony|Shockley|Lieutenant|Intermediate|437|B||||Operations Bureau|Battalion 5
+50170|Miranda|Pelham|Lieutenant|Paramedic|437|C||||Operations Bureau|Battalion 5
+50125|Jeffrey|Ware|Lieutenant|EMT|438|A||||Operations Bureau|Battalion 3
+47975|James|Flynn|Lieutenant|EMT|438|B||||Operations Bureau|Battalion 3
+50132|Pamela|Leins|Lieutenant|Paramedic|438|C||||Operations Bureau|Battalion 3
+47411|Jeffrey|Allen|Lieutenant|EMT|438|C||||Operations Bureau|Battalion 3
+47914|Erick|Weinzapfel|Lieutenant|EMT|439|A||||Operations Bureau|Battalion 1
+50162|Thomas|Biller|Lieutenant|EMT|439|B||||Operations Bureau|Battalion 1
+50825|Daniel|Gajewski|Lieutenant|EMT|439|B||||Operations Bureau|Battalion 1
+50281|Robert|Schoenberger|Lieutenant|Paramedic|439|C||||Operations Bureau|Battalion 1
+50256|Robert|Wells|Lieutenant|Paramedic|440|A||||Operations Bureau|Battalion 3
+50333|Michael|Taylor|Lieutenant|Paramedic|440|A||||Operations Bureau|Battalion 3
+50274|Claude|Johnson|Lieutenant|EMT|440|B||||Operations Bureau|Battalion 3
+50142|John|Macinyak|Lieutenant|EMT|440|B||||Operations Bureau|Battalion 3
+50064|Gregg|Dojcak|Lieutenant|Intermediate|440|C||||Operations Bureau|Battalion 3
+47964|Vitor|Rocha|Lieutenant|EMT|440|C||||Operations Bureau|Battalion 3
+48060|Matthew|Louzonis|Lieutenant|Paramedic|441|A||||Operations Bureau|Battalion 7
+47538|Anthony|Mullins|Lieutenant|Paramedic|441|A||||Operations Bureau|Battalion 7
+48019|Allen|Batson|Lieutenant|Paramedic|441|B||||Operations Bureau|Battalion 7
+47757|David|Bender|Lieutenant|EMT|441|B||||Operations Bureau|Battalion 7
+47683|Lloyd|Jackson|Lieutenant|EMT|441|B||||Operations Bureau|Battalion 7
+47899|Charles|Epps|Lieutenant|EMT|441|C||||Operations Bureau|Battalion 7
+47599|Dana|Unger|Master Technician|EMT|401|A||||Operations Bureau|Battalion 2
+50077|Thomas|Zirkle|Master Technician|EMT|401|A||||Operations Bureau|Battalion 2
+50841|William|Kendall|Master Technician|Paramedic|401|B||||Operations Bureau|Battalion 2
+50833|Alexander|Paal|Master Technician|Paramedic|401|B||||Operations Bureau|Battalion 2
+48056|Joel|Fry|Master Technician|EMT|401|B||||Operations Bureau|Battalion 2
+50255|Spencer|Spinner|Master Technician|EMT|401|B||||Operations Bureau|Battalion 2
+50939|Bryan|Selent|Master Technician|Paramedic|401|C||||Operations Bureau|Battalion 2
+50033|Mark|Butler|Master Technician|EMT|401|C||||Operations Bureau|Battalion 2
+48029|Thomas|Ferguson|Master Technician|EMT|401|C||||Operations Bureau|Battalion 2
+50412|Brian|Giller|Master Technician|EMT|401|C||||Operations Bureau|Battalion 2
+47903|John|Hoffman|Master Technician|EMT|401|C||||Operations Bureau|Battalion 2
+50505|Kristopher|Keyser|Master Technician|Paramedic|402|A||||Operations Bureau|Battalion 2
+50265|Eric|Bartholomew|Master Technician|EMT|402|A||||Operations Bureau|Battalion 2
+47629|Christopher|Lee|Master Technician|EMT|402|A||||Operations Bureau|Battalion 2
+50364|Michael|Worthington|Master Technician|Paramedic|402|C||||Operations Bureau|Battalion 2
+50571|Kevin|Petty|Master Technician|EMT|404|B||||Operations Bureau|Battalion 1
+50875|Joseph|Deutsch|Master Technician|Paramedic|405|A||||Operations Bureau|Battalion 5
+48025|Donald|Crum|Master Technician|EMT|405|A||||Operations Bureau|Battalion 5
+50611|Michael|Guck|Master Technician|Paramedic|405|B||||Operations Bureau|Battalion 5
+50943|Justin|Walker|Master Technician|Paramedic|405|B||||Operations Bureau|Battalion 5
+50100|Jason|Roberts|Master Technician|EMT|405|C||||Operations Bureau|Battalion 5
+50152|Stephan|Urban|Master Technician|Paramedic|408|A||||Operations Bureau|Battalion 4
+50584|Joseph|Breslin|Master Technician|EMT|408|A||||Operations Bureau|Battalion 4
+48040|Robert|Pilsucki|Master Technician|EMT|408|B||||Operations Bureau|Battalion 4
+48000|Jaemohn|Cloyd|Master Technician|EMT|408|C||||Operations Bureau|Battalion 4
+47958|Joseph|Laun|Master Technician|EMT|408|C||||Operations Bureau|Battalion 4
+50123|Gary|Thompson|Master Technician|EMT|408|C||||Operations Bureau|Battalion 4
+50648|Andrew|Dubinsky|Master Technician|EMT|409|B||||Operations Bureau|Battalion 6
+50289|Brian|Chinn|Master Technician|EMT|410|A||||Operations Bureau|Battalion 4
+50350|Peter|Zagorites|Master Technician|EMT|410|B||||Operations Bureau|Battalion 4
+47902|Scott|Herbert|Master Technician|EMT|410|C||||Operations Bureau|Battalion 4
+50920|Bradley|Chilva|Master Technician|Paramedic|411|A||||Operations Bureau|Battalion 6
+47723|John|Adams|Master Technician|EMT|411|A||||Operations Bureau|Battalion 6
+50136|James|Furman|Master Technician|EMT|411|A||||Operations Bureau|Battalion 6
+50771|Joshua|Morrison|Master Technician|EMT|411|A||||Operations Bureau|Battalion 6
+50932|Chase|Munos|Master Technician|EMT|411|A||||Operations Bureau|Battalion 6
+50175|Robert|Pickel|Master Technician|EMT|411|A||||Operations Bureau|Battalion 6
+47944|Cliff|Sweeney|Master Technician|EMT|411|A||||Operations Bureau|Battalion 6
+47888|John|Boyer|Master Technician|EMT|411|C||||Operations Bureau|Battalion 6
+50533|Michael|Garvin|Master Technician|EMT|411|C||||Operations Bureau|Battalion 6
+50310|John|Wehr|Master Technician|EMT|411|C||||Operations Bureau|Battalion 6
+50569|Anthony|Mills|Master Technician|Paramedic|412|A||||Operations Bureau|Battalion 1
+47937|Kenny|McGee|Master Technician|EMT|412|A||||Operations Bureau|Battalion 1
+50576|Dominic|Runfola|Master Technician|EMT|412|A||||Operations Bureau|Battalion 1
+47523|Thomas|Williams|Master Technician|EMT|412|A||||Operations Bureau|Battalion 1
+50659|Jacob|Quirke|Master Technician|Paramedic|412|B||||Operations Bureau|Battalion 1
+50092|Robin|Lotz|Master Technician|Paramedic|412|C||||Operations Bureau|Battalion 1
+50018|Kris|Sacra|Master Technician|Paramedic|412|C||||Operations Bureau|Battalion 1
+50088|Michael|Feaster|Master Technician|EMT|412|C||||Operations Bureau|Battalion 1
+47693|Michael|Moore|Master Technician|EMT|412|C||||Operations Bureau|Battalion 1
+50249|Miguel|Obleas|Master Technician|EMT|412|C||||Operations Bureau|Battalion 1
+47924|Raul|Perla|Master Technician|EMT|412|C||||Operations Bureau|Battalion 1
+47344|George|Hood|Master Technician|EMT|413|B||||Operations Bureau|Battalion 2
+47672|Michael|Crowder|Master Technician|EMT|413|C||||Operations Bureau|Battalion 2
+50879|Jeffrey|Kutner|Master Technician|Paramedic|414|A||||Operations Bureau|Battalion 7
+47628|William|Kight|Master Technician|EMT|414|A||||Operations Bureau|Battalion 7
+50117|Timothy|Pais|Master Technician|EMT|414|A||||Operations Bureau|Battalion 7
+50602|Justin|Parrock|Master Technician|Paramedic|414|B||||Operations Bureau|Battalion 7
+50061|Matthew|Brecht|Master Technician|EMT|414|B||||Operations Bureau|Battalion 7
+50749|Charles|Arntson|Master Technician|Paramedic|414|C||||Operations Bureau|Battalion 7
+48037|Richard|Mungo|Master Technician|EMT|415|C||||Operations Bureau|Battalion 3
+50506|Bryan|Knupp|Master Technician|Intermediate|416|A||||Operations Bureau|Battalion 7
+48012|Livingston|Rolle|Master Technician|EMT|416|A||||Operations Bureau|Battalion 7
+47836|Andre|Peterson|Master Technician|Paramedic|416|B||||Operations Bureau|Battalion 7
+55085|Kimberlyn|Klaren|Master Technician|EMT|416|C||||Operations Bureau|Battalion 7
+50179|Deborah|Sparrer|Master Technician|EMT|417|A||||Operations Bureau|Battalion 3
+50205|Frances|Webb|Master Technician|EMT|417|B||||Operations Bureau|Battalion 3
+50836|Andrea|Burich|Master Technician|Paramedic|417|C||||Operations Bureau|Battalion 3
+50700|Austin|Bigdely|Master Technician|Paramedic|418|A||||Operations Bureau|Battalion 4
+50260|Mark|Deyneka|Master Technician|Paramedic|418|A||||Operations Bureau|Battalion 4
+47480|Anthony|Doran|Master Technician|EMT|418|A||||Operations Bureau|Battalion 4
+48034|Timothy|Kelly|Master Technician|EMT|418|A||||Operations Bureau|Battalion 4
+47991|Herbert|Knerr|Master Technician|EMT|418|B||||Operations Bureau|Battalion 4
+50735|Stephanie|Leland|Master Technician|EMT|418|B||||Operations Bureau|Battalion 4
+50327|Isagani|Matias|Master Technician|EMT|418|B||||Operations Bureau|Battalion 4
+50178|Kevin|Reyes|Master Technician|EMT|418|B||||Operations Bureau|Battalion 4
+47996|Raymond|Beaver|Master Technician|Paramedic|419|A||||Operations Bureau|Battalion 6
+50604|Bob|Pope|Master Technician|Paramedic|419|A||||Operations Bureau|Battalion 6
+50148|Elton|Short|Master Technician|EMT|419|A||||Operations Bureau|Battalion 6
+47992|George|Moore|Master Technician|EMT|419|B||||Operations Bureau|Battalion 6
+50631|Edgar|Torres|Master Technician|EMT|419|B||||Operations Bureau|Battalion 6
+47999|Robert|Clarke|Master Technician|EMT|419|C||||Operations Bureau|Battalion 6
+47978|Toussaint|Holland|Master Technician|EMT|419|C||||Operations Bureau|Battalion 6
+50561|Laura|Huggins|Master Technician|EMT|419|C||||Operations Bureau|Battalion 6
+50388|Harold|Wolf|Master Technician|EMT|419|C||||Operations Bureau|Battalion 6
+50107|Roosevelt|Carson|Master Technician|EMT|420|A||||Operations Bureau|Battalion 6
+47956|James|Kotwicki|Master Technician|EMT|420|A||||Operations Bureau|Battalion 6
+50504|David|Kerns|Master Technician|Paramedic|420|B||||Operations Bureau|Battalion 6
+47826|Robert|Desousa|Master Technician|EMT|420|B||||Operations Bureau|Battalion 6
+47907|G|Mayhugh|Master Technician|EMT|420|C||||Operations Bureau|Battalion 6
+55535|Ian|Brill|Master Technician|EMT|421|A||||Operations Bureau|Battalion 3
+50073|Kimberly|Larson|Master Technician|EMT|421|A||||Operations Bureau|Battalion 3
+50664|Benjamin|Roadruck|Master Technician|Paramedic|421|B||||Operations Bureau|Battalion 3
+50185|George|Loayza|Master Technician|EMT|421|B||||Operations Bureau|Battalion 3
+50662|Christopher|Rinderknecht|Master Technician|Intermediate|421|B||||Operations Bureau|Battalion 3
+48070|Vernon|Tomczak|Master Technician|EMT|421|B||||Operations Bureau|Battalion 3
+50112|Alison|Jaquays|Master Technician|Paramedic|421|C||||Operations Bureau|Battalion 3
+50688|Johnathan|MacQuilliam|Master Technician|EMT|421|C||||Operations Bureau|Battalion 3
+50262|Luis|Mata|Master Technician|Paramedic|422|A||||Operations Bureau|Battalion 5
+48053|William|Brinton|Master Technician|EMT|422|A||||Operations Bureau|Battalion 5
+47484|John|Capps|Master Technician|EMT|422|A||||Operations Bureau|Battalion 5
+48052|Richard|Bright|Master Technician|EMT|422|B||||Operations Bureau|Battalion 5
+50676|Sharron|Cayere|Master Technician|EMT|423|A||||Operations Bureau|Battalion 4
+47879|Linwood|Frye|Master Technician|Intermediate|423|B||||Operations Bureau|Battalion 4
+50737|Colin|Morgan|Master Technician|Paramedic|423|B||||Operations Bureau|Battalion 4
+50376|Donald|Clemens|Master Technician|Paramedic|423|C||||Operations Bureau|Battalion 4
+50750|Matthew|Helmuth|Master Technician|Paramedic|424|A||||Operations Bureau|Battalion 6
+50236|Michael|Boub|Master Technician|EMT|424|A||||Operations Bureau|Battalion 6
+50488|James|Morris|Master Technician|EMT|424|C||||Operations Bureau|Battalion 6
+50353|Ian|Kelly|Master Technician|EMT|425|A||||Operations Bureau|Battalion 1
+50150|Jeffrey|Tincher|Master Technician|EMT|425|A||||Operations Bureau|Battalion 1
+50200|Clemente|Rivera|Master Technician|EMT|425|B||||Operations Bureau|Battalion 1
+50095|Brian|Moore|Master Technician|EMT|425|C||||Operations Bureau|Battalion 1
+50455|David|Jimenez|Master Technician|Paramedic|426|A||||Operations Bureau|Battalion 5
+50362|Kevin|Steinhilber|Master Technician|EMT|426|A||||Operations Bureau|Battalion 5
+50666|Peter|Torres|Master Technician|EMT|426|A||||Operations Bureau|Battalion 5
+47569|James|Wilkerson|Master Technician|EMT|426|A||||Operations Bureau|Battalion 5
+50834|Shawn|Rappach|Master Technician|Paramedic|426|B||||Operations Bureau|Battalion 5
+50053|Michael|Skeele|Master Technician|EMT|426|B||||Operations Bureau|Battalion 5
+50487|Lawrence|McGunnigle|Master Technician|Paramedic|426|C||||Operations Bureau|Battalion 5
+47761|Anthony|Cabrera|Master Technician|EMT|426|C||||Operations Bureau|Battalion 5
+50165|Glenn|Dressler|Master Technician|EMT|426|C||||Operations Bureau|Battalion 5
+50354|Hyun|Lee|Master Technician|EMT|427|A||||Operations Bureau|Battalion 5
+50813|William|Harrington|Master Technician|Paramedic|427|C||||Operations Bureau|Battalion 5
+50278|Laura|Pollard|Master Technician|EMT|428|A||||Operations Bureau|Battalion 4
+47844|Mark|Thompson|Master Technician|EMT|428|B||||Operations Bureau|Battalion 4
+47976|William|Franklin|Master Technician|EMT|429|A||||Operations Bureau|Battalion 2
+50871|Kurtis|Reakoff|Master Technician|Paramedic|429|B||||Operations Bureau|Battalion 2
+48062|Angel|Melendez|Master Technician|EMT|429|C||||Operations Bureau|Battalion 2
+47776|Wade|Watson|Master Technician|EMT|429|C||||Operations Bureau|Battalion 2
+50008|Sean|Fensterwald|Master Technician|EMT|430|A||||Operations Bureau|Battalion 2
+50021|Rodney|Snapp|Master Technician|EMT|430|A||||Operations Bureau|Battalion 2
+47929|Jack|Billhimer|Master Technician|EMT|430|C||||Operations Bureau|Battalion 2
+50690|Paul|Marria|Master Technician|EMT|431|A||||Operations Bureau|Battalion 1
+47839|Robert|Rodriguez|Master Technician|EMT|431|B||||Operations Bureau|Battalion 1
+47608|David|Higgins|Master Technician|EMT|432|A||||Operations Bureau|Battalion 7
+47819|David|Stroup|Master Technician|EMT|432|C||||Operations Bureau|Battalion 7
+47449|Robert|Upchurch|Master Technician|EMT|434|B||||Operations Bureau|Battalion 3
+47848|Kyle|Anderson|Master Technician|EMT|435|A||||Operations Bureau|Battalion 7
+50287|Edward|Lofties|Master Technician|EMT|436|A||||Operations Bureau|Battalion 1
+50108|Stefan|Dedes|Master Technician|Intermediate|436|B||||Operations Bureau|Battalion 1
+50037|James|Galvin|Master Technician|EMT|436|B||||Operations Bureau|Battalion 1
+47871|Brian|Bonifas|Master Technician|Paramedic|436|C||||Operations Bureau|Battalion 1
+48061|Kevin|Makely|Master Technician|EMT|436|C||||Operations Bureau|Battalion 1
+50051|Gary|Reuter|Master Technician|EMT|436|C||||Operations Bureau|Battalion 1
+50600|Brian|McNew|Master Technician|EMT|437|B||||Operations Bureau|Battalion 5
+50242|Michael|Duffy|Master Technician|Paramedic|438|A||||Operations Bureau|Battalion 3
+47997|Mark|Briskey|Master Technician|Paramedic|438|A||||Operations Bureau|Battalion 3
+50592|Christopher|Gay|Master Technician|EMT|438|A||||Operations Bureau|Battalion 3
+50197|Garner|Marshall|Master Technician|Intermediate|438|B||||Operations Bureau|Battalion 3
+50176|Linda|Post|Master Technician|Paramedic|438|B||||Operations Bureau|Battalion 3
+50853|Jason|Menifee|Master Technician|Paramedic|438|B||||Operations Bureau|Battalion 3
+47749|John|Stetter|Master Technician|EMT|438|B||||Operations Bureau|Battalion 3
+50171|Reid|Lottchea|Master Technician|EMT|438|C||||Operations Bureau|Battalion 3
+50896|James|Campbell|Master Technician|Paramedic|439|A||||Operations Bureau|Battalion 1
+47811|Patrick|Keenan|Master Technician|EMT|439|A||||Operations Bureau|Battalion 1
+50407|Beverly|Studds|Master Technician|EMT|439|A||||Operations Bureau|Battalion 1
+50514|Jeffrey|Repine|Master Technician|Paramedic|439|B||||Operations Bureau|Battalion 1
+50605|Brian|Roberts|Master Technician|Paramedic|439|B||||Operations Bureau|Battalion 1
+50164|Rolando|Contreras|Master Technician|EMT|439|B||||Operations Bureau|Battalion 1
+47536|Joseph|Kieler|Master Technician|EMT|439|B||||Operations Bureau|Battalion 1
+50649|Stephen|Haines|Master Technician|Paramedic|439|C||||Operations Bureau|Battalion 1
+50784|Gregory|Wood|Master Technician|EMT|439|C||||Operations Bureau|Battalion 1
+50549|Aleksandra|Kazmar|Master Technician|Paramedic|440|A||||Operations Bureau|Battalion 3
+47727|Hector|Rivera Flores|Master Technician|Paramedic|440|A||||Operations Bureau|Battalion 3
+50046|Britt|Phelps|Master Technician|EMT|440|A||||Operations Bureau|Battalion 3
+50102|Michael|Zdunski|Master Technician|EMT|440|A||||Operations Bureau|Battalion 3
+50595|Jermaine|Jones|Master Technician|EMT|440|B||||Operations Bureau|Battalion 3
+47830|Gregory|Keppley|Master Technician|EMT|440|B||||Operations Bureau|Battalion 3
+50244|Joel|Kobersteen|Master Technician|EMT|440|B||||Operations Bureau|Battalion 3
+48044|Clifford|Watson|Master Technician|Paramedic|440|C||||Operations Bureau|Battalion 3
+47789|Matthew|Groff|Master Technician|EMT|440|C||||Operations Bureau|Battalion 3
+50041|Brian|Jenkins|Master Technician|EMT|440|C||||Operations Bureau|Battalion 3
+50283|Robert|Seward|Master Technician|EMT|440|C||||Operations Bureau|Battalion 3
+47544|Jeffrey|Smith|Master Technician|EMT|440|C||||Operations Bureau|Battalion 3
+48017|Daniel|Thompson|Master Technician|EMT|440|C||||Operations Bureau|Battalion 3
+47934|Richard|Vannoy|Master Technician|EMT|440|C||||Operations Bureau|Battalion 3
+50103|Robert|Adeleke|Master Technician|EMT|441|A||||Operations Bureau|Battalion 7
+47195|David|May|Master Technician|EMT|441|A||||Operations Bureau|Battalion 7
+50039|Sean|Hodgson|Master Technician|EMT|441|B||||Operations Bureau|Battalion 7
+47954|Christopher|Johnson|Master Technician|EMT|441|C||||Operations Bureau|Battalion 7
+47812|John|Manvell|Master Technician|EMT|441|C||||Operations Bureau|Battalion 7
+50257|Douglas|Miller|Master Technician|Paramedic|442|A||||Operations Bureau|Battalion 2
+47755|Jeffery|Allen|Master Technician|EMT|442|B||||Operations Bureau|Battalion 2
+50699|Rebecca|Stoddard|Master Technician|Paramedic|442|C||||Operations Bureau|Battalion 2
+50024|Jeffrey|Werth|Master Technician|Paramedic|442|C||||Operations Bureau|Battalion 2
+50675|Webster|Brown|Technician|Paramedic|401|A||||Operations Bureau|Battalion 2
+51219|James|Daugherty|Technician|Paramedic|401|A||||Operations Bureau|Battalion 2
+50483|Daniel|Keyes|Technician|Paramedic|401|A||||Operations Bureau|Battalion 2
+50773|Kevin|Ngo|Technician|EMT|401|A||||Operations Bureau|Battalion 2
+50892|Adam|Bartman|Technician|Paramedic|401|B||||Operations Bureau|Battalion 2
+51210|Scott|Murphy|Technician|Paramedic|401|B||||Operations Bureau|Battalion 2
+50869|Marc|Wismer|Technician|Paramedic|401|B||||Operations Bureau|Battalion 2
+51125|David|Eimers|Technician|EMT|401|B||||Operations Bureau|Battalion 2
+50523|Jeffrey|Williams|Technician|EMT|401|B||||Operations Bureau|Battalion 2
+50852|Richard|Lathrop|Technician|Paramedic|401|C||||Operations Bureau|Battalion 2
+51170|James|McClave|Technician|Paramedic|401|C||||Operations Bureau|Battalion 2
+50285|Giovanni|Vasquez|Technician|Intermediate|402|A||||Operations Bureau|Battalion 2
+50915|Sergey|Fedorovsky|Technician|Paramedic|402|B||||Operations Bureau|Battalion 2
+50953|Christopher|Johnson|Technician|Paramedic|402|B||||Operations Bureau|Battalion 2
+50678|Howard|Chong|Technician|EMT|402|B||||Operations Bureau|Battalion 2
+50763|Akilah|Hughley|Technician|Paramedic|402|C||||Operations Bureau|Battalion 2
+47204|Leo|Sullivan|Technician|EMT|402|C||||Operations Bureau|Battalion 2
+50317|Ryland|Chapman|Technician|EMT|404|A||||Operations Bureau|Battalion 1
+51044|Arthur|Bruck|Technician|Paramedic|404|B||||Operations Bureau|Battalion 1
+51111|David|Bulman|Technician|Paramedic|404|C||||Operations Bureau|Battalion 1
+51121|Matthew|Buschur|Technician|Paramedic|404|C||||Operations Bureau|Battalion 1
+50059|Brian|Bonkoski|Technician|EMT|404|C||||Operations Bureau|Battalion 1
+50894|Richard|Beatty|Technician|Intermediate|405|A||||Operations Bureau|Battalion 5
+51146|Jill|Sears|Technician|Paramedic|405|B||||Operations Bureau|Battalion 5
+51189|Kavon|Smith|Technician|Paramedic|405|B||||Operations Bureau|Battalion 5
+50679|Paul|Corso|Technician|Paramedic|405|C||||Operations Bureau|Battalion 5
+50881|Jonathan|Long|Technician|Paramedic|405|C||||Operations Bureau|Battalion 5
+50992|Katherine|Murray|Technician|Paramedic|405|C||||Operations Bureau|Battalion 5
+51148|Cody|Henson|Technician|Paramedic|408|A||||Operations Bureau|Battalion 4
+50955|Charles|Keplinger|Technician|Paramedic|408|A||||Operations Bureau|Battalion 4
+51048|David|Chang|Technician|Paramedic|408|B||||Operations Bureau|Battalion 4
+51126|Alexander|Fischer|Technician|Paramedic|408|B||||Operations Bureau|Battalion 4
+51147|Morgan|Galassi|Technician|Paramedic|408|B||||Operations Bureau|Battalion 4
+51138|Israel|Rodriguez|Technician|Paramedic|408|B||||Operations Bureau|Battalion 4
+50276|Duane|Lawrence|Technician|EMT|408|B||||Operations Bureau|Battalion 4
+50851|Kenneth|Gates|Technician|Paramedic|408|C||||Operations Bureau|Battalion 4
+50793|Nicholas|Heufelder|Technician|Paramedic|408|C||||Operations Bureau|Battalion 4
+51032|Christopher|Adkins|Technician|Paramedic|409|A||||Operations Bureau|Battalion 6
+51134|Jenna|Kuhn|Technician|Paramedic|409|A||||Operations Bureau|Battalion 6
+50154|Bryant|Wiggins|Technician|Paramedic|409|A||||Operations Bureau|Battalion 6
+47864|James|McKendree|Technician|EMT|409|A||||Operations Bureau|Battalion 6
+51013|Daniel|Donato|Technician|Paramedic|409|B||||Operations Bureau|Battalion 6
+50718|Carlo|Solomon|Technician|Paramedic|409|B||||Operations Bureau|Battalion 6
+47841|Karen|Sterling|Technician|EMT|409|B||||Operations Bureau|Battalion 6
+50522|Stephanie|White|Technician|Paramedic|409|C||||Operations Bureau|Battalion 6
+51145|Garret|Woo|Technician|Paramedic|409|C||||Operations Bureau|Battalion 6
+50726|Richard|Fleet|Technician|EMT|409|C||||Operations Bureau|Battalion 6
+51045|Trevor|Butler|Technician|Paramedic|410|A||||Operations Bureau|Battalion 4
+50978|Shawn|Carney|Technician|Paramedic|410|A||||Operations Bureau|Battalion 4
+50958|Gabriel|Lauer|Technician|Paramedic|410|A||||Operations Bureau|Battalion 4
+50538|Jin|Lee|Technician|Paramedic|410|A||||Operations Bureau|Battalion 4
+50062|Mickey|Deans|Technician|EMT|410|A||||Operations Bureau|Battalion 4
+51093|Adam|Willemssen|Technician|Paramedic|410|B||||Operations Bureau|Battalion 4
+51098|Vincenzo|Malvoso|Technician|EMT|410|B||||Operations Bureau|Battalion 4
+50975|Sean|Allen|Technician|Paramedic|410|C||||Operations Bureau|Battalion 4
+51160|Mitchell|Zumwalt|Technician|Paramedic|410|C||||Operations Bureau|Battalion 4
+50177|Shannon|Reed|Technician|EMT|411|A||||Operations Bureau|Battalion 6
+50945|Kyle|Ballinger|Technician|Paramedic|411|B||||Operations Bureau|Battalion 6
+51120|Ryan|Beuttenmuller|Technician|Paramedic|411|B||||Operations Bureau|Battalion 6
+51186|Nathan|Giddings|Technician|Paramedic|411|B||||Operations Bureau|Battalion 6
+50355|Javier|Lopez|Technician|Paramedic|411|B||||Operations Bureau|Battalion 6
+50321|Jason|Earl|Technician|EMT|411|B||||Operations Bureau|Battalion 6
+47503|John|Leary|Technician|EMT|411|B||||Operations Bureau|Battalion 6
+50508|Michael|Lee|Technician|EMT|411|B||||Operations Bureau|Battalion 6
+50457|Won|Lee|Technician|EMT|411|B||||Operations Bureau|Battalion 6
+50335|Robert|Young|Technician|EMT|411|B||||Operations Bureau|Battalion 6
+50918|Kyle|Bowmaster|Technician|Paramedic|411|C||||Operations Bureau|Battalion 6
+51168|Joshua|de Brow|Technician|Paramedic|411|C||||Operations Bureau|Battalion 6
+48020|Michael|Brown|Technician|EMT|411|C||||Operations Bureau|Battalion 6
+51012|Richard|Dawley|Technician|EMT|411|C||||Operations Bureau|Battalion 6
+50717|Wesley|Sloan|Technician|EMT|411|C||||Operations Bureau|Battalion 6
+50387|William|Ward|Technician|EMT|411|C||||Operations Bureau|Battalion 6
+47966|Brent|Schnupp|Technician|Paramedic|412|A||||Operations Bureau|Battalion 1
+50529|Vicki|Swain|Technician|Paramedic|412|A||||Operations Bureau|Battalion 1
+47675|Mike|Day|Technician|EMT|412|B||||Operations Bureau|Battalion 1
+47738|Ronald|Evans|Technician|EMT|412|B||||Operations Bureau|Battalion 1
+50279|Annita|Reynolds|Technician|EMT|412|B||||Operations Bureau|Battalion 1
+47918|Rony|Avalos|Technician|Paramedic|412|C||||Operations Bureau|Battalion 1
+51211|Bao-Vinh|Nguyen|Technician|Paramedic|413|A||||Operations Bureau|Battalion 2
+51018|Gregory|Haynes|Technician|EMT|413|A||||Operations Bureau|Battalion 2
+50922|Felix|Clement|Technician|Paramedic|413|B||||Operations Bureau|Battalion 2
+51049|Daniel|Duarte|Technician|Paramedic|413|B||||Operations Bureau|Battalion 2
+51082|David|Ford|Technician|Paramedic|413|C||||Operations Bureau|Battalion 2
+50632|Jason|Trautman|Technician|Paramedic|413|C||||Operations Bureau|Battalion 2
+51165|Timothy|Adams|Technician|Paramedic|414|A||||Operations Bureau|Battalion 7
+50556|Alejandro|Contreras|Technician|EMT|414|A||||Operations Bureau|Battalion 7
+50657|Jorge|Martinez|Technician|EMT|414|A||||Operations Bureau|Battalion 7
+48041|Samuel|Porter|Technician|EMT|414|A||||Operations Bureau|Battalion 7
+50862|Ekaterina|Chelpon|Technician|Paramedic|414|B||||Operations Bureau|Battalion 7
+51077|Matthew|Cislo|Technician|Paramedic|414|B||||Operations Bureau|Battalion 7
+51003|Bryan|Vaughn|Technician|Paramedic|414|B||||Operations Bureau|Battalion 7
+50105|Juan|Ayala|Technician|EMT|414|B||||Operations Bureau|Battalion 7
+47873|Juan|Campodonico|Technician|EMT|414|B||||Operations Bureau|Battalion 7
+50320|Patrick|Devera|Technician|EMT|414|B||||Operations Bureau|Battalion 7
+50082|Christopher|Barnes|Technician|EMT|414|C||||Operations Bureau|Battalion 7
+50925|Travis|Franks|Technician|Paramedic|414|C||||Operations Bureau|Battalion 7
+50166|Craig|Furneisen|Technician|EMT|414|C||||Operations Bureau|Battalion 7
+50114|Thomas|Kidd|Technician|EMT|414|C||||Operations Bureau|Battalion 7
+50144|Jorge|Ochaita|Technician|EMT|414|C||||Operations Bureau|Battalion 7
+50863|Richard|DiRusso|Technician|Paramedic|415|A||||Operations Bureau|Battalion 3
+50982|Ryan|Filipkoski|Technician|Paramedic|415|A||||Operations Bureau|Battalion 3
+50461|Theresa|Ruffo|Technician|EMT|415|A||||Operations Bureau|Battalion 3
+50817|Ali|Mirzai'i|Technician|Intermediate|415|B||||Operations Bureau|Battalion 3
+50047|Blake|Myers|Technician|EMT|415|B||||Operations Bureau|Battalion 3
+50071|Peter|Kosenko|Technician|Paramedic|416|A||||Operations Bureau|Battalion 7
+47913|Glenn|Snyder|Technician|Paramedic|416|A||||Operations Bureau|Battalion 7
+50147|Stephen|Shapiro|Technician|Paramedic|416|B||||Operations Bureau|Battalion 7
+47915|Anita|Whitfield|Technician|EMT|416|B||||Operations Bureau|Battalion 7
+50693|Minh|Nguyen|Technician|Paramedic|416|C||||Operations Bureau|Battalion 7
+50167|Nicole|Ciarrocca|Technician|Paramedic|416|C||||Operations Bureau|Battalion 7
+50906|Christopher|Lindsey|Technician|Paramedic|417|A||||Operations Bureau|Battalion 3
+47962|John|Mudge|Technician|Intermediate|417|A||||Operations Bureau|Battalion 3
+51129|Monica|Harding|Technician|Paramedic|417|B||||Operations Bureau|Battalion 3
+50796|Thomas|Sittinger|Technician|Paramedic|417|B||||Operations Bureau|Battalion 3
+50799|Eric|Hoffman|Technician|Paramedic|417|C||||Operations Bureau|Battalion 3
+50837|Gary|Defriest|Technician|Paramedic|417|C||||Operations Bureau|Battalion 3
+50850|Jonathon|Frias|Technician|Paramedic|418|A||||Operations Bureau|Battalion 4
+50447|Davin|Bridges|Technician|Paramedic|418|A||||Operations Bureau|Battalion 4
+47884|Michael|King|Technician|EMT|418|A||||Operations Bureau|Battalion 4
+50826|Andrew|Reedy|Technician|EMT|418|A||||Operations Bureau|Battalion 4
+51076|Michael|Cajayon|Technician|Paramedic|418|B||||Operations Bureau|Battalion 4
+50474|George|Carpenter|Technician|Paramedic|418|B||||Operations Bureau|Battalion 4
+47557|Daryl|Casey|Technician|EMT|418|B||||Operations Bureau|Battalion 4
+50618|Heather|Lefever|Technician|EMT|418|B||||Operations Bureau|Battalion 4
+51106|Thomas|Baldwin|Technician|Paramedic|418|C||||Operations Bureau|Battalion 4
+50966|Brooke|Robbins|Technician|Paramedic|418|C||||Operations Bureau|Battalion 4
+51034|Joshua|Wallace|Technician|Paramedic|418|C||||Operations Bureau|Battalion 4
+50609|Gustavo|Cambronero-Vargas|Technician|EMT|418|C||||Operations Bureau|Battalion 4
+47737|Kevin|Dabney|Technician|EMT|418|C||||Operations Bureau|Battalion 4
+50612|Christopher|Herbolsheimer|Technician|EMT|418|C||||Operations Bureau|Battalion 4
+50511|Jeffrey|Pfeifer|Technician|EMT|418|C||||Operations Bureau|Battalion 4
+51139|Richard|Walton|Technician|Paramedic|419|A||||Operations Bureau|Battalion 6
+50086|Gerald|Butler|Technician|EMT|419|A||||Operations Bureau|Battalion 6
+48065|Robert|Reid|Technician|EMT|419|A||||Operations Bureau|Battalion 6
+51124|Jason|Dolan|Technician|Paramedic|419|B||||Operations Bureau|Battalion 6
+50993|Jason|Peterson|Technician|Paramedic|419|B||||Operations Bureau|Battalion 6
+50886|Jason|Young|Technician|Paramedic|419|B||||Operations Bureau|Battalion 6
+50946|Alexander|Campos|Technician|EMT|419|B||||Operations Bureau|Battalion 6
+51151|William|Corcoran|Technician|Paramedic|419|C||||Operations Bureau|Battalion 6
+50798|Adam|Thomes|Technician|Paramedic|419|C||||Operations Bureau|Battalion 6
+50791|John|Wright|Technician|Paramedic|419|C||||Operations Bureau|Battalion 6
+50477|Shawn|Fisher|Technician|Paramedic|420|A||||Operations Bureau|Battalion 6
+50308|Kris|Tollok|Technician|Paramedic|420|A||||Operations Bureau|Battalion 6
+47792|Christopher|Kempton|Technician|Paramedic|420|B||||Operations Bureau|Battalion 6
+47804|Kevin|Bell|Technician|EMT|420|B||||Operations Bureau|Battalion 6
+47478|James|Hayes|Technician|EMT|420|B||||Operations Bureau|Battalion 6
+50076|Craig|White|Technician|EMT|420|B||||Operations Bureau|Battalion 6
+50742|Maxwell|Price|Technician|Paramedic|420|C||||Operations Bureau|Battalion 6
+50225|John|Smith|Technician|Paramedic|420|C||||Operations Bureau|Battalion 6
+50070|In|Hwang|Technician|EMT|420|C||||Operations Bureau|Battalion 6
+50804|Louis|Botha|Technician|Paramedic|421|A||||Operations Bureau|Battalion 3
+50948|Laura|Elliott|Technician|Paramedic|421|A||||Operations Bureau|Battalion 3
+50997|Justin|Roach|Technician|Paramedic|421|A||||Operations Bureau|Battalion 3
+50633|David|Wallis|Technician|Paramedic|421|A||||Operations Bureau|Battalion 3
+51035|Hannah|Davis|Technician|Paramedic|421|B||||Operations Bureau|Battalion 3
+50743|Eric|Provow|Technician|Paramedic|421|B||||Operations Bureau|Battalion 3
+50409|Mark|Velasco|Technician|EMT|421|B||||Operations Bureau|Battalion 3
+50617|Michael|Kovach|Technician|Paramedic|421|C||||Operations Bureau|Battalion 3
+50866|Michael|Pickering|Technician|Paramedic|421|C||||Operations Bureau|Battalion 3
+50846|Jason|Walter|Technician|Paramedic|421|C||||Operations Bureau|Battalion 3
+50715|Cory|Parry|Technician|EMT|421|C||||Operations Bureau|Battalion 3
+51038|Matthew|Arbuckle|Technician|Paramedic|422|A||||Operations Bureau|Battalion 5
+51080|Ryan|Dussia|Technician|Paramedic|422|B||||Operations Bureau|Battalion 5
+51026|Patrick|Ralph|Technician|Paramedic|422|B||||Operations Bureau|Battalion 5
+50747|Rachel|Wicker|Technician|EMT|422|B||||Operations Bureau|Battalion 5
+50746|Thomas|Wainwright|Technician|Paramedic|422|C||||Operations Bureau|Battalion 5
+50774|Brian|Passmore|Technician|EMT|422|C||||Operations Bureau|Battalion 5
+50627|Roxroy|Reid|Technician|EMT|422|C||||Operations Bureau|Battalion 5
+50868|Joshua|Simpson|Technician|Paramedic|423|A||||Operations Bureau|Battalion 4
+50959|Sung|Lee|Technician|Paramedic|423|B||||Operations Bureau|Battalion 4
+50931|Aaron|Miller|Technician|Paramedic|423|B||||Operations Bureau|Battalion 4
+51071|Danny|Lintot|Technician|Paramedic|423|C||||Operations Bureau|Battalion 4
+50769|Andres|Martinez|Technician|EMT|423|C||||Operations Bureau|Battalion 4
+51107|Rachel|Blakely|Technician|Paramedic|424|A||||Operations Bureau|Battalion 6
+50724|Dawn|Blair-Jimenez|Technician|EMT|424|A||||Operations Bureau|Battalion 6
+47668|Victoria|Callow|Technician|Intermediate|424|B||||Operations Bureau|Battalion 6
+50293|Edwin|Flores|Technician|EMT|424|B||||Operations Bureau|Battalion 6
+51089|Michael|Voigt|Technician|EMT|424|B||||Operations Bureau|Battalion 6
+51172|Jischvi|Savain|Technician|Paramedic|424|C||||Operations Bureau|Battalion 6
+50911|Eric|Schlueter|Technician|Paramedic|424|C||||Operations Bureau|Battalion 6
+50720|Nathan|White|Technician|EMT|424|C||||Operations Bureau|Battalion 6
+50811|Corey|Diamond|Technician|Paramedic|425|A||||Operations Bureau|Battalion 1
+51009|Christopher|Seaman|Technician|Paramedic|425|A||||Operations Bureau|Battalion 1
+50897|Nathan|Cheon|Technician|Paramedic|425|B||||Operations Bureau|Battalion 1
+50393|Juan|DiMartino|Technician|Intermediate|425|B||||Operations Bureau|Battalion 1
+50545|David|Prohaska|Technician|EMT|425|B||||Operations Bureau|Battalion 1
+50980|Nathaniel|Corl|Technician|Paramedic|425|C||||Operations Bureau|Battalion 1
+50880|Ryan|Legg|Technician|Paramedic|425|C||||Operations Bureau|Battalion 1
+50797|Kerri|Bouse|Technician|Paramedic|426|A||||Operations Bureau|Battalion 5
+51187|Mark|Lee|Technician|Paramedic|426|A||||Operations Bureau|Battalion 5
+50882|Oscar|Luna Tovar|Technician|Paramedic|426|A||||Operations Bureau|Battalion 5
+47400|David|Neilan|Technician|EMT|426|A||||Operations Bureau|Battalion 5
+51130|Tion|Johnson|Technician|Paramedic|426|B||||Operations Bureau|Battalion 5
+50385|Iris|Shaw|Technician|Intermediate|426|B||||Operations Bureau|Battalion 5
+50345|Dennis|Camacho|Technician|EMT|426|B||||Operations Bureau|Battalion 5
+51091|Tyler|Weaver|Technician|EMT|426|B||||Operations Bureau|Battalion 5
+50831|Jonathan|Kurzinger|Technician|Paramedic|426|C||||Operations Bureau|Battalion 5
+51163|James|Young|Technician|Paramedic|426|C||||Operations Bureau|Battalion 5
+50901|Daniel|Delboy|Technician|EMT|426|C||||Operations Bureau|Battalion 5
+50828|Eric|Edwards|Technician|Paramedic|427|A||||Operations Bureau|Battalion 5
+50271|Terrance|Ewell|Technician|Paramedic|427|B||||Operations Bureau|Battalion 5
+50908|Kevin|Nishiyama|Technician|EMT|427|B||||Operations Bureau|Battalion 5
+47910|James|Pfister|Technician|EMT|427|C||||Operations Bureau|Battalion 5
+50865|Andrew|Naughton|Technician|Paramedic|428|A||||Operations Bureau|Battalion 4
+50471|Shane|Brillhart|Technician|Paramedic|428|B||||Operations Bureau|Battalion 4
+51025|Grant|Phillips|Technician|Paramedic|428|C||||Operations Bureau|Battalion 4
+50778|Ryan|Scanlan|Technician|EMT|428|C||||Operations Bureau|Battalion 4
+51039|Howard|Capon|Technician|Paramedic|429|A||||Operations Bureau|Battalion 2
+50613|Jennifer|Hoeck|Technician|Paramedic|429|A||||Operations Bureau|Battalion 2
+50482|Jason|Kamiyama|Technician|Intermediate|429|A||||Operations Bureau|Battalion 2
+51030|Jose|Turcios|Technician|EMT|429|A||||Operations Bureau|Battalion 2
+51054|Brian|Hallahan|Technician|Paramedic|429|B||||Operations Bureau|Battalion 2
+50991|Samantha|Mills|Technician|Paramedic|429|B||||Operations Bureau|Battalion 2
+51192|Stephen|Ulrich|Technician|Paramedic|429|B||||Operations Bureau|Battalion 2
+50698|Derrick|Payne|Technician|EMT|429|B||||Operations Bureau|Battalion 2
+51135|Timothy|Moore|Technician|Paramedic|429|C||||Operations Bureau|Battalion 2
+50942|Eric|Villman|Technician|Paramedic|429|C||||Operations Bureau|Battalion 2
+50586|Carlos|Contreras|Technician|Paramedic|430|A||||Operations Bureau|Battalion 2
+50829|Jason|Kim|Technician|Paramedic|430|A||||Operations Bureau|Battalion 2
+50917|Melanie|Jenkins|Technician|Paramedic|430|B||||Operations Bureau|Battalion 2
+50957|Cory|Kwitkin|Technician|Paramedic|430|B||||Operations Bureau|Battalion 2
+50964|Brian|Pape|Technician|Paramedic|430|B||||Operations Bureau|Battalion 2
+50587|Charles|Cox|Technician|EMT|430|B||||Operations Bureau|Battalion 2
+50738|James|Moss|Technician|EMT|430|B||||Operations Bureau|Battalion 2
+50443|Benjamin|Andreson|Technician|Intermediate|430|C||||Operations Bureau|Battalion 2
+51008|Robert|Broughan|Technician|Paramedic|430|C||||Operations Bureau|Battalion 2
+50999|Angelo|Scarola|Technician|Paramedic|430|C||||Operations Bureau|Battalion 2
+51225|Joshua|Adams|Technician|Paramedic|431|A||||Operations Bureau|Battalion 1
+50792|Sean|Berg|Technician|Paramedic|431|B||||Operations Bureau|Battalion 1
+50874|Garrett|Briggs|Technician|Paramedic|431|B||||Operations Bureau|Battalion 1
+50421|Elena|Carver|Technician|Paramedic|431|C||||Operations Bureau|Battalion 1
+50898|Todd|Clist|Technician|EMT|431|C||||Operations Bureau|Battalion 1
+50963|Linda|Neimeier|Technician|Paramedic|432|A||||Operations Bureau|Battalion 7
+50972|Justin|Willis|Technician|Paramedic|432|B||||Operations Bureau|Battalion 7
+50404|Alyssa|Vance|Technician|Paramedic|432|C||||Operations Bureau|Battalion 7
+50893|Paul|Beasley|Technician|Paramedic|434|A||||Operations Bureau|Battalion 3
+50848|Seth|Bowie|Technician|Paramedic|434|A||||Operations Bureau|Battalion 3
+50984|Michael|Garcia|Technician|Paramedic|434|A||||Operations Bureau|Battalion 3
+50995|Justin|Reed|Technician|Paramedic|434|B||||Operations Bureau|Battalion 3
+50914|Adam|Wiesler|Technician|Paramedic|434|B||||Operations Bureau|Battalion 3
+50598|Eugene|Lartey|Technician|Paramedic|434|C||||Operations Bureau|Battalion 3
+50714|Iona|Nieves|Technician|Paramedic|434|C||||Operations Bureau|Battalion 3
+47973|Ronnie|Briscoe|Technician|EMT|434|C||||Operations Bureau|Battalion 3
+51027|Justin|Richardson|Technician|EMT|434|C||||Operations Bureau|Battalion 3
+50374|Vernon|Johnson|Technician|Paramedic|435|A||||Operations Bureau|Battalion 7
+50621|Ryan|McGill|Technician|Paramedic|435|A||||Operations Bureau|Battalion 7
+51230|Casey|Kipe|Technician|Paramedic|435|B||||Operations Bureau|Battalion 7
+50544|Victor|Popovich|Technician|Paramedic|435|B||||Operations Bureau|Battalion 7
+50708|Colin|Edwards|Technician|EMT|435|B||||Operations Bureau|Battalion 7
+51074|Tory|Albertson|Technician|Paramedic|435|C||||Operations Bureau|Battalion 7
+47932|Jeffrey|Seabright|Technician|EMT|435|C||||Operations Bureau|Battalion 7
+55491|Nathaniel|Moore|Technician|Paramedic|436|A||||Operations Bureau|Battalion 1
+50215|Justin|Childs|Technician|EMT|436|A||||Operations Bureau|Battalion 1
+50973|Jordan|Yost|Technician|EMT|436|A||||Operations Bureau|Battalion 1
+50860|Kirill|Bondaruk|Technician|Paramedic|436|B||||Operations Bureau|Battalion 1
+50877|Corey|Graham|Technician|Paramedic|436|B||||Operations Bureau|Battalion 1
+51084|Chuk|Li|Technician|Paramedic|436|C||||Operations Bureau|Battalion 1
+50924|Andrew|Noriega|Technician|Paramedic|436|C||||Operations Bureau|Battalion 1
+50615|Albert|Kearns|Technician|Paramedic|437|A||||Operations Bureau|Battalion 5
+50665|Brian|Snyder|Technician|Intermediate|437|A||||Operations Bureau|Battalion 5
+50386|Joseph|Vogtembing|Technician|Intermediate|437|B||||Operations Bureau|Battalion 5
+50729|Shelita|Allen|Technician|Intermediate|437|C||||Operations Bureau|Battalion 5
+50870|Rocky|Workman|Technician|Paramedic|437|C||||Operations Bureau|Battalion 5
+50788|Paul|Stella|Technician|Paramedic|438|A||||Operations Bureau|Battalion 3
+50895|Trevor|Billingsley|Technician|Paramedic|438|B||||Operations Bureau|Battalion 3
+50563|Tara|Richards|Technician|Paramedic|438|C||||Operations Bureau|Battalion 3
+47773|Hao|Sevener|Technician|EMT|438|C||||Operations Bureau|Battalion 3
+50887|Sally|Dickinson|Technician|Paramedic|439|A||||Operations Bureau|Battalion 1
+50949|Kristopher|Ganz|Technician|Paramedic|439|A||||Operations Bureau|Battalion 1
+50745|Paul|Serzan|Technician|Paramedic|439|A||||Operations Bureau|Battalion 1
+51198|Felix|Truong|Technician|Paramedic|439|A||||Operations Bureau|Battalion 1
+47950|Lloyd|Coburn|Technician|EMT|439|A||||Operations Bureau|Battalion 1
+51075|Ian|Antons|Technician|Paramedic|439|B||||Operations Bureau|Battalion 1
+50153|Susan|Tomczak|Technician|Paramedic|439|B||||Operations Bureau|Battalion 1
+50232|Trisha|Danula|Technician|EMT|439|B||||Operations Bureau|Battalion 1
+50768|Israel|Lopez-Velez|Technician|EMT|439|B||||Operations Bureau|Battalion 1
+50907|Ashlyn|Cornett|Technician|Paramedic|439|C||||Operations Bureau|Battalion 1
+51133|Ryan|Koonce|Technician|Paramedic|439|C||||Operations Bureau|Battalion 1
+50971|Paul|Wenner|Technician|Paramedic|439|C||||Operations Bureau|Battalion 1
+50646|Sergio|Cueto|Technician|EMT|439|C||||Operations Bureau|Battalion 1
+47955|Peter|Kehne|Technician|EMT|439|C||||Operations Bureau|Battalion 1
+50779|Adam|Scheetz|Technician|EMT|439|C||||Operations Bureau|Battalion 1
+50744|Tegarassen|Rungen|Technician|Paramedic|440|A||||Operations Bureau|Battalion 3
+47719|Lillie|Allen-Peyton|Technician|EMT|440|A||||Operations Bureau|Battalion 3
+50036|Scott|Fickes|Technician|EMT|440|A||||Operations Bureau|Battalion 3
+50091|Kyung|Ha|Technician|EMT|440|A||||Operations Bureau|Battalion 3
+48073|John|Woodward|Technician|EMT|440|A||||Operations Bureau|Battalion 3
+50417|Svetlana|Feofanova|Technician|Paramedic|440|B||||Operations Bureau|Battalion 3
+50983|Nathan|Gangler|Technician|Paramedic|440|B||||Operations Bureau|Battalion 3
+51214|Thomas|Walk|Technician|Paramedic|440|B||||Operations Bureau|Battalion 3
+50608|Christopher|Welch|Technician|Paramedic|440|B||||Operations Bureau|Battalion 3
+50079|Jorge|Arce|Technician|EMT|440|B||||Operations Bureau|Battalion 3
+47393|James|Franklin|Technician|EMT|440|B||||Operations Bureau|Battalion 3
+50373|Alessandra|Hurtado|Technician|EMT|440|B||||Operations Bureau|Battalion 3
+50454|Jenna|Jackson|Technician|EMT|440|B||||Operations Bureau|Battalion 3
+51131|Andrew|Johnson|Technician|Paramedic|440|C||||Operations Bureau|Battalion 3
+50575|Craig|Robertson|Technician|Paramedic|440|C||||Operations Bureau|Battalion 3
+47666|Smith|Banks|Technician|EMT|440|C||||Operations Bureau|Battalion 3
+50349|Mary|Black|Technician|EMT|440|C||||Operations Bureau|Battalion 3
+50755|Anis|Mohamed|Technician|EMT|440|C||||Operations Bureau|Battalion 3
+50864|Sage|Gummerson|Technician|Paramedic|441|A||||Operations Bureau|Battalion 7
+50299|Jason|Kelly|Technician|EMT|441|A||||Operations Bureau|Battalion 7
+47806|Dovel|Gilmore|Technician|Intermediate|441|B||||Operations Bureau|Battalion 7
+50411|Travis|Woolever|Technician|Paramedic|441|B||||Operations Bureau|Battalion 7
+47474|David|Sweetland|Technician|EMT|441|B||||Operations Bureau|Battalion 7
+50183|Ryan|Ward|Technician|EMT|441|B||||Operations Bureau|Battalion 7
+50974|Hamed|Aziz|Technician|Paramedic|441|C||||Operations Bureau|Battalion 7
+50377|Vincent|Flores|Technician|Paramedic|441|C||||Operations Bureau|Battalion 7
+51132|Gregory|Knowles|Technician|Paramedic|441|C||||Operations Bureau|Battalion 7
+50093|Eric|McLaughlin|Technician|EMT|441|C||||Operations Bureau|Battalion 7
+50280|Serge|Sagna|Technician|Paramedic|442|A||||Operations Bureau|Battalion 2
+50264|Carlton|Barnes|Technician|EMT|442|A||||Operations Bureau|Battalion 2
+47585|Jacques|Cochran|Technician|EMT|442|A||||Operations Bureau|Battalion 2
+47986|Eric|Russell|Technician|EMT|442|A||||Operations Bureau|Battalion 2
+50956|Paul|Kaulfers|Technician|Paramedic|442|B||||Operations Bureau|Battalion 2
+55480|Andrew|Rose|Technician|Paramedic|442|B||||Operations Bureau|Battalion 2
+50399|Ron|McNew|Technician|EMT|442|B||||Operations Bureau|Battalion 2
+50903|Thomas|Hill|Technician|Paramedic|442|C||||Operations Bureau|Battalion 2
+51105|Michael|Bender|Technician|Advanced EMT|442|C||||Operations Bureau|Battalion 2

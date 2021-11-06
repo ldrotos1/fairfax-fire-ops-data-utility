@@ -18,6 +18,7 @@ public class DataFileAccessHelper {
 	private static final String stationCsvFile = "data/ffx-station-data.csv";
 	private static final String apparatusTypeCsvFile = "data/ffx-apparatus-type-data.csv";
 	private static final String apparatusCsvFile = "data/ffx-apparatus-data.csv";
+	private static final String personnelsCsvFile = "data/ffx-personnel-data.csv";
 	
 	/**
 	 * Gets a input stream reader for the stations CSV file
@@ -44,6 +45,15 @@ public class DataFileAccessHelper {
 	 */
 	public InputStreamReader getApparatusFile() {
 		return getFileReader(new ClassPathResource(apparatusCsvFile));
+	} 
+	
+	/**
+	 * Gets a input stream reader for the personnel CSV file
+	 * 
+	 * @return The apparatus input stream reader
+	 */
+	public InputStreamReader getPersonnelFile() {
+		return getFileReader(new ClassPathResource(personnelsCsvFile));
 	} 
 	
 	/**

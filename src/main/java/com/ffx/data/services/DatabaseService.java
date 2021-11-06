@@ -10,6 +10,7 @@ import org.springframework.stereotype.Service;
 import com.ffx.data.models.DatabaseConnectionProps;
 import com.ffx.data.models.RawApparatusRecord;
 import com.ffx.data.models.RawApparatusTypeRecord;
+import com.ffx.data.models.RawPersonnelRecord;
 import com.ffx.data.models.RawStationRecord;
 import com.ffx.data.reader.CsvDataReader;
 import com.ffx.data.utilities.DatabaseAccessHelper;
@@ -42,6 +43,7 @@ public class DatabaseService {
 			List<RawStationRecord> stations = csvDataReader.parseStations();
 			List<RawApparatusTypeRecord> apparatusTypes = csvDataReader.parseApparatusTypes();
 			List<RawApparatusRecord> apparatus = csvDataReader.parseApparatus();
+			List<RawPersonnelRecord> personnel = csvDataReader.parsePersonnel();
 			
 			// Creates the tables
 			System.out.println("Building tables");

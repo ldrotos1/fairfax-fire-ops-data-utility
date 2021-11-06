@@ -13,7 +13,8 @@ public class DatabaseTablesSqlHelper {
 			"facility", 
 			"station", 
 			"apparatus_type",
-			"apparatus");
+			"apparatus",
+			"personnel");
 	
 	public List<String> getTables() {
 		return tables;
@@ -36,6 +37,9 @@ public class DatabaseTablesSqlHelper {
 		}
 		else if (tableName.equals("apparatus")) {
 			return getApparatusTableSql();
+		}
+		else if (tableName.equals("personnel")) {
+			return getPersonnelTableSql();
 		}
 		
 		return sql;
@@ -77,7 +81,7 @@ public class DatabaseTablesSqlHelper {
 				.concat("ON UPDATE CASCADE ")
 				.concat("ON DELETE CASCADE); ")
 				.concat("CREATE INDEX idx_facility_id ON facility(id);")
-				.concat("CREATE INDEX location_index ON facility USING GIST (location);");
+				.concat("CREATE INDEX idx_location ON facility USING GIST (location);");
 	}
 	
 	private String getAddressTableSql() {
@@ -134,5 +138,25 @@ public class DatabaseTablesSqlHelper {
 				.concat("CREATE INDEX idx_app_id ON apparatus(id); ")
 				.concat("CREATE INDEX idx_fac_id ON apparatus(facility_id); ")
 				.concat("CREATE INDEX idx_app_app_type_id ON apparatus(apparatus_type_id); ");
+	}
+	
+	private String getPersonnelTableSql() {
+		return "CREATE TABLE personnel("
+				.concat("id character varying(36) NOT NULL, ")
+				.concat("forename character varying(50), ")
+				.concat("surname character varying(50), ")
+				.concat("rank character varying(20), ")
+				.concat("medical_certification character varying(20), ")
+				.concat("shift character varying(1), ")
+				.concat("facility_id character varying(36) NOT NULL, ")
+				.concat("command_postion character varying(6), ")
+				.concat("station_leader character varying(3), ")
+				.concat("shift_leader character varying(3), ")
+				.concat("CONSTRAINT person_pkey PRIMARY KEY (id), ")
+				.concat("CONSTRAINT per_fac_fk FOREIGN KEY (facility_id) ")
+				.concat("REFERENCES facility(id) ")
+				.concat("ON DELETE NO ACTION ")
+				.concat("ON UPDATE NO ACTION); ")
+				.concat("CREATE INDEX idx_person_id ON personnel(id);");
 	}
 }

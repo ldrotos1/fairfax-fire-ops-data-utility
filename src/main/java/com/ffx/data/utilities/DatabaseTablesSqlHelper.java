@@ -5,6 +5,12 @@ import java.util.List;
 
 import org.springframework.stereotype.Component;
 
+/**
+ * Provides a set of methods for generating SQL that can
+ * be used to 
+ * 
+ * @author Louis Drotos
+ */
 @Component
 public class DatabaseTablesSqlHelper {
 	
@@ -16,10 +22,22 @@ public class DatabaseTablesSqlHelper {
 			"apparatus",
 			"personnel");
 	
+	/**
+	 * Provides a list of all database table names
+	 * 
+	 * @return The list of tables
+	 */
 	public List<String> getTables() {
 		return tables;
 	}
 
+	/**
+	 * Returns the SQL statement for creating the specified 
+	 * database table
+	 * 
+	 * @param tableName The table name
+	 * @return The SQL statement
+	 */
 	public String getTableCreateSql(String tableName) {
 		String sql = null;
 		
@@ -57,6 +75,7 @@ public class DatabaseTablesSqlHelper {
 				.concat("area_description text NOT NULL, ")
 				.concat("fire_hazard_description text NOT NULL, ")
 				.concat("non_fire_hazard_description text NOT NULL, ")
+				.concat("first_due_area geometry(Polygon, 4326), ")
 				.concat("CONSTRAINT station_pkey PRIMARY KEY (id), ")
 				.concat("CONSTRAINT fk_facility_id FOREIGN KEY (facility_id) ")
 				.concat("REFERENCES facility (id) MATCH SIMPLE ")

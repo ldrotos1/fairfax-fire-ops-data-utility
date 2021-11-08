@@ -1,5 +1,7 @@
 package com.ffx.data.models;
 
+import java.util.Optional;
+
 import lombok.Builder;
 import lombok.Getter;
 
@@ -32,6 +34,19 @@ public class RawStationRecord {
 	private String areaDescription;
 	private String fireHazardDescription;
 	private String nonFireHazardDescription;
+	private String firstDueArea;
+	
+	/**
+	 * Sets the station's first due area polygon coordinates
+	 * 
+	 * @param polygons The first due polygons
+	 */
+	public void setFirstDueArea(RawFirstDuePolygonCollection polygons) {
+		Optional<RawFirstDuePolygon> polygon = polygons.getFeatures().stream()
+				.filter(f -> stationNumber.equals(String.valueOf(f.getStation())))
+				.findFirst();
+		firstDueArea = polygon.get().getCoordinates();
+	}
 	
 	/**
 	 * Generates the insert SQL statement for the station 
@@ -42,7 +57,7 @@ public class RawStationRecord {
 	public String getStationInsertSql() {
 		return "INSERT INTO station("
 				.concat("id, facility_id, station_number, battalion, is_volunteer, fire_boxes, density, ")
-				.concat("area_description, fire_hazard_description, non_fire_hazard_description) ")
+				.concat("area_description, fire_hazard_description, non_fire_hazard_description, first_due_area) ")
 				.concat("VALUES (")
 				.concat("'" + stationId + "', ")
 				.concat("'" + facilityId + "', ")
@@ -53,7 +68,10 @@ public class RawStationRecord {
 				.concat("'" + density + "', ")
 				.concat("'" + areaDescription + "', ")
 				.concat("'" + fireHazardDescription + "', ")
-				.concat("'" + nonFireHazardDescription + "')");
+				.concat("'" + nonFireHazardDescription + "', ")
+				.concat("ST_GeomFromGeoJSON('{\"type\":\"Polygon\",\"coordinates\":[")
+				.concat(firstDueArea)
+				.concat("]}'))");
 	}
 	
 	/**

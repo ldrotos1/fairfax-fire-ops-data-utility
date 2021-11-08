@@ -18,7 +18,8 @@ public class DataFileAccessHelper {
 	private static final String stationCsvFile = "data/ffx-station-data.csv";
 	private static final String apparatusTypeCsvFile = "data/ffx-apparatus-type-data.csv";
 	private static final String apparatusCsvFile = "data/ffx-apparatus-data.csv";
-	private static final String personnelsCsvFile = "data/ffx-personnel-data.csv";
+	private static final String personnelCsvFile = "data/ffx-personnel-data.csv";
+	private static final String stationPolygonsJson = "data/ffx-station-first-due-polygons.json";
 	
 	/**
 	 * Gets a input stream reader for the stations CSV file
@@ -53,8 +54,17 @@ public class DataFileAccessHelper {
 	 * @return The apparatus input stream reader
 	 */
 	public InputStreamReader getPersonnelFile() {
-		return getFileReader(new ClassPathResource(personnelsCsvFile));
+		return getFileReader(new ClassPathResource(personnelCsvFile));
 	} 
+	
+	/**
+	 * Gets a input stream reader for the station polygon JSON file
+	 * 
+	 * @return The station polygon input stream reader
+	 */
+	public InputStreamReader getStationPolygonFile() {
+		return getFileReader(new ClassPathResource(stationPolygonsJson));	
+	}
 	
 	/**
 	 * Creates a input stream reader for the provided file resource 

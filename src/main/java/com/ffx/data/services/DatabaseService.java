@@ -10,18 +10,27 @@ import org.springframework.stereotype.Service;
 import com.ffx.data.models.DatabaseConnectionProps;
 import com.ffx.data.models.RawApparatusRecord;
 import com.ffx.data.models.RawApparatusTypeRecord;
+import com.ffx.data.models.RawFirstDuePolygonCollection;
 import com.ffx.data.models.RawPersonnelRecord;
 import com.ffx.data.models.RawStationRecord;
 import com.ffx.data.reader.CsvDataReader;
+import com.ffx.data.reader.JsonReader;
 import com.ffx.data.utilities.DatabaseAccessHelper;
 import com.ffx.data.utilities.DatabaseTablesSqlHelper;
 
-
+/**
+ * Provides a service for constructing the PostgresSQL database
+ * 
+ * @author Louis Drotos
+ */
 @Service
 public class DatabaseService {
 	
 	@Autowired
 	private CsvDataReader csvDataReader;
+	
+	@Autowired
+	private JsonReader jsonReader;
 
 	@Autowired
 	private DatabaseAccessHelper databaseAccessHelper;
@@ -45,6 +54,9 @@ public class DatabaseService {
 			List<RawApparatusRecord> apparatus = csvDataReader.parseApparatus();
 			List<RawPersonnelRecord> personnel = csvDataReader.parsePersonnel();
 			
+			// Parses Json file
+			RawFirstDuePolygonCollection polygons = jsonReader.getStationFirstDuePolygons();
+			
 			// Creates the tables
 			System.out.println("Building tables");
 			databaseTableSqlHelper.getTables().stream().forEach(table -> {
@@ -56,6 +68,7 @@ public class DatabaseService {
 			// Populates the station tables
 			System.out.println("Populating station table");
 			stations.stream().forEach(station -> {
+				station.setFirstDueArea(polygons);
 				jdbcTemplate.execute(station.getAddressInsertSql());
 				jdbcTemplate.execute(station.getFaclityInsertSql());
 				jdbcTemplate.execute(station.getStationInsertSql());

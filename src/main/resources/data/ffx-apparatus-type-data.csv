@@ -1,30 +1,30 @@
-type|category|image|max_staff|min_staff_officer|min_staff_ff|min_staff_tech|min_staff_officer|min_staff_command|paramedic_required|is_cross_staffed|vol_staffed
-Ambulance|Medical|ambulance|4|0|2|0|0|0|FALSE|FALSE|TRUE
-Ambulance Bus|Medical|ambulance_bus|5|0|0|0|0|0|FALSE|TRUE|FALSE
-Battalion Chief|Command|battalion_chief|2|0|0|0|0|1|FALSE|FALSE|FALSE
-Boat Support Unit|Marine|boat_support|2|0|0|0|0|0|FALSE|TRUE|FALSE
-Brush Unit|Support|brush|2|0|0|0|0|0|FALSE|TRUE|FALSE
-Canteen|Support|canteen|3|0|0|0|0|0|FALSE|TRUE|TRUE
-Deputy Fire Chief of Operations|Command|dfco|4|1|0|0|0|1|FALSE|FALSE|FALSE
-EMS Supervisor|Command|ems_super|2|1|0|0|1|0|TRUE|FALSE|FALSE
-Engine|Suppression|engine|6|1|3|0|1|0|TRUE|FALSE|FALSE
-Fire Boat|Marine|boat|4|0|0|0|1|0|FALSE|TRUE|FALSE
-Fire Marshals Lab Unit|Support|lab|4|0|0|0|1|0|FALSE|TRUE|FALSE
-Foam Unit|Suppression|foam|6|0|0|0|1|0|FALSE|TRUE|FALSE
-Hazmat|Hazmat|hazmat|8|1|0|3|1|0|TRUE|FALSE|FALSE
-Hazmat Support|Hazmat|hazmat_support|8|0|0|2|0|0|FALSE|FALSE|FALSE
-Incident Command Support|Command|ics|3|1|0|0|1|0|FALSE|FALSE|FALSE
-Inflatable Boat|Marine|inf_boat|4|0|0|0|0|0|FALSE|TRUE|FALSE
-Light and Air Unit|Support|light_air|2|0|0|0|0|0|FALSE|TRUE|FALSE
-Medic|Medical|medic|4|0|2|0|0|0|TRUE|FALSE|FALSE
-Medical Care Unit|Medical|mcu|2|0|0|0|0|0|FALSE|TRUE|FALSE
-Mobile Command Post|Command|command_post|4|0|0|0|0|0|FALSE|TRUE|FALSE
-Rehabilitation|Support|rehab|4|0|0|0|0|0|FALSE|TRUE|FALSE
-Rescue|Rescue|rescue|8|1|0|3|1|0|TRUE|FALSE|FALSE
-Safety Officer|Command|safety|2|1|0|0|1|0|FALSE|FALSE|FALSE
-Special Hazards Unit|Hazmat|shu|2|0|0|0|0|0|FALSE|TRUE|FALSE
-Tanker|Suppression|tanker|2|0|1|0|0|0|FALSE|FALSE|FALSE
-Technical Rescue Support|Rescue|trs|2|0|0|0|0|0|FALSE|TRUE|FALSE
-Truck|Suppression|truck|6|1|3|0|0|0|TRUE|FALSE|FALSE
-Utility|Support|utility|2|0|0|0|0|0|FALSE|TRUE|TRUE
-Volunteer Chief|Command|vol_chief|2|0|0|0|0|1|FALSE|FALSE|TRUE
+type|category|image|max_staff|min_staff_ff|min_staff_tech|min_staff_officer|min_staff_command|paramedic_required|is_cross_staffed|vol_staffed
+Ambulance|Medical|ambulance|4|2|0|0|0|FALSE|FALSE|TRUE
+Ambulance Bus|Medical|ambulance_bus|5|0|0|0|0|FALSE|TRUE|FALSE
+Battalion Chief|Command|battalion_chief|2|0|0|0|1|FALSE|FALSE|FALSE
+Boat Support Unit|Marine|boat_support|2|0|0|0|0|FALSE|TRUE|FALSE
+Brush Unit|Support|brush|2|0|0|0|0|FALSE|TRUE|FALSE
+Canteen|Support|canteen|3|0|0|0|0|FALSE|TRUE|TRUE
+Deputy Fire Chief of Operations|Command|dfco|4|0|0|0|1|FALSE|FALSE|FALSE
+EMS Supervisor|Command|ems_super|2|0|0|1|0|TRUE|FALSE|FALSE
+Engine|Suppression|engine|6|3|0|1|0|TRUE|FALSE|FALSE
+Fire Boat|Marine|boat|4|0|0|1|0|FALSE|TRUE|FALSE
+Fire Marshals Lab Unit|Support|lab|4|0|0|1|0|FALSE|TRUE|FALSE
+Foam Unit|Suppression|foam|6|0|0|1|0|FALSE|TRUE|FALSE
+Hazmat|Hazmat|hazmat|8|0|3|1|0|TRUE|FALSE|FALSE
+Hazmat Support|Hazmat|hazmat_support|8|0|2|0|0|FALSE|FALSE|FALSE
+Incident Command Support|Command|ics|3|0|0|1|0|FALSE|FALSE|FALSE
+Inflatable Boat|Marine|inf_boat|4|0|0|0|0|FALSE|TRUE|FALSE
+Light and Air Unit|Support|light_air|2|0|0|0|0|FALSE|TRUE|FALSE
+Medic|Medical|medic|4|2|0|0|0|TRUE|FALSE|FALSE
+Medical Care Unit|Medical|mcu|2|0|0|0|0|FALSE|TRUE|FALSE
+Mobile Command Post|Command|command_post|4|0|0|0|0|FALSE|TRUE|FALSE
+Rehabilitation|Support|rehab|4|0|0|0|0|FALSE|TRUE|FALSE
+Rescue|Rescue|rescue|8|0|3|1|0|TRUE|FALSE|FALSE
+Safety Officer|Command|safety|2|0|0|1|0|FALSE|FALSE|FALSE
+Special Hazards Unit|Hazmat|shu|2|0|0|0|0|FALSE|TRUE|FALSE
+Tanker|Suppression|tanker|2|1|0|0|0|FALSE|FALSE|FALSE
+Technical Rescue Support|Rescue|trs|2|0|0|0|0|FALSE|TRUE|FALSE
+Truck|Suppression|truck|6|3|0|0|0|TRUE|FALSE|FALSE
+Utility|Support|utility|2|0|0|0|0|FALSE|TRUE|TRUE
+Volunteer Chief|Command|vol_chief|2|0|0|0|1|FALSE|FALSE|TRUE

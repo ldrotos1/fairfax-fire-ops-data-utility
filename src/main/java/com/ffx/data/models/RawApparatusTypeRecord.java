@@ -17,7 +17,6 @@ public class RawApparatusTypeRecord {
 	private String apparatusTypeCategory;
 	private String apparatusTypeImage;
 	private int maxStaffCount;
-	private int minStaffCount;
 	private int minFireFighterStaffCount;
 	private int minTechStaffCount;
 	private int minOfficerStaffCount;
@@ -43,7 +42,6 @@ public class RawApparatusTypeRecord {
 				.concat("'" + apparatusTypeCategory + "', ")
 				.concat("'" + apparatusTypeImage + "', ")
 				.concat("'" + maxStaffCount + "', ")
-				.concat("'" + minStaffCount + "', ")
 				.concat("'" + minFireFighterStaffCount + "', ")
 				.concat("'" + minTechStaffCount + "', ")
 				.concat("'" + minOfficerStaffCount + "', ")

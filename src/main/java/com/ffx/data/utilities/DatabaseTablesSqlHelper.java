@@ -121,7 +121,6 @@ public class DatabaseTablesSqlHelper {
 				.concat("type_category character varying(50), ")
 				.concat("type_image character varying(50), ")
 				.concat("max_staff_count int , ")
-				.concat("min_staff_count int, ")
 				.concat("min_ff_staff_count int, ")
 				.concat("min_tech_staff_count int, ")
 				.concat("min_officer_staff_count int, ")

@@ -84,14 +84,13 @@ public class CsvDataReader {
 					.apparatusTypeCategory(appType.get(1))
 					.apparatusTypeImage(appType.get(2))
 					.maxStaffCount(Integer.parseInt(appType.get(3)))
-					.minStaffCount(Integer.parseInt(appType.get(4)))
-					.minFireFighterStaffCount(Integer.parseInt(appType.get(5)))
-					.minTechStaffCount(Integer.parseInt(appType.get(6)))
-					.minOfficerStaffCount(Integer.parseInt(appType.get(7)))
-					.minCommanderStaffCount(Integer.parseInt(appType.get(8)))
-					.isParamedicRequired(Boolean.parseBoolean(appType.get(9)))
-					.isCrossStaffed(Boolean.parseBoolean(appType.get(10)))
-					.isVolunteerStaffed(Boolean.parseBoolean(appType.get(11)))
+					.minFireFighterStaffCount(Integer.parseInt(appType.get(4)))
+					.minTechStaffCount(Integer.parseInt(appType.get(5)))
+					.minOfficerStaffCount(Integer.parseInt(appType.get(6)))
+					.minCommanderStaffCount(Integer.parseInt(appType.get(7)))
+					.isParamedicRequired(Boolean.parseBoolean(appType.get(8)))
+					.isCrossStaffed(Boolean.parseBoolean(appType.get(9)))
+					.isVolunteerStaffed(Boolean.parseBoolean(appType.get(10)))
 					.build());
 		});
 		return apparatusTypeEntities;
@@ -145,9 +144,9 @@ public class CsvDataReader {
 					.medCert(person.get(4))
 					.stationNumber(person.get(5))
 					.shift(person.get(6))
-					.commandPosition(person.get(7))
-					.stationLeader(person.get(8))
-					.shiftLeader(person.get(9))
+					.commandPosition(person.get(7).isEmpty() ? null : person.get(7))
+					.stationLeader(person.get(8).isEmpty() ? null : person.get(8))
+					.shiftLeader(person.get(9).isEmpty() ? null : person.get(9))
 					.build());
 		});
 		return personEntities;

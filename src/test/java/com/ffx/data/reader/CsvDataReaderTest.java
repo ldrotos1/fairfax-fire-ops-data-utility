@@ -8,6 +8,9 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import com.ffx.data.models.RawApparatusRecord;
+import com.ffx.data.models.RawApparatusTypeRecord;
+import com.ffx.data.models.RawPersonnelRecord;
 import com.ffx.data.models.RawStationRecord;
 
 @SpringBootTest
@@ -40,7 +43,7 @@ class CsvDataReaderTest {
 	}
 	
 	@Test
-	public void parserStationsContentTest() {
+	public void parseStationsContentTest() {
 		List<RawStationRecord> stations = csvDataReader.parseStations();
 		RawStationRecord station = stations.get(0);
 		assertNotNull(station.getStationId());
@@ -58,21 +61,60 @@ class CsvDataReaderTest {
 		assertEquals("22101", station.getZipCode());
 		assertEquals("703-356-6671", station.getPhoneNumber());
 		assertEquals("21", station.getFireBoxes());
-		assertEquals(true, station.isVolunteer());
+		assertTrue(station.isVolunteer());
 		assertEquals("Suburban", station.getDensity());
 		assertEquals(areaDescription, station.getAreaDescription());
 		assertEquals(fireHazardDescription, station.getFireHazardDescription());
 		assertEquals(nonFireHazardDescription, station.getNonFireHazardDescription());
-		assertNotNull(station.getStationInsertSql());
-		assertNotNull(station.getFaclityInsertSql());
-		assertNotNull(station.getAddressInsertSql());
+	}
+	
+	@Test
+	public void parseApparatusTypesTest() {
+		List<RawApparatusTypeRecord> apparatusTypes = csvDataReader.parseApparatusTypes();
+		RawApparatusTypeRecord apparatusType = apparatusTypes.get(8);
+		assertNotNull(apparatusType.getApparatusTypeId());
+		assertEquals("Engine", apparatusType.getApparatusTypeName());
+		assertEquals("Suppression", apparatusType.getApparatusTypeCategory());
+		assertEquals("engine", apparatusType.getApparatusTypeImage());
+		assertEquals("engine", apparatusType.getApparatusTypeImage());
+		assertEquals(6, apparatusType.getMaxStaffCount());
+		assertEquals(3, apparatusType.getMinFireFighterStaffCount());
+		assertEquals(0, apparatusType.getMinTechStaffCount());
+		assertEquals(1, apparatusType.getMinOfficerStaffCount());
+		assertEquals(0, apparatusType.getMinCommanderStaffCount());
+		assertTrue(apparatusType.isParamedicRequired());
+		assertFalse(apparatusType.isCrossStaffed());
+		assertFalse(apparatusType.isVolunteerStaffed());
+	}
+	
+	@Test
+	public void parseApparatusTest() {
+		List<RawApparatusRecord> apparatusList = csvDataReader.parseApparatus();
+		RawApparatusRecord apparatus = apparatusList.get(0);
+		assertNotNull(apparatus.getApparatusId());
+		assertEquals("410", apparatus.getStationNumber());
+		assertEquals("Fairfax County Fire and Rescue Department", apparatus.getDepartmentName());
+		assertEquals("A410", apparatus.getUnitDesignator());
+		assertEquals("Ambulance", apparatus.getApparatusTypeName());
+		assertNull(apparatus.getRescueType());
+		assertNull(apparatus.getTruckType());
+		assertFalse(apparatus.isHasFoamCell());
+		assertFalse(apparatus.isInService());
+		assertTrue(apparatus.isReserved());
+	}
+	
+	@Test
+	public void parsePersonnelTest() {
+		List<RawPersonnelRecord> personnel = csvDataReader.parsePersonnel();
+		RawPersonnelRecord person = personnel.get(0);
+		assertNotNull(person.getPersonId());
+		assertEquals("Kenny", person.getForename());
+		assertEquals("Wolfrey", person.getSurname());
+		assertEquals("Battalion Chief", person.getRank());
+		assertEquals("Paramedic", person.getMedCert());
+		assertEquals("408", person.getStationNumber());
+		assertEquals("BC404", person.getCommandPosition());
+		assertNull(person.getShiftLeader());
+		assertNull(person.getStationLeader());
 	}
 }
-
-
-
-
-
-
-
-

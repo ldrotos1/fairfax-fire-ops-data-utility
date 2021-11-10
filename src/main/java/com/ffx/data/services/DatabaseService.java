@@ -14,7 +14,7 @@ import com.ffx.data.models.RawFirstDuePolygonCollection;
 import com.ffx.data.models.RawPersonnelRecord;
 import com.ffx.data.models.RawStationRecord;
 import com.ffx.data.reader.CsvDataReader;
-import com.ffx.data.reader.JsonReader;
+import com.ffx.data.reader.JsonDataReader;
 import com.ffx.data.utilities.DatabaseAccessHelper;
 import com.ffx.data.utilities.DatabaseTablesSqlHelper;
 
@@ -30,7 +30,7 @@ public class DatabaseService {
 	private CsvDataReader csvDataReader;
 	
 	@Autowired
-	private JsonReader jsonReader;
+	private JsonDataReader jsonDataReader;
 
 	@Autowired
 	private DatabaseAccessHelper databaseAccessHelper;
@@ -55,7 +55,7 @@ public class DatabaseService {
 			List<RawPersonnelRecord> personnel = csvDataReader.parsePersonnel();
 			
 			// Parses Json file
-			RawFirstDuePolygonCollection polygons = jsonReader.getStationFirstDuePolygons();
+			RawFirstDuePolygonCollection polygons = jsonDataReader.getStationFirstDuePolygons();
 			
 			// Creates the tables
 			System.out.println("Building tables");

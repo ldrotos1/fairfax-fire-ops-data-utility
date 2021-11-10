@@ -13,7 +13,7 @@ import com.ffx.data.utilities.DataFileAccessHelper;
  * @author Louis Drotos
  */
 @Component
-public class JsonReader {
+public class JsonDataReader {
 
 	@Autowired
 	private DataFileAccessHelper dataFileAccessHelp;

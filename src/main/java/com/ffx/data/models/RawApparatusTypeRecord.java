@@ -33,8 +33,8 @@ public class RawApparatusTypeRecord {
 	 */
 	public String getAppTypeInsertSql() {
 		return "INSERT INTO apparatus_type("
-				.concat("id, type_name, type_category, type_image, max_staff_count, min_staff_count, min_ff_staff_count, ")
-				.concat("min_tech_staff_count, min_officer_staff_count, min_command_staff_count, is_paramedic_required, ")
+				.concat("id, type_name, type_category, type_image, max_staff_count, min_ff_staff_count, min_tech_staff_count, ")
+				.concat("min_officer_staff_count, min_command_staff_count, is_paramedic_required, ")
 				.concat("is_cross_staffed, is_volunteer_staffed)")
 				.concat("VALUES (")
 				.concat("'" + apparatusTypeId + "', ")

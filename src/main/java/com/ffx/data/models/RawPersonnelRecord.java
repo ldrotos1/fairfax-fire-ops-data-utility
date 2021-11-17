@@ -35,7 +35,7 @@ public class RawPersonnelRecord {
 	 */
 	public String getPersonInsertSql() {
 		return "INSERT INTO personnel("
-				.concat("id, forename, surname, rank, medical_certification, facility_id, shift, command_postion, station_leader, shift_leader) ")
+				.concat("id, forename, surname, rank, medical_certification, facility_id, shift, command_position, station_leader, shift_leader) ")
 				.concat("VALUES (")
 				.concat("'" + personId + "', ")
 				.concat("'" + forename + "', ")

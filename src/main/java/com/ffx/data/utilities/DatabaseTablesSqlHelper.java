@@ -167,7 +167,7 @@ public class DatabaseTablesSqlHelper {
 				.concat("medical_certification character varying(20), ")
 				.concat("shift character varying(1), ")
 				.concat("facility_id character varying(36) NOT NULL, ")
-				.concat("command_postion character varying(6), ")
+				.concat("command_position character varying(6), ")
 				.concat("station_leader character varying(4), ")
 				.concat("shift_leader character varying(4), ")
 				.concat("CONSTRAINT person_pkey PRIMARY KEY (id), ")

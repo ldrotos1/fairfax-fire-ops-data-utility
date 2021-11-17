@@ -3,6 +3,8 @@ package com.ffx.data.models;
 import java.util.List;
 import java.util.Optional;
 
+import com.ffx.data.utilities.SqlHelper;
+
 import lombok.Builder;
 import lombok.Getter;
 
@@ -44,8 +46,8 @@ public class RawApparatusRecord {
 				.concat("'" + apparatusTypeId + "', ")
 				.concat("'" + unitDesignator + "', ")
 				.concat("'" + departmentName + "', ")
-				.concat("'" + truckType + "', ")
-				.concat("'" + rescueType + "', ")
+				.concat(SqlHelper.createColumnInsertValue(truckType) + ", ")
+				.concat(SqlHelper.createColumnInsertValue(rescueType) + ", ")
 				.concat("'" + hasFoamCell + "', ")
 				.concat("'" + isReserved + "', ")
 				.concat("'" + inService + "') ");

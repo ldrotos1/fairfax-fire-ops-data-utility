@@ -3,6 +3,8 @@ package com.ffx.data.models;
 import java.util.List;
 import java.util.Optional;
 
+import com.ffx.data.utilities.SqlHelper;
+
 import lombok.Builder;
 import lombok.Getter;
 
@@ -44,9 +46,9 @@ public class RawPersonnelRecord {
 				.concat("'" + medCert + "', ")
 				.concat("'" + facilityId + "', ")
 				.concat("'" + shift + "', ")
-				.concat("'" + commandPosition + "', ")
-				.concat("'" + stationLeader + "', ")
-				.concat("'" + shiftLeader + "') ");
+				.concat(SqlHelper.createColumnInsertValue(commandPosition) + ", ")
+				.concat(SqlHelper.createColumnInsertValue(stationLeader) + ", ")
+				.concat(SqlHelper.createColumnInsertValue(shiftLeader) + ") ");
 	}
 	
 	/**

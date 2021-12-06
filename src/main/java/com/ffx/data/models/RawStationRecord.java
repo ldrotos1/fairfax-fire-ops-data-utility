@@ -20,6 +20,9 @@ public class RawStationRecord {
 	private String stationNumber;
 	private String departmentName;
 	private String battalion;
+	private boolean battalionHq;
+	private boolean emsHq;
+	private boolean opsHq;
 	private String latitude;
 	private String longitude;
 	private String stationName;
@@ -56,13 +59,16 @@ public class RawStationRecord {
 	 */
 	public String getStationInsertSql() {
 		return "INSERT INTO station("
-				.concat("id, facility_id, station_number, battalion, is_volunteer, fire_boxes, density, ")
-				.concat("area_description, fire_hazard_description, non_fire_hazard_description, first_due_area) ")
+				.concat("id, facility_id, station_number, battalion, is_battalion_hq, is_ems_hq, ops_hq, is_volunteer, fire_boxes, ")
+				.concat("density, area_description, fire_hazard_description, non_fire_hazard_description, first_due_area) ")
 				.concat("VALUES (")
 				.concat("'" + stationId + "', ")
 				.concat("'" + facilityId + "', ")
 				.concat("'" + stationNumber + "', ")
 				.concat("'" + battalion + "', ")
+				.concat("'" + battalionHq + "', ")
+				.concat("'" + emsHq + "', ")
+				.concat("'" + opsHq + "', ")
 				.concat("'" + volunteer + "', ")
 				.concat("'" + fireBoxes + "', ")
 				.concat("'" + density + "', ")

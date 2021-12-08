@@ -71,7 +71,7 @@ public class DatabaseTablesSqlHelper {
 				.concat("battalion character varying(3), ")
 				.concat("is_battalion_hq boolean NOT NULL, ")
 				.concat("is_ems_hq boolean NOT NULL, ")
-				.concat("ops_hq boolean NOT NULL, ")
+				.concat("is_ops_hq boolean NOT NULL, ")
 				.concat("is_volunteer boolean NOT NULL, ")
 				.concat("fire_boxes character varying(3) NOT NULL, ")
 				.concat("density character varying(15) NOT NULL, ")
